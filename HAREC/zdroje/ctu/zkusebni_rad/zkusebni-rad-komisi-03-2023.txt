@@ -1,0 +1,499 @@
+Český telekomunikační úřad                                   Čj. ČTÚ- 8 805/2023-613
+
+
+
+
+                                    ZKUŠEBNÍ ŘÁD
+                           Českého telekomunikačního úřadu,
+
+                   kterým se stanoví postup při provádění zkoušek
+      k prokázání odborné způsobilosti k obsluze vysílacích rádiových zařízení,
+            při prodlužování doby platnosti průkazů odborné způsobilosti
+                        a při vydání duplikátů těchto průkazů
+
+
+                                       ČÁST PRVNÍ
+
+                                  ÚVODNÍ USTANOVENÍ
+
+                                         Článek 1
+       (1)     Tento Zkušební řád stanovuje postup při organizaci a provádění zkoušek
+k prokázání odborné způsobilosti uchazečů o průkaz odborné způsobilosti (dále jen „zkouška“)
+zkušebními komisemi Českého telekomunikačního úřadu (dále jen „zkušební komise“) a dále
+pak postup při prodlužování platnosti průkazů a vydávání duplikátů těchto průkazů.
+
+        (2)   Zkušební řád dále upravuje zřízení, druhy a činnost zkušebních komisí,
+a to zejména postavení jednotlivých členů zkušebních komisí a jejich povinnosti.
+
+        (3)    Zkušební řád je vydáván v souladu s ustanoveními zákona č. 127/2005 Sb.,
+o elektronických komunikacích a o změně některých souvisejících zákonů (zákon
+o elektronických komunikacích), ve znění pozdějších předpisů a vyhlášky č. 157/2005 Sb.,
+o náležitostech přihlášky ke zkoušce k prokázání odborné způsobilosti k obsluze vysílacích
+rádiových zařízení, o rozsahu znalostí potřebných pro jednotlivé druhy odborné způsobilosti,
+o způsobu provádění zkoušek, o druzích průkazů odborné způsobilosti a době jejich platnosti,
+ve znění vyhlášky č. 120/2019 (dále jen „vyhláška“).
+
+
+                                      ČÁST DRUHÁ
+
+                  ZKUŠEBNÍ KOMISE A PŮSOBNOST JEJICH ČLENŮ
+
+                                        Článek 2
+                     Zřizování, druhy a činnost zkušebních komisí
+       (1)     Předmětem činnosti zkušebních komisí je ověřování odborné způsobilosti
+k obsluze vysílacích rádiových zařízení příslušných radiokomunikačních služeb podle předem
+stanovených podmínek formou zkoušek, vyhodnocení výsledků zkoušek a vydání příslušného
+druhu průkazu odborné způsobilosti (dále jen „průkaz“) uchazečům, kteří úspěšně vykonali
+danou zkoušku.
+
+      (2)    Český telekomunikační úřad (dále jen „Úřad“) zřizuje jako pracovní orgány
+Úřadu následující zkušební komise:
+
+          a) se sídlem v Praze:
+
+
+
+                                             1
+          1. jednu zkušební komisi pro ověřování odborné způsobilosti k obsluze stanic
+             letecké pohyblivé služby k získání:
+             -   všeobecného průkazu radiotelefonisty letecké pohyblivé služby (VFL),
+
+          2. jednu zkušební komisi pro ověřování odborné způsobilosti k obsluze stanic
+             námořní pohyblivé služby k získání:
+             -   všeobecného průkazu operátora námořní pohyblivé služby (GOC),
+             -   omezeného průkazu operátora námořní pohyblivé služby (ROC),
+             -   všeobecného průkazu radiotelefonisty námořní pohyblivé služby (VFN),
+             -   omezeného průkazu radiotelefonisty námořní pohyblivé služby (OFP),
+             -   průkazu operátora námořní dálkové plavby (LRC),
+             -   průkazu operátora námořní příbřežní plavby (SRC),
+             -   průkazu pozemního radiotelegrafisty (TEL).
+             -   omezeného průkazu radiotelefonisty vnitrozemské vodní plavby (OFV)
+          3. jednu zkušební komisi pro ověřování odborné způsobilosti k obsluze stanic
+             letecké pohyblivé služby k získání:
+             -   omezeného průkazu radiotelefonisty letecké pohyblivé služby (OFL),
+          4. jednu zkušební komisi pro ověřování odborné způsobilosti k obsluze stanic
+             amatérské radiokomunikační služby k získání:
+             -   průkazu operátora třídy A (HAREC) nebo třídy N (NOVICE) amatérské
+                 radiokomunikační služby a průkazu pozemního radiotelegrafisty,
+
+          b) se sídlem v Ostravě:
+             jednu zkušební komisi pro ověřování odborné způsobilosti k obsluze stanic
+          letecké pohyblivé služby k získání:
+             -   omezeného průkazu radiotelefonisty letecké pohyblivé služby (OFL).
+
+                                        Článek 3
+                               Složení zkušebních komisí
+       (1)   Zkušební komise jsou minimálně tříčlenné. Jejími členy jsou předseda,
+místopředseda, tajemník a případně další členové (dále jen „zkušební komisaři“). Všechny
+členy zkušebních komisí jmenuje a odvolává předseda Rady Úřadu.
+
+       (2)     Členství ve zkušebních komisích je nezastupitelné. V rámci zajištění
+zastupitelnosti může být pro jednu zkušební komisi jmenován více než jeden zkušební
+komisař, více než jeden místopředseda a více než jeden tajemník.
+
+                                       Článek 4
+                               Předseda zkušební komise
+       Předseda zkušební komise (dále jen „předseda“) připravuje zkušební testy, schvaluje
+termíny zkoušek a dohlíží na průběh zkoušek, vyhodnocování jejich výsledků a dodržování
+příslušných právních předpisů. Dále předseda
+      a) ve spolupráci s tajemníkem zkušební komise stanovuje počty uchazečů, kteří
+budou pozváni k vykonání zkoušky,
+
+      b) před zahájením zkoušky seznamuje uchazeče s průběhem zkoušky, včetně
+způsobu hodnocení výsledků zkoušky a dále též seznamuje uchazeče s příslušnými
+zkušebními komisaři,
+
+
+
+                                            2
+       c) podepisuje oznámení o vyhlášení termínu zkoušek, korespondenci týkající
+se zkušební komise, zkušební protokoly; kontroluje a podepisuje vydávané průkazy,
+
+       d) zpracovává náměty a připomínky uchazečů o průkaz,
+
+       e) potvrzuje platnost průkazu s mezinárodní účinností.
+
+                                          Článek 5
+                               Místopředseda zkušební komise
+       Místopředseda zkušební komise (dále jen „místopředseda“) zastupuje jejího předsedu
+u zkoušek v jeho nepřítomnosti a vykonává jeho činnosti popsané v článku 4. V případě
+nepřítomnosti místopředsedy může být zastupování provedeno předsedou jiné zkušební
+komise podle čl. 2 odst. 2.
+
+
+                                          Článek 6
+                                  Tajemník zkušební komise
+      (1)    Tajemník zkušební komise (dále jen „tajemník“) vede agendu zkušební komise,
+podává uchazečům informace o zkouškách a podle pokynů předsedy vyřizuje korespondenci
+zkušební komise. Dále tajemník
+
+       a) konzultuje s předsedou počty uchazečů o vykonání zkoušky, kteří mají být pozváni
+          ke zkoušce, a uchazečům zasílá pozvání ke zkoušce,
+
+       b) vydává průkazy, vede a udržuje databázi vydaných průkazů,
+
+       c) před zkouškou ověřuje totožnost uchazečů a kontroluje doklady stanovené
+          v § 3 vyhlášky,
+
+       d) zajišťuje prodlužování doby platnosti průkazů,
+
+       e) vydává duplikáty vydaných průkazů,
+
+       f)    na základě požadavku mezinárodních institucí zasílá potvrzení o platnosti průkazů
+             s mezinárodní účinností,
+
+       g) podepisuje písemné výzvy a procesní rozhodnutí podle článku 9 odst. 5, 6 a 7
+          Zkušebního řádu.
+
+       (2)      Činnost tajemníka může vykonávat také předseda nebo místopředseda.
+
+                                          Článek 7
+                                      Zkušební komisaři
+      Zkušební komisaři provádějí vyhodnocování příslušných zkušebních testů z daného
+předmětu v písemné části zkoušky a podle své odbornosti také provádějí a vyhodnocují ústní
+nebo praktickou část zkoušky.
+
+
+                                         ČÁST TŘETÍ
+
+                                   PROVÁDĚNÍ ZKOUŠEK
+
+
+
+
+                                               3
+                                                   Článek 8
+                                            Oznámení termínu zkoušek
+       Tajemník zajistí minimálně 30 dnů před konáním zkoušek zveřejnění oznámení
+o konání zkoušek na webových stránkách Úřadu. Toto oznámení musí obsahovat údaje podle
+§ 5 odst. 6 vyhlášky.
+
+                                                      Článek 9
+                                                Přihláška ke zkoušce
+       (1)   Uchazeč žádá o vykonání zkoušky zasláním řádně vyplněné přihlášky
+ke zkoušce (dále jen „přihláška“) Úřadu.
+
+          (2)       Přihláška se podává nejpozději 20 dní před plánovaným termínem zkoušky.
+
+        (3)    Přihláška se podává Úřadu písemně se všemi náležitostmi podle § 3 vyhlášky.
+Vzor přihlášky obsahující všechny náležitosti je uveden na doporučeném formuláři. V případě
+zjištění nedostatků v přihlášce tajemník kontaktuje uchazeče za účelem doplnění přihlášky.
+
+        (4)     Před zasláním pozvánky ke zkoušce uchazeči tajemník zkontroluje všechny
+náležitosti přihlášky, včetně úhrady správního poplatku za podání žádosti o vykonání zkoušky
+a připojení jedné fotografie v provedení podle zvláštního právního předpisu1, vyjma průkazů
+pro obsluhu radioamatérských stanic, kdy se fotografie nepožaduje.
+
+      (5)    Uchazeč o zkoušku je podle pořadí došlých přihlášek písemně vyzván k jejímu
+vykonání s uvedením data, času, doby trvání a místa zkoušky, a to nejméně 14 dnů přede
+dnem jejího konání. V každém případě musí být uchazeč vyzván k vykonání zkoušky
+do 3 měsíců ode dne, kdy byla jeho řádná přihláška doručena Úřadu.
+
+       (6)     Uchazeče, který byl pozván k vykonání zkoušky a který se předem řádně
+omluvil, tajemník znovu pozve k vykonání zkoušky v dalším volném termínu, nejpozději však
+do 3 měsíců od dne, kdy byla omluva oznámena Úřadu. Po třetí omluvě je uchazeč vyřazen
+z evidence uchazečů. Úřad následně rozhodne o zamítnutí žádosti o vykonání zkoušky.
+
+       (7)   Uchazeče, který se ke zkoušce nedostavil a řádně neomluvil, tajemník znovu
+pozve k vykonání zkoušky do 3 měsíců ode dne konání zkoušky. Pokud se uchazeč nedostaví
+ke zkoušce bez omluvy ani podruhé, bude vyřazen z evidence uchazečů. Úřad následně
+rozhodne o zamítnutí žádosti o vykonání zkoušky.
+
+        (8)     Přihlásí-li se ke zkoušce uchazeč, který v den konání zkoušky nedosáhne věku
+18 let, doloží k přihlášce písemný souhlas svých zákonných zástupců s vykonáním zkoušky a
+vydáním příslušného průkazu.
+
+                                                 Článek 10
+                                       Rozsah zkoušek a časový průběh
+       (1)    Zkušební komise po uchazeči při zkoušce požaduje, aby prokázal z jednotlivých
+zkušebních předmětů znalosti a schopnosti předepsané zkušebními osnovami pro příslušný
+druh zkoušky.
+
+        (2)     Informace o tom, jak získat příslušný průkaz odborné způsobilosti, jak
+se přihlásit ke zkoušce, zkušební otázky včetně správných odpovědí a osnov ústních zkoušek
+a také informace, jak prodloužit dobu platnosti průkazů včetně příslušných formulářů lze získat
+
+
+1 Viz např. https://www.mvcr.cz/clanek/fotografie.aspx.
+
+
+
+
+                                                          4
+na webových stránkách Úřadu, v sekci Získání průkazu odborné způsobilosti na základě
+zkoušky.
+
+      (3)     Časový průběh konání zkoušek pro jednotlivé druhy průkazů odborné
+způsobilosti k obsluze vysílacích rádiových zařízení stanoví před začátkem zkoušky
+předsedové příslušných zkušebních komisí s přihlédnutím k počtu přítomných uchazečů
+a požadovaným druhům průkazů.
+
+                                      Článek 11
+                               Způsob provádění zkoušek
+      (1)    Pozvaný uchazeč se na zkoušku dostaví v oznámeném termínu. Dostaví-li
+se uchazeč na zkoušku pozdě, nejpozději však do 15 minut od jejího zahájení, předseda podle
+povahy případu individuálně rozhodne, zda takový uchazeč bude ke zkoušce připuštěn.
+
+       (2)    Po příchodu uchazečů před vykonáním zkoušky je ověřena jejich totožnost
+a zkontrolovány doklady stanovené v § 3 odst. 2 vyhlášky.
+
+      (3)     Před zahájením zkoušky seznámí předseda uchazeče se způsobem provedení
+zkoušky, včetně způsobu hodnocení výsledků písemné nebo ústní části zkoušky a oznámí
+uchazečům složení příslušné zkušební komise. Po zahájení zkoušky jsou rozdány uchazečům
+zkušební testy.
+
+        (4)   Zkouška je vždy písemná, pouze v případech stanovených v § 4 odst. 3
+vyhlášky po písemné části následuje i zkouška ústní nebo praktická. Písemná část
+se uskutečňuje formou testů z jednotlivých zkušebních předmětů. Otázky včetně správných
+odpovědí jsou pro jednotlivé průkazy zveřejněny na webových stránkách Úřadu v záložce
+Druhy průkazů. Nesprávné verze odpovědí se nezveřejňují. Ústní zkouška se provádí ústním
+pohovorem uchazeče se zkušebním komisařem. Tematické okruhy ústní zkoušky jsou pro
+jednotlivé průkazy zveřejněny na webových stránkách Úřadu v záložce Druhy průkazů.
+Praktická zkouška se uskutečňuje splněním limitů stanovených v části C Osnov ústní zkoušky.
+
+       (5)   Písemnou zkoušku zpracovávají pod dohledem předsedy nebo zkušebního
+komisaře současně všichni uchazeči.
+
+       (6)    Písemný test je tvořen otázkami ze tří zkušebních předmětů, ve složení
+
+       - 20 otázek z předmětu Radiokomunikační předpisy,
+
+       - 40 otázek z předmětu Radiokomunikační provoz,
+
+       - 20 otázek z předmětu Elektrotechnika a radiotechnika.
+
+       (7)  Doba na vypracování písemného testu činí nejvýše 60 minut. Doba ústní
+zkoušky pro omezené průkazy radiotelefonistů letecké a námořní pohyblivé služby činí
+maximálně 15 minut, v ostatních případech činí délka ústní zkoušky a doba pro praktickou
+zkoušku maximálně 30 minut.
+
+         (8)   Uchazeč, který dokončil písemnou zkoušku, odevzdá test členu zkušební
+komise. Test je poté předán k vyhodnocení příslušnému zkušebnímu komisaři. Po uplynutí
+doby stanovené pro vypracování testu odevzdají všichni uchazeči test, a to bez ohledu na to,
+je-li dokončen.
+
+       (9)    Při ústní zkoušce jsou u uchazeče ověřovány požadované odborné znalosti
+letecké či námořní frazeologie v rozsahu příslušných ustanovení Radiokomunikačního řádu
+nebo Doporučení CEPT. Přesný rozsah znalostí je uveden v Osnovách ústní zkoušky u
+
+
+                                             5
+jednotlivých průkazů. Ověřují se zejména znalosti nezbytné pro účinné vedení tísňové,
+pilnostní a bezpečnostní komunikace, správné porozumění jednoduché komunikaci
+v anglickém jazyce mezi radiostanicemi z náslechu a vytvoření jednoduché zprávy. Dále pak
+uchazeč prokazuje podle druhu průkazu znalosti z letecké nebo námořní frazeologie nebo
+terminologie a z porozumění odbornému textu týkajícího se předmětné problematiky.
+
+       (10)   Uchazeč je oprávněn při ústní zkoušce si při náslechu zpráv činit poznámky.
+
+      (11) Ústní zkouška se koná před příslušným zkušebním komisařem. Ústní zkoušce
+může být přítomen předseda, který je oprávněn zadávat uchazeči otázky, nebo požadovat
+podrobnější vysvětlení.
+
+        (12) Při praktické zkoušce z telegrafie jsou u uchazeče ověřovány požadované
+příslušné znalosti a schopnosti ručně vysílat v Morseově abecedě a správně sluchem přijímat
+a zapsat správně kódové skupiny ve stanoveném počtu za minutu. Podrobnosti o požadavcích
+na uchazeče při praktické zkoušce z telegrafie jsou uvedeny v Pokynech pro zkoušku
+telegrafisty.
+
+      (13) Zkouška je neveřejná. Kromě členů zkušební komise a uchazečů mohou být
+zkoušce přítomny jen osoby, jejichž přítomnost předseda v odůvodněných případech povolí.
+
+      (14) V odůvodněných případech může předseda povolit výjimku ze způsobu
+provedení zkoušky, zejména jedná-li se o uchazeče nemocné nebo tělesně postižené.
+Odůvodnění udělení takové výjimky předseda přiloží k protokolu o vykonání zkoušky.
+
+        (15) V průběhu písemné zkoušky může uchazeč použít jako pomůcky pouze psací
+potřeby, nesmí použít prostředky výpočetní techniky, komunikační techniku (zejména mobilní
+telefon), a ani jiné pomůcky v jakékoliv podobě.
+
+      (16) V průběhu písemné zkoušky je uchazeč povinen pracovat samostatně.
+Neuposlechne-li napomenutí dozoru nebo použije-li nedovolených pomůcek, může mu být
+písemný test odebrán s uvedením času a důvodu ukončení zkoušky, a je ze zkušební místnosti
+vykázán. V takovém případě je výsledek zkoušky hodnocen stupněm "neprospěl".
+
+                                       Článek 12
+                                   Hodnocení zkoušky
+        (1)     Po ukončení písemné zkoušky provede zkušební komise vyhodnocení výsledků
+testů jednotlivých uchazečů. V případě, že je pro ověření odborné způsobilosti uchazeče třeba
+vykonat i ústní nebo praktickou zkoušku, musí být vyhodnocení písemného testu provedeno
+příslušným zkušebním komisařem do zahájení ústní nebo praktické části zkoušky.
+
+       (2)     Jestliže počet nesprávných odpovědí v testu nepřesahuje stanovený limit
+pro úspěšné složení písemné zkoušky, je předmět hodnocen stupněm „prospěl“, v opačném
+případě stupněm „neprospěl“. Následuje-li po písemné zkoušce ústní nebo praktická zkouška,
+uchazeč v ní pokračuje pouze v případě, že jeho písemná zkouška byla hodnocena stupněm
+„prospěl“ ze všech tří zkušebních předmětů podle čl. 11 odst. 6.
+
+       (3)    Prokáže-li uchazeč při ústní zkoušce dostatečné znalosti a jazykové schopnosti
+pro účinné vedení tísňové, pilnostní a bezpečnostní komunikace a další požadované znalosti,
+zejména z frazeologie podle typu průkazu, je hodnocen stupněm „prospěl“. V opačném
+případě pak stupněm „neprospěl“.
+
+
+
+
+                                             6
+      (4)      Prokáže-li uchazeč při praktické zkoušce z telegrafie příslušné znalosti
+a schopnosti ve vysílání a příjmu kódových skupin v Morseově abecedě ve stanoveném počtu
+za minutu, je hodnocen stupněm „prospěl“. V opačném případě pak stupněm „neprospěl“.
+
+       (5)   Po ukončení všech zkoušek je vyplněn protokol o zkoušce, ve kterém zkušební
+komisaři uvedou u každé konané zkoušky dosažený stupeň hodnocení a připojí svůj podpis.
+Předseda do protokolu vyznačí výsledné hodnocení a protokol opatří podpisem. Přílohou
+protokolu o zkoušce je hodnocení ústní zkoušky provedené a podepsané příslušným
+zkušebním komisařem.
+
+        (6)    V případě, že byl uchazeč hodnocen alespoň z jednoho zkušebního předmětu
+při písemné zkoušce stupněm „neprospěl“ nebo z ústní či praktické zkoušky stupněm
+„neprospěl“, výsledné hodnocení je „neprospěl“.
+
+                                      Článek 13
+                                  Opakovaná zkouška
+      (1)    Uchazeč, který byl hodnocen v písemné zkoušce alespoň z jednoho
+zkušebního předmětu stupněm „neprospěl“, může vykonat v souladu s § 6 odst. 3 vyhlášky
+opakovanou zkoušku.
+
+       (2)    Opakovaná zkouška může být vykonána na základě žádosti uchazeče
+v souladu s § 6 odst. 3 vyhlášky nejdříve po 60 dnech ode dne neúspěšného vykonání
+písemné zkoušky a vykonává se znovu ze všech zkušebních předmětů. Za podání žádosti
+podle věty první se správní poplatek nehradí.
+       (3)    Uchazeč, který byl hodnocen v ústní nebo praktické zkoušce stupněm
+„neprospěl“, může rovněž vykonat v souladu s § 6 odst. 3 vyhlášky opakovanou zkoušku. Úřad
+umožní takovému uchazeči ústní nebo praktickou zkoušku opakovat bez nutnosti opakování
+písemného testu, a to nejdříve v nejbližším termínu vyhlášené zkoušky, ne však dříve než
+14 dnů ode dne neúspěšného vykonání ústní nebo praktické zkoušky.
+
+        (4)   Pokud uchazeč hodnocený stupněm „neprospěl“ projeví vůli k vykonání
+opakované zkoušky tím, že podá písemnou žádost o opakovanou zkoušku, nejlépe ihned
+po neúspěšném vykonání zkoušky. Pokud může být k opakované zkoušce pozván nejdříve
+v termínech podle § 6 odst. 3 vyhlášky. Pokud uchazeč o opakovanou zkoušku nemá zájem,
+sdělí písemně tuto skutečnost do protokolu a může vykonat novou zkoušku na základě podání
+nové žádosti o vykonání zkoušky k prokázání odborné způsobilosti a uhrazení správního
+poplatku.
+        (5)    Termín konání opakované zkoušky stanoví Úřad a uchazeče písemně vyrozumí
+o jejím termínu nejpozději 14 dní před dnem konání zkoušky.
+
+      (6)    V případě, že žadatel nesložil zkoušku nebo opakovanou zkoušku do doby
+6 měsíců ode dne zahájení písemné zkoušky, Úřad rozhodne o zamítnutí žádosti.
+
+                                     Článek 14
+           Žádost o vykonání zkoušky k jinému druhu odborné způsobilosti
+        Uchazeč, který již nežádá o vykonání zkoušky uvedené v přihlášce, může po podání
+přihlášky požádat Úřad o zpětvzetí své původní žádosti a o vykonání zkoušky k jinému druhu
+odborné způsobilosti. V takovém případě Úřad usnesením řízení ve věci dříve podané
+přihlášky zastaví. Uhrazený správní poplatek za podání přihlášky se nevrací. Účastník
+je povinen uhradit správní poplatek za podání nové přihlášky.
+
+
+
+
+                                            7
+                                      ČÁST ČTVRTÁ
+
+                    VYDÁNÍ A PRODLOUŽENÍ DOBY PLATNOSTI PRŮKAZŮ
+
+                                        Článek 15
+                                      Vydání průkazů
+       (1)  V případě, že uchazeč byl hodnocen celkovým stupněm „prospěl“ a je-li
+zkouška konána v sídle Úřadu, tajemník komise nebo jiný člen komise vyhotoví příslušný
+průkaz.
+
+       (2)    Uchazeč si po převzetí průkazu zkontroluje osobní údaje uvedené na průkazu
+a průkaz stanovený v § 2 písm. a) až g) a j) až l) vyhlášky na místě podepíše. Do protokolu
+o zkoušce svým podpisem potvrdí převzetí průkazu.
+
+       (3)    V případě, že zkouška je konána mimo sídlo Úřadu, průkaz je úspěšnému
+uchazeči zaslán poštou nebo může být převzat osobně uchazečem nebo jím zmocněnou
+osobou. V takovém případě uchazeč podepisuje průkaz stanovený v § 2 písm. a) až g) a j) až l)
+vyhlášky až po jeho převzetí.
+
+                                       Článek 16
+                           Prodloužení doby platnosti průkazů
+       (1)    Prodlužování doby platnosti průkazů provádí tajemník nebo jiný člen komise.
+
+        (2)    Doba platnosti průkazu je deset let od data jeho prvního vydání, kromě průkazů
+operátora třídy A (HAREC) nebo třídy N (NOVICE) amatérské radiokomunikační služby, kde
+je platnost průkazů neomezená a kromě všeobecného (GOC) a omezeného (ROC) průkazu
+operátora námořní pohyblivé služby, kde je doba platnosti průkazu pět let od data jeho prvního
+vydání.
+
+       (3)     Dobu platnosti průkazu lze prodloužit na základě řádně vyplněné žádosti
+o prodloužení platnosti průkazu zaslané Úřadu. Vzor žádosti o prodloužení platnosti průkazu
+je uveden na doporučeném formuláři. Součástí žádosti musí být doklad o úhradě správního
+poplatku stanoveného za prodloužení platnosti průkazu, fotografie a potvrzení o praxi
+v obsluze radiostanice (viz webové stránky Úřadu – sekce Prodloužení průkazu odborné
+způsobilosti).
+
+        (4)    Při podání žádosti o prodloužení doby omezeného průkazu radiotelefonisty
+námořní pohyblivé služby (OFN), vydaného před nabytím účinnosti vyhlášky č. 120/2019 Sb.,
+kterou se mění vyhláška č. 157/2005 Sb., o náležitostech přihlášky ke zkoušce k prokázání
+odborné způsobilosti k obsluze vysílacích rádiových zařízení, o rozsahu znalostí potřebných
+pro jednotlivé druhy odborné způsobilosti, o způsobu provádění zkoušek, o druzích průkazů
+odborné způsobilosti a době jejich platnosti, bude žadateli zaslán jak omezený průkaz
+radiotelefonisty námořní pohyblivé služby (OFP) tak i omezený průkaz radiotelefonisty
+vnitrozemské vodní plavby (OFV) s platností 5 let. Za tento úkon bude vyžadován správní
+poplatek za prodloužení doby platnosti jednoho průkazu. Před uplynutím doby platnosti takto
+vydaných průkazů se držitel rozhodne, bude-li chtít prodloužit dobu platnosti jednoho nebo
+obou průkazů. V případě prodloužení doby platnosti obou průkazů zaplatí správní poplatek
+za prodloužení doby platnosti každého z nich.
+
+      (5)    Při prodloužení doby platnosti je držiteli průkazu vydán průkaz nový s původním
+označením a dobou platnosti prodlouženou o dalších 5 let.
+
+
+
+
+                                              8
+       (6)    Žádost o prodloužení doby platnosti průkazu odborné způsobilosti musí být
+podle § 26 odst. 6 zákona o elektronických komunikacích držitelem průkazu podána nejméně
+1 měsíc přede dnem uplynutí doby jeho platnosti, jinak nárok na prodloužení doby platnosti
+průkazu zaniká.
+
+       (7)    Pokud doba platnosti průkazu odborné způsobilosti uplynula, lze v období
+do jednoho roku ode dne pozbytí jeho platnosti vydat nový průkaz, pokud žadatel doloží žádost
+potvrzením, že v době platnosti průkazu nejméně dva roky vykonával obsluhu vysílacích
+rádiových zařízení, na niž byl průkaz odborné způsobilosti vydán.
+
+       (8)    Žádosti o prodloužení doby platnosti podané v době delší než jeden rok
+od uplynutí doby platnosti průkazu, nelze vyhovět a nový průkaz lze vydat jedině na základě
+úspěšného složení nové zkoušky.
+
+                                         Článek 17
+                                      Duplikát průkazu
+       (1)    V případě ztráty, poškození, zničení nebo odcizení průkazu Úřad vydá jeho
+duplikát.
+
+       (2)     Duplikát průkazu je vydán uchazeči na základě žádosti na doporučeném
+formuláři (Žádost o prodloužení platnosti/vydání průkazu odborné způsobilosti) a přiloženého
+čestného prohlášení držitele průkazu o ztrátě, poškození nebo zničení průkazu, případně
+protokolu Policie ČR v případě odcizení průkazu.
+
+       (3)     Před vydáním duplikátu průkazu je držitel průkazu – žadatel o duplikát – povinen
+uhradit správní poplatek (viz webové stránky Úřadu – sekce Provedení změn v osobních
+údajích, duplikáty průkazů).
+
+                                        Článek 18
+                                   Zrušovací ustanovení
+       Zrušuje se Zkušební řád Českého telekomunikačního úřadu, čj. ČTÚ-30 739/2019-613
+ze dne 26. srpna 2019.
+
+                                          Článek 19
+                                          Účinnost
+       Tento Zkušební řád nabývá účinnosti dnem 1. dubna 2023.
+
+
+Praha 28. března 2023
+
+
+
+
+                                                             Ing. Marek Ebert v. r.
+                                                                předseda Rady
+                                                         Českého telekomunikačního úřadu
+
+
+
+
+                                              9
+

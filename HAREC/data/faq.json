@@ -1,0 +1,2911 @@
+[
+ {
+  "title": "radiokomunikační předpisy",
+  "sections": [
+   {
+    "label": "a",
+    "title": "Předpisy Mezinárodní telekomunikační unie (ITU)",
+    "items": [
+     {
+      "n": 1,
+      "q": "Amatérskou radiokomunikační službou se rozumí:",
+      "a": "radiokomunikační služba pro sebevzdělávání a technická studia"
+     },
+     {
+      "n": 2,
+      "q": "Stanicí amatérské radiokomunikační služby se rozumí:",
+      "a": "jedno nebo více vysílacích a přijímacích zařízení včetně příslušenství, umožňující komunikaci v amatérských pásmech"
+     },
+     {
+      "n": 3,
+      "q": "Obecná ustanovení Radiokomunikačního řádu Mezinárodní telekomunikační unie (ITU) se týkají:",
+      "a": "i amatérské služby"
+     },
+     {
+      "n": 4,
+      "q": "Maximální výstupní výkon amatérských stanic stanovuje:",
+      "a": "národní povolovací orgán"
+     },
+     {
+      "n": 5,
+      "q": "Krátkodobé vysílání držitele oprávnění amatérské služby z území jiného státu závisí na:",
+      "a": "povolovacím orgánu navštíveného státu"
+     },
+     {
+      "n": 6,
+      "q": "Česká republika se nachází v regionu podle Mezinárodní telekomunikační unie (ITU):",
+      "a": "1"
+     },
+     {
+      "n": 7,
+      "q": "Status amatérské radiokomunikační služby v jednotlivých radioamatérských pásmech je:",
+      "a": "různý"
+     },
+     {
+      "n": 8,
+      "q": "Radioamatérská stanice může být použita v zájmu třetí osoby:",
+      "a": "pro zajištění komunikace v případě přírodních katastrof"
+     },
+     {
+      "n": 9,
+      "q": "Požadavky na zkoušky amatérských stanic určuje:",
+      "a": "národní povolovací orgán"
+     },
+     {
+      "n": 10,
+      "q": "Tvar volací značky radioamatérské stanice je určen:",
+      "a": "Radiokomunikačním řádem Mezinárodní telekomunikační unie (ITU)"
+     },
+     {
+      "n": 11,
+      "q": "Radiokomunikační řád Mezinárodní telekomunikační unie (ITU) nepovoluje:",
+      "a": "třípísmenný sufix amatérské stanice, který začíná písmenem Q"
+     },
+     {
+      "n": 12,
+      "q": "Série mezinárodních volacích znaků pro jednotlivé státy přiděluje:",
+      "a": "Mezinárodní telekomunikační unie (ITU)"
+     },
+     {
+      "n": 13,
+      "q": "Status pásem přidělených amatérské radiokomunikační službě je určen:",
+      "a": "Radiokomunikačním řádem Mezinárodní telekomunikační unie (ITU)"
+     },
+     {
+      "n": 14,
+      "q": "Česká republika má přiděleny série volacích značek:",
+      "a": "OKA až OKZ a OLA až OLZ"
+     },
+     {
+      "n": 15,
+      "q": "Na stanice amatérské družicové radiokomunikační služby:",
+      "a": "se vztahují všechna ustanovení amatérské radiokomunikační služby"
+     },
+     {
+      "n": 16,
+      "q": "Má-li služba pásmo přiděleno na podružné bázi, pak:",
+      "a": "vysílání nesmí způsobit škodlivé rušení stanicím přednostních služeb"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "b",
+    "title": "Předpisy Evropské konference poštovních a telekomunikačních správ (CEPT)",
+    "items": [
+     {
+      "n": 1,
+      "q": "Doporučení CEPT T/R 61-02 stanoví:",
+      "a": "požadavky na zkoušky pro získání průkazu odborné způsobilosti k obsluze stanice amatérské radiokomunikační služby"
+     },
+     {
+      "n": 2,
+      "q": "V navštívené zemi se používá volací značka, sestávající z:",
+      "a": "prefixu navštívené země podle Doporučení T/R 61-01, odděleného znakem „/“ od vlastní volací značky"
+     },
+     {
+      "n": 3,
+      "q": "Držitel oprávnění podle předpisů Evropské konference poštovních a telekomunikačních správ (CEPT) může ze zahraničí vysílat nepřetržitě:",
+      "a": "3 měsíce"
+     },
+     {
+      "n": 4,
+      "q": "V navštívené zemi je nutno dodržovat:",
+      "a": "předpisy a nařízení navštívené země"
+     },
+     {
+      "n": 5,
+      "q": "V souladu s Doporučením CEPT T/R 61-01 je možno krátkodobě vysílat:",
+      "a": "i z nečlenských zemí CEPT které k Doporučení CEPT T/R 61-01 přistoupily"
+     },
+     {
+      "n": 6,
+      "q": "Volací znak pro navštívenou zemi je složen z národního volacího znaku držitele povolení, kterému je předřazen prefix navštívené země, jak je stanoveno:",
+      "a": "Doporučením CEPT T/R 61-01"
+     },
+     {
+      "n": 7,
+      "q": "Třídy oprávnění podle předpisů Evropské konference poštovních a telekomunikačních správ (CEPT) jsou:",
+      "a": "pouze jedna třída"
+     },
+     {
+      "n": 8,
+      "q": "Ačkoliv sylabus podle doporučení CEPT nepožaduje zkoušku pro ověření znalosti telegrafie, některé země tuto znalost vyžadují. Aktuální přehled požadavků na znalost telegrafie je uveden v::",
+      "a": "doporučení CEPT T/R 61-02"
+     },
+     {
+      "n": 9,
+      "q": "Na základě průkazu odborné způsobilosti HAREC je možno bez zkoušky získat radioamatérské oprávnění v zemích:",
+      "a": "které přistoupily k Doporučení CEPT T/R 61-02"
+     },
+     {
+      "n": 10,
+      "q": "Na oprávnění podle předpisů Evropské konference poštovních a telekomunikačních správ (CEPT) nemusí být uvedeno:",
+      "a": "rodné číslo držitele oprávnění"
+     },
+     {
+      "n": 11,
+      "q": "Doporučení T/R 61-01 se vztahuje na:",
+      "a": "oprávnění podle předpisů Evropské konference poštovních a telekomunikačních správ (CEPT)"
+     },
+     {
+      "n": 12,
+      "q": "Na základě Doporučení T/R 61-01 držitel oprávnění podle předpisů Evropské konference poštovních a telekomunikačních správ (CEPT):",
+      "a": "může vysílat ze země, která k tomuto doporučení přistoupila"
+     },
+     {
+      "n": 13,
+      "q": "Průkaz odborné způsobilosti HAREC opravňuje:",
+      "a": "k žádosti o vydání oprávnění k provozu stanice amatérské radiokomunikační služby v zemích, které přistoupily k Doporučení CEPT T/R 61-02"
+     },
+     {
+      "n": 14,
+      "q": "Průkaz odborné způsobilosti HAREC vystaví:",
+      "a": "povolovací orgán na základě úspěšně vykonané zkoušky"
+     },
+     {
+      "n": 15,
+      "q": "Země, ze kterých je možno vysílat v souladu s Doporučením CEPT T/R 61-01 jsou uvedeny:",
+      "a": "v Doporučení CEPT T/R 61-01"
+     },
+     {
+      "n": 16,
+      "q": "Doporučení CEPT T/R 61-01 se nevztahuje na:",
+      "a": "klubové stanice"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "c",
+    "title": "Předpisy vycházející z legislativy České republiky",
+    "items": [
+     {
+      "n": 1,
+      "q": "Stanici amatérské radiokomunikační služby lze provozovat:",
+      "a": "na základě oprávnění, které vydal Český telekomunikační úřad"
+     },
+     {
+      "n": 2,
+      "q": "Staniční deník:",
+      "a": "je požadován pouze u klubových stanic"
+     },
+     {
+      "n": 3,
+      "q": "Během změny vysílacího kmitočtu:",
+      "a": "nesmí být vyzařována žádná energie s výjimkou provozu přes družice"
+     },
+     {
+      "n": 4,
+      "q": "Zkušební provoz vysílače musí být:",
+      "a": "prováděn pouze do umělé zátěže s výjimkou nastavení antén a výstupních obvodů vysílače"
+     },
+     {
+      "n": 5,
+      "q": "Při vysílání mimo stanovišť uvedených v oprávnění:",
+      "a": "doplníme volací značku o „/p“ při provozu z pevného stanoviště"
+     },
+     {
+      "n": 6,
+      "q": "Při vysílání mimo stanovišť uvedených v oprávnění:",
+      "a": "doplníme volací značku o „/m“ při mobilním provozu"
+     },
+     {
+      "n": 7,
+      "q": "Použití „/p“ a „/m“ není na přechodném stanovišti povinné:",
+      "a": "při radioamatérských závodech"
+     },
+     {
+      "n": 8,
+      "q": "K radioamatérskému provozu na prostředcích lodní a letecké dopravy:",
+      "a": "je nutný souhlas majitele, respektive provozovatele tohoto prostředku"
+     },
+     {
+      "n": 9,
+      "q": "Jednotlivé úseky pásem pro různé druhy provozu určuje:",
+      "a": "doporučení Mezinárodní radioamatérské unie (IARU)"
+     },
+     {
+      "n": 10,
+      "q": "Vysílání může obsahovat:",
+      "a": "radioamatérské zkratky a Q kódy"
+     },
+     {
+      "n": 11,
+      "q": "Za obsluhu klubové stanice odpovídá:",
+      "a": "dozírající operátor"
+     },
+     {
+      "n": 12,
+      "q": "Během mezinárodního závodu může operátor třídy A obsluhovat stanici o maximálním výkonu:",
+      "a": "1,5 kW v zastavěném obytném území"
+     },
+     {
+      "n": 13,
+      "q": "Jaká radioamatérská stanice automaticky přenáší signály jiné stanice?",
+      "a": "převáděč"
+     },
+     {
+      "n": 14,
+      "q": "Který druh radioamatérské stanice zajišťuje pouze jednocestnou komunikaci?",
+      "a": "maják"
+     },
+     {
+      "n": 15,
+      "q": "Kdy se mohou v radioamatérském provozu vysílat kódované zprávy?",
+      "a": "nikdy"
+     },
+     {
+      "n": 16,
+      "q": "Jaký je maximální vysílaný výkon, který může operátor třídy A použít během závodu na kmitočtu 7 105 kHz?",
+      "a": "750 W PEP"
+     },
+     {
+      "n": 17,
+      "q": "Jaký je maximální vysílaný výkon, který může operátor třídy A použít na kmitočtu 24 950 kHz?",
+      "a": "750 W PEP"
+     },
+     {
+      "n": 18,
+      "q": "Jaký je maximální vysílaný výkon, který může operátor třídy A použít během závodu na kmitočtu 50 105 kHz?",
+      "a": "25 W PEP"
+     },
+     {
+      "n": 19,
+      "q": "Jaký je maximální vysílaný výkon, který může operátor třídy A použít během běžného provozu na kmitočtu 1 820 kHz?",
+      "a": "750 W PEP"
+     },
+     {
+      "n": 20,
+      "q": "Jaký je maximální vysílaný výkon, který může operátor třídy A použít na kmitočtu 1 900 kHz?",
+      "a": "10 W PEP"
+     },
+     {
+      "n": 21,
+      "q": "Oprávnění amatérské radiokomunikační služby má platnost:",
+      "a": "zpravidla 5 let, pokud není vydáno na dobu kratší"
+     },
+     {
+      "n": 22,
+      "q": "Vysílače pro rádiový orientační běh:",
+      "a": "vysílají pouze mezinárodně používané znaky MO, MOE, MOI, MOS, MOH a MO5"
+     },
+     {
+      "n": 23,
+      "q": "Označení druhů provozu podle Přílohy č. 2 vyhlášky č. 156/2005 Sb., o technických a provozních podmínkách amatérské radiokomunikační služby, určuje:",
+      "a": "Radiokomunikační řád Mezinárodní telekomunikační unie (ITU)"
+     },
+     {
+      "n": 24,
+      "q": "Vysílací zařízení s výkonem nad 6 W musí být opatřeno:",
+      "a": "nesymetrickým výstupem o impedanci 50 Ω až 100 Ω"
+     },
+     {
+      "n": 25,
+      "q": "Fonický provoz LSB nelze uskutečnit na kmitočtu:",
+      "a": "10,14 MHz"
+     },
+     {
+      "n": 26,
+      "q": "Fonický provoz USB nelze uskutečnit na kmitočtu:",
+      "a": "14,35 MHz"
+     },
+     {
+      "n": 27,
+      "q": "Při současném použití více koncových stupňů pro napájení různých antén na stejném kmitočtu:",
+      "a": "nesmí být překročeny povolené výkony v jejich součtu výkonů jednotlivých zařízení"
+     },
+     {
+      "n": 28,
+      "q": "Operátor, který není držitelem průkazu HAREC nebo NOVICE, může klubovou stanici obsluhovat:",
+      "a": "ve třídě N pod dozorem oprávněného operátora"
+     },
+     {
+      "n": 29,
+      "q": "Obsahem vysílání může být:",
+      "a": "vysílání mezinárodních zkratek a kódů a mezinárodně uznávaných protokolů"
+     },
+     {
+      "n": 30,
+      "q": "K získání průkazu odborné způsobilosti HAREC není nutno skládat zkoušku:",
+      "a": "z příjmu a vysílání telegrafie"
+     },
+     {
+      "n": 31,
+      "q": "Výkon jednotlivých složek nežádoucího vyzařování vysílače provozovaného v pásmu 6 m:",
+      "a": "musí být potlačen minimálně o 40 dB, smí být však maximálně 25 μW"
+     },
+     {
+      "n": 32,
+      "q": "Výkon jednotlivých složek nežádoucího vyzařování vysílače s výkonem nad 25 W provozovaného v pásmu 2 m:",
+      "a": "musí být potlačen minimálně o 60 dB, smí být však maximálně 1 mW"
+     },
+     {
+      "n": 33,
+      "q": "Výkon jednotlivých složek nežádoucího vyzařování vysílače provozovaného na kmitočtech nižších než 29,7 MHz:",
+      "a": "musí být potlačen minimálně o 40 dB, smí být však maximálně 50 mW"
+     },
+     {
+      "n": 34,
+      "q": "Výkon jednotlivých složek nežádoucího vyzařování vysílače s výkonem nad 25 W provozovaného v pásmu 430 až 440 MHz:",
+      "a": "musí být potlačen minimálně o 60 dB, smí být však maximálně 20 mW"
+     },
+     {
+      "n": 35,
+      "q": "Na kmitočtu 1840 kHz nelze uskutečnit:",
+      "a": "SSB spojení"
+     },
+     {
+      "n": 36,
+      "q": "Na kmitočtu 10145 kHz lze provozovat:",
+      "a": "pouze úzkopásmové datové provozy"
+     },
+     {
+      "n": 37,
+      "q": "Zápis do staničního deníku klubové stanice během spojení provádí:",
+      "a": "operátor"
+     },
+     {
+      "n": 38,
+      "q": "Vlastní volací značku je nutno uvádět:",
+      "a": "na začátku a konci spojení, je-li kratší než 10 minut"
+     },
+     {
+      "n": 39,
+      "q": "Vlastní volací značku při delším spojení je nutno uvádět:",
+      "a": "na začátku a konci spojení a při delším spojení každých 10 minut"
+     },
+     {
+      "n": 40,
+      "q": "Při ohrožení života, zdraví a majetku lze stanici použít k tísňové komunikaci:",
+      "a": "v libovolných pásmech amatérské radiokomunikační služby"
+     },
+     {
+      "n": 41,
+      "q": "Pro účely státní kontroly musí být na stanici:",
+      "a": "výstupní konektor zařízení typu N nebo BNC, případně redukce z výstupu vysílače na jeden z těchto konektorů"
+     },
+     {
+      "n": 42,
+      "q": "Označení druhu provozu podle Přílohy č. 2 vyhlášky o technických a provozních podmínkách amatérské radiokomunikační služby neurčuje:",
+      "a": "druh radioamatérského provozu"
+     },
+     {
+      "n": 43,
+      "q": "Mezi neobsluhované stanice nepatří:",
+      "a": "pozemní stanice amatérské družicové radioamatérské služby"
+     },
+     {
+      "n": 44,
+      "q": "Maximální výstupní výkon neobsluhované stanice může být:",
+      "a": "50 W"
+     },
+     {
+      "n": 45,
+      "q": "Neobsluhované stanice používají volací značku, která sestává:",
+      "a": "z prefixu OK0 a sufixu, který obsahuje jedno, dvě nebo tři písmena"
+     },
+     {
+      "n": 46,
+      "q": "Volací značka klubové stanice sestává:",
+      "a": "z prefixu OK1 nebo OK2 a sufixu, který má tři písmena, z nichž prvé je K, O nebo R"
+     },
+     {
+      "n": 47,
+      "q": "Mezi přednostní pásma přidělená amatérské radiokomunikační službě nepatří pásmo:",
+      "a": "1850 až 2000 kHz"
+     },
+     {
+      "n": 48,
+      "q": "Na neinterferenční bázi má držitel oprávnění třídy A amatérské radiokomunikační služby v České republice povoleno pásmo:",
+      "a": "50 až 52 MHz"
+     }
+    ],
+    "raw": []
+   }
+  ],
+  "dist": [
+   [
+    "a",
+    6
+   ],
+   [
+    "b",
+    2
+   ],
+   [
+    "c",
+    12
+   ]
+  ],
+  "total": 20,
+  "dist_text": "Oddíl            Počet otázek"
+ },
+ {
+  "title": "radiokomunikační provoz",
+  "sections": [
+   {
+    "label": "a",
+    "title": "Rozvrh kmitočtů a druhů provozu v radioamatérských pásmech",
+    "items": [
+     {
+      "n": 1,
+      "q": "Rozvrh kmitočtů a druhů provozu v radioamatérských pásmech se řídí:",
+      "a": "doporučením Mezinárodní radioamatérské unie (IARU) Region 1"
+     },
+     {
+      "n": 2,
+      "q": "V pásmu 1,8 MHz je celý úsek pro FONE provoz:",
+      "a": "1 840 kHz – 2 000 kHz"
+     },
+     {
+      "n": 3,
+      "q": "V pásmu 1,8 MHz je výhradně pro CW provoz určen kmitočtový úsek:",
+      "a": "1 810 kHz – 1 838 kHz"
+     },
+     {
+      "n": 4,
+      "q": "V pásmu 1,8 MHz je pro digitální provozy určen kmitočtový úsek:",
+      "a": "1 838 kHz – 1 843 kHz"
+     },
+     {
+      "n": 5,
+      "q": "V pásmu 3,5 MHz je celý úsek pro FONE provoz:",
+      "a": "3 600 kHz – 3 800 kHz"
+     },
+     {
+      "n": 6,
+      "q": "V pásmu 3,5 MHz je výhradně pro CW DX provoz určen úsek:",
+      "a": "3 500 kHz – 3 510 kHz"
+     },
+     {
+      "n": 7,
+      "q": "V pásmu 3,5 MHz je výhradně pro CW provoz určen kmitočtový úsek:",
+      "a": "3 500 kHz – 3 580 kHz"
+     },
+     {
+      "n": 8,
+      "q": "V pásmu 3,5 MHz je pro digitální provozy určen kmitočtový úsek:",
+      "a": "3 580 kHz – 3 620 kHz"
+     },
+     {
+      "n": 9,
+      "q": "V pásmu 7 MHz je celý úsek pro FONE provoz:",
+      "a": "7 050 kHz – 7 200 kHz"
+     },
+     {
+      "n": 10,
+      "q": "V pásmu 7 MHz je výhradně pro CW provoz určen kmitočtový úsek:",
+      "a": "7 000 kHz – 7 040 kHz"
+     },
+     {
+      "n": 11,
+      "q": "V pásmu 7 MHz je pro digitální provozy určen kmitočtový úsek:",
+      "a": "7 040 kHz – 7 060 kHz"
+     },
+     {
+      "n": 12,
+      "q": "V pásmu 10 MHz je celý úsek pro FONE provoz:",
+      "a": "FONE provoz není povolen"
+     },
+     {
+      "n": 13,
+      "q": "V pásmu 10 MHz je pro digitální provozy určen kmitočtový úsek:",
+      "a": "10 140 kHz – 10 150 kHz"
+     },
+     {
+      "n": 14,
+      "q": "V pásmu 14 MHz je výhradně pro CW provoz určen kmitočtový úsek:",
+      "a": "14 000 kHz – 14 070 kHz"
+     },
+     {
+      "n": 15,
+      "q": "V pásmu 14 MHz je celý úsek pro FONE provoz:",
+      "a": "14 101 kHz – 14 350 kHz"
+     },
+     {
+      "n": 16,
+      "q": "V pásmu 14 MHz je pro digitální provozy určen kmitočtový úsek:",
+      "a": "14 070 kHz – 14 099 kHz"
+     },
+     {
+      "n": 17,
+      "q": "V pásmu 18 MHz je výhradně pro CW provoz určen kmitočtový úsek:",
+      "a": "18 068 kHz – 18 095 kHz"
+     },
+     {
+      "n": 18,
+      "q": "V pásmu 18 MHz je celý úsek pro FONE provoz:",
+      "a": "18 111 kHz – 18 168 kHz"
+     },
+     {
+      "n": 19,
+      "q": "V pásmu 18 MHz je pro digitální provozy určen kmitočtový úsek:",
+      "a": "18 095 kHz – 18 109 kHz"
+     },
+     {
+      "n": 20,
+      "q": "V pásmu 21 MHz je výhradně pro CW provoz určen kmitočtový úsek:",
+      "a": "21 000 kHz – 21 070 kHz"
+     },
+     {
+      "n": 21,
+      "q": "V pásmu 21 MHz je celý úsek pro FONE provoz:",
+      "a": "21 151 kHz – 21 450 kHz"
+     },
+     {
+      "n": 22,
+      "q": "V pásmu 21 MHz je pro digitální provozy určen kmitočtový úsek:",
+      "a": "21 070 kHz – 21 120 kHz"
+     },
+     {
+      "n": 23,
+      "q": "V pásmu 24 MHz je celý úsek pro FONE provoz:",
+      "a": "24 931 kHz – 24 990 kHz"
+     },
+     {
+      "n": 24,
+      "q": "V pásmu 24 MHz je výhradně pro CW provoz určen kmitočtový úsek:",
+      "a": "24 890 kHz – 24 915 kHz"
+     },
+     {
+      "n": 25,
+      "q": "V pásmu 24 MHz je pro digitální provozy určen kmitočtový úsek:",
+      "a": "24 915 kHz – 24 929 kHz"
+     },
+     {
+      "n": 26,
+      "q": "V pásmu 28 MHz je pro FONE provoz určen úsek:",
+      "a": "28 225 kHz – 29 300 kHz"
+     },
+     {
+      "n": 27,
+      "q": "V pásmu 28 MHz je výhradně pro CW provoz určen kmitočtový úsek:",
+      "a": "28 000 kHz – 28 070 kHz"
+     },
+     {
+      "n": 28,
+      "q": "V pásmu 28 MHz je pro digitální provozy určen kmitočtový úsek:",
+      "a": "28 070 kHz – 28 190 kHz"
+     },
+     {
+      "n": 29,
+      "q": "Výhradně pro družicový „down-link“ je v pásmu 28 MHz určen úsek:",
+      "a": "29 300 kHz – 29 510 kHz"
+     },
+     {
+      "n": 30,
+      "q": "V pásmu 50–52 MHz jsou povoleny všechny úzkopásmové provozy v úseku:",
+      "a": "50,1 MHz – 52 MHz"
+     },
+     {
+      "n": 31,
+      "q": "V pásmu 50–52 MHz je přímý FM FONE provoz povolen v pásmu:",
+      "a": "51,410 MHz – 51,590 MHz"
+     },
+     {
+      "n": 32,
+      "q": "Pro pouze CW provoz je v pásmu 50–52 MHz určen úsek:",
+      "a": "50 MHz – 50,1 MHz"
+     },
+     {
+      "n": 33,
+      "q": "Pro pouze CW provoz je v pásmu 144–146 MHz určen úsek:",
+      "a": "144,000 MHz – 144,110 MHz"
+     },
+     {
+      "n": 34,
+      "q": "Výhradně pro EME CW provoz je v pásmu 144–146 MHz určen úsek:",
+      "a": "úsek není určen"
+     },
+     {
+      "n": 35,
+      "q": "Výhradně pro provoz přes družice je v pásmu 144–146 MHz určen úsek:",
+      "a": "145,806 MHz – 146,0 MHz"
+     },
+     {
+      "n": 36,
+      "q": "Výhradně pro majáky je v pásmu 144–146 MHz určen úsek:",
+      "a": "144,400 MHz – 144,490 MHz"
+     },
+     {
+      "n": 37,
+      "q": "Výhradně pro majáky je v pásmu 430–440 MHz určen úsek:",
+      "a": "432,400 MHz – 432,490 MHz"
+     },
+     {
+      "n": 38,
+      "q": "V pásmu 430–440 MHz jsou všechny druhy provozu povoleny v pásmu:",
+      "a": "432,5 MHz – 432,975 MHz"
+     },
+     {
+      "n": 39,
+      "q": "CW provoz se v pásmu 430–440 MHz přednostně uskutečňuje v úseku:",
+      "a": "432,025 MHz – 432,1 MHz"
+     },
+     {
+      "n": 40,
+      "q": "Pro CW i SSB provoz je v pásmu 430–440 MHz určen úsek:",
+      "a": "432,1 MHz – 432,400 MHz"
+     },
+     {
+      "n": 41,
+      "q": "Mezi pásma WARC patří:",
+      "a": "30 m, 17 m, 12 m"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "b",
+    "title": "Hláskovací abeceda (česká/mezinárodní)",
+    "items": [],
+    "raw": [
+     "A      Adam / Alpha                           N     Norbert / November",
+     "B      Božena / Bravo                         O     Otakar / Oscar",
+     "C      Cyril / Charlie                        P     Petr / Papa",
+     "D      David / Delta                          Q     Quido / Quebec",
+     "E      Emil / Echo                            R     Rudolf / Romeo",
+     "F      František / Foxtrot                    S     Svatopluk / Sierra",
+     "G      Gustav / Golf                          T     Tomáš / Tango",
+     "H      Helena /Hotel                          U     Urban / Uniform",
+     "I      Ivan / India                           V     Václav / Victor",
+     "J      Josef /Juliett                         W     dvojité V / Whisky",
+     "K      Karel / Kilo                           X     Xaver / X-ray",
+     "L      Ludvík / Lima                          Y     Ypsilon / Yankee",
+     "M      Marie / Mike                           Z     Zuzana / Zulu"
+    ]
+   },
+   {
+    "label": "c",
+    "title": "Provozní dovednosti",
+    "items": [
+     {
+      "n": 1,
+      "q": "Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy nejkratším směrem na USA?",
+      "a": "cca 315°"
+     },
+     {
+      "n": 2,
+      "q": "Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy nejkratším směrem na Austrálii?",
+      "a": "cca 85°"
+     },
+     {
+      "n": 3,
+      "q": "Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy nejkratším směrem na Japonsko?",
+      "a": "cca 45°"
+     },
+     {
+      "n": 4,
+      "q": "Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy nejkratším směrem na Karibskou oblast?",
+      "a": "cca 280°"
+     },
+     {
+      "n": 5,
+      "q": "Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy nejkratším směrem na Jihoafrickou republiku?",
+      "a": "cca 175°"
+     },
+     {
+      "n": 6,
+      "q": "Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy nejkratším směrem na Havaj?",
+      "a": "cca 355°"
+     },
+     {
+      "n": 7,
+      "q": "Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy nejkratším směrem na Argentinu?",
+      "a": "cca 240°"
+     },
+     {
+      "n": 8,
+      "q": "Tísňové volání pro CW provoz je:",
+      "a": "SOS"
+     },
+     {
+      "n": 9,
+      "q": "Tísňové volání pro FONE provoz je:",
+      "a": "MAYDAY"
+     },
+     {
+      "n": 10,
+      "q": "Volací značka FK/DL1YD/p znamená:",
+      "a": "DL1YD vysílá v rámci oprávnění podle předpisů Evropské konference poštovních a telekomunikačních správ (CEPT) z Nové Kaledonie"
+     },
+     {
+      "n": 11,
+      "q": "„10 DWN“ znamená",
+      "a": "přeladit se o 10 kHz dolů"
+     },
+     {
+      "n": 12,
+      "q": "stanicemi předávaný report (RST) znamená:",
+      "a": "čitelnost, sílu signálu a tón"
+     },
+     {
+      "n": 13,
+      "q": "Při ladění po pásmu zaslechnu „QRL“ . Znamená to:",
+      "a": "před voláním všeobecné výzvy se stanice dotazuje, je-li tento kmitočet volný"
+     },
+     {
+      "n": 14,
+      "q": "Při ladění po pásmu zaslechnu volání „CQ DX“. Znamená to:",
+      "a": "stanice chce navázat spojení se vzdálenou stanicí (na KV mimo vlastní kontinent)"
+     },
+     {
+      "n": 15,
+      "q": "Při ladění po pásmu zaslechnu volání „CQ SA“. Znamená to:",
+      "a": "stanice chce navázat spojení se stanicí z jižní Ameriky"
+     },
+     {
+      "n": 16,
+      "q": "Při ladění po pásmu zaslechnu volání „CQ CQ DE TU5BB PSE UP 5 K“. Znamená to:",
+      "a": "stanice z Pobřeží Slonoviny volá všeobecnou výzvu a chce být volána o 5 kHz výše"
+     },
+     {
+      "n": 17,
+      "q": "Když stanice pracující na KV dostane report „588“ znamená to:",
+      "a": "dokonale čitelné, 25 µV na 50Ω vstupu RX, čistý tón s nádechem střídavé složky"
+     },
+     {
+      "n": 18,
+      "q": "Když stanice pracující na VKV dostane report „599“ znamená to:",
+      "a": "dokonale čitelné, 5 µV na 50 Ω vstupu RX, zcela čistý tón"
+     },
+     {
+      "n": 19,
+      "q": "„I will not operate with OK stations for one hour“ znamená:",
+      "a": "stanice nebude pracovat s OK stanicemi 1 hodinu"
+     },
+     {
+      "n": 20,
+      "q": "„Short path“ znamená:",
+      "a": "spojení krátkou cestou šíření"
+     },
+     {
+      "n": 21,
+      "q": "„Is this frequency in use?“ znamená:",
+      "a": "před voláním všeobecné výzvy se stanice dotazuje, je-li tento kmitočet volný"
+     },
+     {
+      "n": 22,
+      "q": "Když stanice pracuje z listu, tak to znamená:",
+      "a": "pracuje podle předem sestaveného pořadí"
+     },
+     {
+      "n": 23,
+      "q": "Split provoz znamená:",
+      "a": "příjem a vysílání na různých kmitočtech"
+     },
+     {
+      "n": 24,
+      "q": "Pro radioamatérské závody by neměla být používána:",
+      "a": "pásma WARC."
+     },
+     {
+      "n": 25,
+      "q": "Radioamatérské majáky jsou určeny pro:",
+      "a": "rychlé určení stavu podmínek šíření"
+     },
+     {
+      "n": 26,
+      "q": "Při vysílání SSTV signálů se zpravidla používá:",
+      "a": "počítač s odpovídajícím softwarem"
+     },
+     {
+      "n": 27,
+      "q": "Co označuje termín pile-up:",
+      "a": "současné volání populární stanice mnoha stanicemi najednou"
+     },
+     {
+      "n": 28,
+      "q": "Mezi digitální komunikační módy patří:",
+      "a": "RTTY"
+     },
+     {
+      "n": 29,
+      "q": "Některé komunikační módy potřebují pro správnou funkci přesný čas. Jaký je jeden z možných způsobů, jak ho získat?",
+      "a": "pomocí GPS přijímače"
+     },
+     {
+      "n": 30,
+      "q": "Kdy označujeme rádiový provoz jako „remote“?",
+      "a": "operátor pracuje s vysílacím pracovištěm vzdáleně"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "c",
+    "title": "Zkratky používané pro dotazy a sdělení (Q kódy)",
+    "items": [
+     {
+      "n": 1,
+      "q": "Jsem rušen interferencí:",
+      "a": "QRM"
+     },
+     {
+      "n": 2,
+      "q": "Můžete zvýšit výkon?",
+      "a": "QRO?"
+     },
+     {
+      "n": 3,
+      "q": "Volá vás:",
+      "a": "QRZ"
+     },
+     {
+      "n": 4,
+      "q": "Počkejte, až vás zavolám:",
+      "a": "QRX"
+     },
+     {
+      "n": 5,
+      "q": "Síla vašich signálů kolísá:",
+      "a": "QSB"
+     },
+     {
+      "n": 6,
+      "q": "Vysílejte pomaleji:",
+      "a": "QRS"
+     },
+     {
+      "n": 7,
+      "q": "Přestaňte vysílat:",
+      "a": "QRT"
+     },
+     {
+      "n": 8,
+      "q": "Snižte výkon:",
+      "a": "QRP"
+     },
+     {
+      "n": 9,
+      "q": "Jste připraven?",
+      "a": "QRV?"
+     },
+     {
+      "n": 10,
+      "q": "Nemám pro vás nic nového:",
+      "a": "QRU"
+     },
+     {
+      "n": 11,
+      "q": "Potvrzuji příjem:",
+      "a": "QSL"
+     },
+     {
+      "n": 12,
+      "q": "Jste zaměstnán? Je kmitočet využíván/obsazen nebo volný?",
+      "a": "QRL?"
+     },
+     {
+      "n": 13,
+      "q": "Moje poloha je:",
+      "a": "QTH"
+     },
+     {
+      "n": 14,
+      "q": "Jste rušen atmosférickým rušením?",
+      "a": "QRN?"
+     },
+     {
+      "n": 15,
+      "q": "Mohu pracovat s … přímo (prostřednictvím)?",
+      "a": "QSO?"
+     },
+     {
+      "n": 16,
+      "q": "Mám přejít k vysílání na jiný kmitočet?",
+      "a": "QSY?"
+     },
+     {
+      "n": 17,
+      "q": "Vysílejte řadu V:",
+      "a": "QSV"
+     },
+     {
+      "n": 18,
+      "q": "Můžete mě poslouchat mezi svými značkami?",
+      "a": "QSK?"
+     },
+     {
+      "n": 19,
+      "q": "Nemohu vás přijímat. Vaše signály jsou velmi slabé:",
+      "a": "QRJ"
+     },
+     {
+      "n": 20,
+      "q": "Jaká je čitelnost mých značek?",
+      "a": "QRK?"
+     },
+     {
+      "n": 21,
+      "q": "slovo dvakrát:",
+      "a": "QSZ"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "e",
+    "title": "Zkratky používané v radioamatérské komunikaci",
+    "items": [
+     {
+      "n": 1,
+      "q": "střídavý proud:",
+      "a": "AC"
+     },
+     {
+      "n": 2,
+      "q": "slyšen, slyšeno:",
+      "a": "HRD"
+     },
+     {
+      "n": 3,
+      "q": "radioamatér:",
+      "a": "HAM"
+     },
+     {
+      "n": 4,
+      "q": "opakovat:",
+      "a": "RPT"
+     },
+     {
+      "n": 5,
+      "q": "rádiový kmitočet:",
+      "a": "RF"
+     },
+     {
+      "n": 6,
+      "q": "automatické řízení úrovně",
+      "a": "ALC"
+     },
+     {
+      "n": 7,
+      "q": "přijímač:",
+      "a": "RX"
+     },
+     {
+      "n": 8,
+      "q": "zařízení:",
+      "a": "RIG"
+     },
+     {
+      "n": 9,
+      "q": "vše:",
+      "a": "ALL"
+     },
+     {
+      "n": 10,
+      "q": "automatické řízení zisku:",
+      "a": "AGC"
+     },
+     {
+      "n": 11,
+      "q": "jak?",
+      "a": "HW?"
+     },
+     {
+      "n": 12,
+      "q": "smích:",
+      "a": "HI"
+     },
+     {
+      "n": 13,
+      "q": "report:",
+      "a": "RPRT, RST"
+     },
+     {
+      "n": 14,
+      "q": "super vysoký kmitočet:",
+      "a": "SHF"
+     },
+     {
+      "n": 15,
+      "q": "amplitudová modulace:",
+      "a": "AM"
+     },
+     {
+      "n": 16,
+      "q": "opět, zase:",
+      "a": "AGN"
+     },
+     {
+      "n": 17,
+      "q": "já:",
+      "a": "I"
+     },
+     {
+      "n": 18,
+      "q": "signály:",
+      "a": "SIGS"
+     },
+     {
+      "n": 19,
+      "q": "anténa:",
+      "a": "AER, ANT"
+     },
+     {
+      "n": 20,
+      "q": "konec vysílání:",
+      "a": "SK"
+     },
+     {
+      "n": 21,
+      "q": "informace:",
+      "a": "INFO"
+     },
+     {
+      "n": 22,
+      "q": "čekejte:",
+      "a": "AS"
+     },
+     {
+      "n": 23,
+      "q": "mezifrekvence/ kdyby:",
+      "a": "IF"
+     },
+     {
+      "n": 24,
+      "q": "domluvené spojení:",
+      "a": "SKED"
+     },
+     {
+      "n": 25,
+      "q": "rušení rozhlasu:",
+      "a": "BCI"
+     },
+     {
+      "n": 26,
+      "q": "stanice:",
+      "a": "STN"
+     },
+     {
+      "n": 27,
+      "q": "jedno postranní pásmo:",
+      "a": "SSB"
+     },
+     {
+      "n": 28,
+      "q": "slunečno:",
+      "a": "SUNNY"
+     },
+     {
+      "n": 29,
+      "q": "zavolání, značka:",
+      "a": "CALL"
+     },
+     {
+      "n": 30,
+      "q": "vysílejte:",
+      "a": "K"
+     },
+     {
+      "n": 31,
+      "q": "uzavírám stanici:",
+      "a": "CL"
+     },
+     {
+      "n": 32,
+      "q": "nízký kmitočet:",
+      "a": "LF"
+     },
+     {
+      "n": 33,
+      "q": "krátké vlny:",
+      "a": "SW"
+     },
+     {
+      "n": 34,
+      "q": "špatný operátor:",
+      "a": "LID"
+     },
+     {
+      "n": 35,
+      "q": "činitel stojatých vln:",
+      "a": "PSV, SWR"
+     },
+     {
+      "n": 36,
+      "q": "zataženo:",
+      "a": "OVERCAST"
+     },
+     {
+      "n": 37,
+      "q": "podmínky pro spojení:",
+      "a": "CONDS"
+     },
+     {
+      "n": 38,
+      "q": "teplota:",
+      "a": "TEMP"
+     },
+     {
+      "n": 39,
+      "q": "staniční deník:",
+      "a": "LOG"
+     },
+     {
+      "n": 40,
+      "q": "všeobecná výzva:",
+      "a": "CQ"
+     },
+     {
+      "n": 41,
+      "q": "pokus:",
+      "a": "TEST"
+     },
+     {
+      "n": 42,
+      "q": "děkuji:",
+      "a": "TNX, TKS"
+     },
+     {
+      "n": 43,
+      "q": "rušení televize:",
+      "a": "TVI"
+     },
+     {
+      "n": 44,
+      "q": "dlouhý drát, dlouhé vlny:",
+      "a": "LW"
+     },
+     {
+      "n": 45,
+      "q": "decibel:",
+      "a": "dB"
+     },
+     {
+      "n": 46,
+      "q": "vysílač:",
+      "a": "TX"
+     },
+     {
+      "n": 47,
+      "q": "stejnosměrný proud:",
+      "a": "DC"
+     },
+     {
+      "n": 48,
+      "q": "k:",
+      "a": "TO"
+     },
+     {
+      "n": 49,
+      "q": "spodní postranní pásmo:",
+      "a": "LSB"
+     },
+     {
+      "n": 50,
+      "q": "Mezinárodní telekomunikační unie:",
+      "a": "ITU, UIT"
+     },
+     {
+      "n": 51,
+      "q": "Mezinárodní radioamatérská unie:",
+      "a": "IARU"
+     },
+     {
+      "n": 52,
+      "q": "přímo:",
+      "a": "DIRECT"
+     },
+     {
+      "n": 53,
+      "q": "milý, drahý:",
+      "a": "DR"
+     },
+     {
+      "n": 54,
+      "q": "diplom:",
+      "a": "AWARD"
+     },
+     {
+      "n": 55,
+      "q": "dálkové spojení:",
+      "a": "DX"
+     },
+     {
+      "n": 56,
+      "q": "váš, tvůj:",
+      "a": "UR"
+     },
+     {
+      "n": 57,
+      "q": "elektronický klíč:",
+      "a": "ELBUG"
+     },
+     {
+      "n": 58,
+      "q": "z, ze:",
+      "a": "DE"
+     },
+     {
+      "n": 59,
+      "q": "za:",
+      "a": "FER"
+     },
+     {
+      "n": 60,
+      "q": "pěkný, výborný:",
+      "a": "FB"
+     },
+     {
+      "n": 61,
+      "q": "elektronky:",
+      "a": "TBS"
+     },
+     {
+      "n": 62,
+      "q": "velmi pěkný:",
+      "a": "UFB"
+     },
+     {
+      "n": 63,
+      "q": "kmitočtová modulace:",
+      "a": "FM"
+     },
+     {
+      "n": 64,
+      "q": "jen:",
+      "a": "ONLY"
+     },
+     {
+      "n": 65,
+      "q": "přítel:",
+      "a": "OM"
+     },
+     {
+      "n": 66,
+      "q": "dobré odpoledne:",
+      "a": "GA"
+     },
+     {
+      "n": 67,
+      "q": "dobré ráno:",
+      "a": "GM"
+     },
+     {
+      "n": 68,
+      "q": "dobrý večer:",
+      "a": "GE"
+     },
+     {
+      "n": 69,
+      "q": "sbohem:",
+      "a": "GB"
+     },
+     {
+      "n": 70,
+      "q": "znovu:",
+      "a": "CUAGN"
+     },
+     {
+      "n": 71,
+      "q": "koncesovaný:",
+      "a": "LIS"
+     },
+     {
+      "n": 72,
+      "q": "nekoncesovaný:",
+      "a": "UNLIS"
+     },
+     {
+      "n": 73,
+      "q": "transceiver:",
+      "a": "TRX"
+     },
+     {
+      "n": 74,
+      "q": "prvek, element:",
+      "a": "EL"
+     },
+     {
+      "n": 75,
+      "q": "ultravysoký kmitočet:",
+      "a": "UHF"
+     },
+     {
+      "n": 76,
+      "q": "můj:",
+      "a": "my"
+     },
+     {
+      "n": 77,
+      "q": "proměnný oscilátor:",
+      "a": "VFO"
+     },
+     {
+      "n": 78,
+      "q": "ne:",
+      "a": "NO"
+     },
+     {
+      "n": 79,
+      "q": "obálka s adresou a známkou:",
+      "a": "SASE"
+     },
+     {
+      "n": 80,
+      "q": "telegrafie, netlumená vlna:",
+      "a": "CW"
+     },
+     {
+      "n": 81,
+      "q": "světový čas koordinovaný:",
+      "a": "UTC"
+     },
+     {
+      "n": 82,
+      "q": "velmi vysoký kmitočet:",
+      "a": "VHF"
+     },
+     {
+      "n": 83,
+      "q": "v pořádku:",
+      "a": "OK"
+     },
+     {
+      "n": 84,
+      "q": "fonie:",
+      "a": "FONE"
+     },
+     {
+      "n": 85,
+      "q": "přes, prostřednictvím:",
+      "a": "VIA"
+     },
+     {
+      "n": 86,
+      "q": "operátor:",
+      "a": "OP"
+     },
+     {
+      "n": 87,
+      "q": "velmi:",
+      "a": "VY"
+     },
+     {
+      "n": 88,
+      "q": "pracoval, pracující:",
+      "a": "WKD"
+     },
+     {
+      "n": 89,
+      "q": "radioamatérská družice:",
+      "a": "OSCAR"
+     },
+     {
+      "n": 90,
+      "q": "dobrý den:",
+      "a": "GD"
+     },
+     {
+      "n": 91,
+      "q": "watty:",
+      "a": "WTTS"
+     },
+     {
+      "n": 92,
+      "q": "počasí:",
+      "a": "WX"
+     },
+     {
+      "n": 93,
+      "q": "štěstí, hodně štěstí:",
+      "a": "GL"
+     },
+     {
+      "n": 94,
+      "q": "oblačno:",
+      "a": "CLOUDY"
+     },
+     {
+      "n": 95,
+      "q": "rád, potěšen:",
+      "a": "GLD"
+     },
+     {
+      "n": 96,
+      "q": "koncový stupeň:",
+      "a": "PA"
+     },
+     {
+      "n": 97,
+      "q": "manželka:",
+      "a": "XYL"
+     },
+     {
+      "n": 98,
+      "q": "špičkový výkon:",
+      "a": "PEP"
+     },
+     {
+      "n": 99,
+      "q": "slečna, přítelkyně:",
+      "a": "YL"
+     },
+     {
+      "n": 100,
+      "q": "prosím:",
+      "a": "PSE"
+     },
+     {
+      "n": 101,
+      "q": "dobrou noc:",
+      "a": "GN"
+     },
+     {
+      "n": 102,
+      "q": "výkon:",
+      "a": "PWR"
+     },
+     {
+      "n": 103,
+      "q": "srdečný pozdrav:",
+      "a": "73"
+     },
+     {
+      "n": 104,
+      "q": "polibek:",
+      "a": "88"
+     },
+     {
+      "n": 105,
+      "q": "země, uzemnění:",
+      "a": "GND"
+     },
+     {
+      "n": 106,
+      "q": "správně přijato:",
+      "a": "R"
+     },
+     {
+      "n": 107,
+      "q": "zmiz!:",
+      "a": "99"
+     },
+     {
+      "n": 108,
+      "q": "staniční lístek nezašlu:",
+      "a": "QSLN"
+     },
+     {
+      "n": 109,
+      "q": "konec relace:",
+      "a": "AR"
+     },
+     {
+      "n": 110,
+      "q": "přerušit:",
+      "a": "BK"
+     },
+     {
+      "n": 111,
+      "q": "doufat:",
+      "a": "HPE"
+     },
+     {
+      "n": 112,
+      "q": "automatické řízení hlasitosti:",
+      "a": "AVC"
+     },
+     {
+      "n": 113,
+      "q": "podmínky pro dálkové spojení:",
+      "a": "CONDX"
+     },
+     {
+      "n": 114,
+      "q": "asi, přibližně:",
+      "a": "ABT"
+     },
+     {
+      "n": 115,
+      "q": "poloautomatický klíč:",
+      "a": "BUG"
+     },
+     {
+      "n": 116,
+      "q": "zde, tady:",
+      "a": "HR"
+     },
+     {
+      "n": 117,
+      "q": "pokračujte:",
+      "a": "GA"
+     },
+     {
+      "n": 118,
+      "q": "potvrdit:",
+      "a": "CFM"
+     },
+     {
+      "n": 119,
+      "q": "a:",
+      "a": "ES"
+     },
+     {
+      "n": 120,
+      "q": "dolů:",
+      "a": "DWN"
+     },
+     {
+      "n": 121,
+      "q": "zapsat, porozumět:",
+      "a": "CPI, CPY"
+     },
+     {
+      "n": 122,
+      "q": "šťastný:",
+      "a": "HPY"
+     },
+     {
+      "n": 123,
+      "q": "klíč:",
+      "a": "KY"
+     },
+     {
+      "n": 124,
+      "q": "později na shledanou:",
+      "a": "CUL"
+     },
+     {
+      "n": 125,
+      "q": "začátek relace:",
+      "a": "KA"
+     },
+     {
+      "n": 126,
+      "q": "nic:",
+      "a": "NIL"
+     },
+     {
+      "n": 127,
+      "q": "brzy:",
+      "a": "SN"
+     },
+     {
+      "n": 128,
+      "q": "krátkovlnný posluchač:",
+      "a": "SWL"
+     },
+     {
+      "n": 129,
+      "q": "jistě, určitě:",
+      "a": "SURE"
+     },
+     {
+      "n": 130,
+      "q": "lituji, bohužel:",
+      "a": "SRI, SRY"
+     },
+     {
+      "n": 131,
+      "q": "metr:",
+      "a": "MTR"
+     },
+     {
+      "n": 132,
+      "q": "blízko, u:",
+      "a": "NR, NEAR"
+     },
+     {
+      "n": 133,
+      "q": "síť:",
+      "a": "NET"
+     },
+     {
+      "n": 134,
+      "q": "přijal, přijato:",
+      "a": "RCVD"
+     },
+     {
+      "n": 135,
+      "q": "poslat, zaslat:",
+      "a": "SEND"
+     },
+     {
+      "n": 136,
+      "q": "nahoru:",
+      "a": "UP"
+     },
+     {
+      "n": 137,
+      "q": "Vánoce:",
+      "a": "XMAS"
+     },
+     {
+      "n": 138,
+      "q": "horní postranní pásmo:",
+      "a": "USB"
+     },
+     {
+      "n": 139,
+      "q": "rušení rádiového kmitočtu:",
+      "a": "RFI"
+     },
+     {
+      "n": 140,
+      "q": "přecházím na poslech pro určitou stanici:",
+      "a": "KN"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "f",
+    "title": "Používání prefixů ve volacích značkách",
+    "items": [
+     {
+      "n": 1,
+      "q": "Česká republika OL, OK",
+      "a": ""
+     },
+     {
+      "n": 2,
+      "q": "Nizozemsko:",
+      "a": "PA–PI"
+     },
+     {
+      "n": 3,
+      "q": "Německo:",
+      "a": "DA–DR"
+     },
+     {
+      "n": 4,
+      "q": "Švédsko:",
+      "a": "SA–SM, 7S, 8S"
+     },
+     {
+      "n": 5,
+      "q": "Rakousko:",
+      "a": "OE"
+     },
+     {
+      "n": 6,
+      "q": "Finsko:",
+      "a": "OF–OJ"
+     },
+     {
+      "n": 7,
+      "q": "Slovensko:",
+      "a": "OM"
+     },
+     {
+      "n": 8,
+      "q": "Dánsko:",
+      "a": "OU–OZ, XP, 5P, 5Q"
+     },
+     {
+      "n": 9,
+      "q": "Polsko:",
+      "a": "HF, SN–SR, 3Z"
+     },
+     {
+      "n": 10,
+      "q": "Norsko:",
+      "a": "LA–LN, 3Y"
+     },
+     {
+      "n": 11,
+      "q": "Francie:",
+      "a": "F–FZ, F1–F0, HW, TH, TK, TM, TO, TV"
+     },
+     {
+      "n": 12,
+      "q": "Španělsko:",
+      "a": "EA–EH"
+     },
+     {
+      "n": 13,
+      "q": "Itálie:",
+      "a": "I, IA–IZ"
+     },
+     {
+      "n": 14,
+      "q": "Řecko:",
+      "a": "SV–SZ, J4"
+     },
+     {
+      "n": 15,
+      "q": "Slovinsko:",
+      "a": "S5"
+     },
+     {
+      "n": 16,
+      "q": "Bulharsko:",
+      "a": "LZ"
+     },
+     {
+      "n": 17,
+      "q": "Maďarsko:",
+      "a": "HA, HG"
+     },
+     {
+      "n": 18,
+      "q": "Rumunsko:",
+      "a": "YO–YR"
+     },
+     {
+      "n": 19,
+      "q": "Ukrajina:",
+      "a": "EM–EO, UR–UZ"
+     },
+     {
+      "n": 20,
+      "q": "Portugalsko:",
+      "a": "CQ-CU"
+     },
+     {
+      "n": 21,
+      "q": "Rusko:",
+      "a": "UA–UI"
+     },
+     {
+      "n": 22,
+      "q": "Spojené státy americké:",
+      "a": "K,N,W,AA–AK"
+     },
+     {
+      "n": 23,
+      "q": "Estonsko:",
+      "a": "ES"
+     },
+     {
+      "n": 24,
+      "q": "Kanada:",
+      "a": "CF-CK, CY-CZ, VA–VE, VO, VX, VY, XJ-XO"
+     },
+     {
+      "n": 25,
+      "q": "Litva:",
+      "a": "LY"
+     },
+     {
+      "n": 26,
+      "q": "Austrálie:",
+      "a": "VK"
+     },
+     {
+      "n": 27,
+      "q": "Lotyšsko:",
+      "a": "YL"
+     },
+     {
+      "n": 28,
+      "q": "Japonsko:",
+      "a": "JA–JS, 7J-7N, 8J-8N"
+     },
+     {
+      "n": 29,
+      "q": "Belgie:",
+      "a": "ON–OT"
+     },
+     {
+      "n": 30,
+      "q": "Brazílie:",
+      "a": "PP–PY"
+     },
+     {
+      "n": 31,
+      "q": "Lucembursko:",
+      "a": "LX"
+     },
+     {
+      "n": 32,
+      "q": "Jihoafrická republika:",
+      "a": "ZR–ZU"
+     },
+     {
+      "n": 33,
+      "q": "Chorvatsko:",
+      "a": "9A"
+     },
+     {
+      "n": 34,
+      "q": "Argentina:",
+      "a": "LO–LW"
+     },
+     {
+      "n": 35,
+      "q": "Makedonie:",
+      "a": "Z3"
+     },
+     {
+      "n": 36,
+      "q": "Indie:",
+      "a": "VU"
+     },
+     {
+      "n": 37,
+      "q": "Švýcarsko:",
+      "a": "HB, HE"
+     },
+     {
+      "n": 38,
+      "q": "Skotsko:",
+      "a": "GM, GS"
+     },
+     {
+      "n": 39,
+      "q": "Kanárské ostrovy:",
+      "a": "EA8–EH8"
+     },
+     {
+      "n": 40,
+      "q": "Andorra:",
+      "a": "C3"
+     },
+     {
+      "n": 41,
+      "q": "Azory:",
+      "a": "CQ2, CR2, CS2, CT2, CU2"
+     },
+     {
+      "n": 42,
+      "q": "Baleáry:",
+      "a": "EA6–EH6"
+     },
+     {
+      "n": 43,
+      "q": "Ceuta & Melila:",
+      "a": "EA9–EH9"
+     },
+     {
+      "n": 44,
+      "q": "Irsko:",
+      "a": "EI, EJ"
+     },
+     {
+      "n": 45,
+      "q": "Moldavsko:",
+      "a": "ER"
+     },
+     {
+      "n": 46,
+      "q": "Bělorusko:",
+      "a": "EU–EW"
+     },
+     {
+      "n": 47,
+      "q": "Anglie:",
+      "a": "G, GX"
+     },
+     {
+      "n": 48,
+      "q": "Ostrov Man:",
+      "a": "GD, GT, MD"
+     },
+     {
+      "n": 49,
+      "q": "Severní Irsko:",
+      "a": "GI, GN, MI"
+     },
+     {
+      "n": 50,
+      "q": "Jersey:",
+      "a": "GJ, GH, MJ"
+     },
+     {
+      "n": 51,
+      "q": "Guernsey:",
+      "a": "GU, GP, MU"
+     },
+     {
+      "n": 52,
+      "q": "Wales:",
+      "a": "GW, GC, MW"
+     },
+     {
+      "n": 53,
+      "q": "Lichtenštejnsko:",
+      "a": "HB0"
+     },
+     {
+      "n": 54,
+      "q": "Vatikán:",
+      "a": "HV"
+     },
+     {
+      "n": 55,
+      "q": "Sardinie:",
+      "a": "IS0, IM0"
+     },
+     {
+      "n": 56,
+      "q": "Špicberky:",
+      "a": "JW"
+     },
+     {
+      "n": 57,
+      "q": "Jan Mayen:",
+      "a": "JX"
+     },
+     {
+      "n": 58,
+      "q": "Alandské ostrovy:",
+      "a": "OH0"
+     },
+     {
+      "n": 59,
+      "q": "Market Reef:",
+      "a": "OJ0"
+     },
+     {
+      "n": 60,
+      "q": "Grónsko:",
+      "a": "OX"
+     },
+     {
+      "n": 61,
+      "q": "Faerské ostrovy:",
+      "a": "OY"
+     },
+     {
+      "n": 62,
+      "q": "Dodecanese:",
+      "a": "SV5–SZ5"
+     },
+     {
+      "n": 63,
+      "q": "Kréta:",
+      "a": "SV9–SZ9"
+     },
+     {
+      "n": 64,
+      "q": "San Marino:",
+      "a": "T7"
+     },
+     {
+      "n": 65,
+      "q": "Bosna a Hercegovina:",
+      "a": "E7"
+     },
+     {
+      "n": 66,
+      "q": "Turecko:",
+      "a": "TA–TC, YM"
+     },
+     {
+      "n": 67,
+      "q": "Island:",
+      "a": "TF"
+     },
+     {
+      "n": 68,
+      "q": "Korsika:",
+      "a": "TK"
+     },
+     {
+      "n": 69,
+      "q": "Srbsko:",
+      "a": "YT–YU"
+     },
+     {
+      "n": 70,
+      "q": "Albánie:",
+      "a": "ZA"
+     },
+     {
+      "n": 71,
+      "q": "Monako:",
+      "a": "3A"
+     },
+     {
+      "n": 72,
+      "q": "Malta:",
+      "a": "9H"
+     },
+     {
+      "n": 73,
+      "q": "Tchaj-wan:",
+      "a": "BV"
+     },
+     {
+      "n": 74,
+      "q": "Čína:",
+      "a": "BA–BZ (vč, B1 - B0)"
+     },
+     {
+      "n": 75,
+      "q": "Kuba:",
+      "a": "CL, CM, CO, T4"
+     },
+     {
+      "n": 76,
+      "q": "Arménie:",
+      "a": "EK"
+     },
+     {
+      "n": 77,
+      "q": "Jižní Korea",
+      "a": "DS - DT, D7–D9, HL"
+     },
+     {
+      "n": 78,
+      "q": "Severní Korea:",
+      "a": "P5–P9"
+     },
+     {
+      "n": 79,
+      "q": "Thajsko:",
+      "a": "HS"
+     },
+     {
+      "n": 80,
+      "q": "Saúdská Arábie:",
+      "a": "HZ, 7Z"
+     },
+     {
+      "n": 81,
+      "q": "Mexiko:",
+      "a": "XE–XI"
+     },
+     {
+      "n": 82,
+      "q": "Nový Zéland:",
+      "a": "ZL–ZM"
+     },
+     {
+      "n": 83,
+      "q": "Černá hora",
+      "a": "4O"
+     },
+     {
+      "n": 84,
+      "q": "Gruzie",
+      "a": "4L"
+     },
+     {
+      "n": 85,
+      "q": "Izrael",
+      "a": "4X, 4Z"
+     }
+    ],
+    "raw": []
+   }
+  ],
+  "dist": [
+   [
+    "a",
+    6
+   ],
+   [
+    "b",
+    3
+   ],
+   [
+    "c",
+    4
+   ],
+   [
+    "d",
+    4
+   ],
+   [
+    "e",
+    15
+   ],
+   [
+    "f",
+    8
+   ]
+  ],
+  "total": 40,
+  "dist_text": "Oddíl       Počet otázek"
+ },
+ {
+  "title": "elektrotechnika a radiotechnika",
+  "sections": [
+   {
+    "label": "a",
+    "title": "Elektrická, elektromagnetická a rádiová teorie",
+    "items": [
+     {
+      "n": 1,
+      "q": "Jednotkou elektrického proudu je:",
+      "a": "ampér"
+     },
+     {
+      "n": 2,
+      "q": "Jednotkou elektrického odporu je:",
+      "a": "ohm"
+     },
+     {
+      "n": 3,
+      "q": "Elektrický výkon měříme v jednotkách:",
+      "a": "W"
+     },
+     {
+      "n": 4,
+      "q": "Kmitočet měříme v jednotkách:",
+      "a": "Hz"
+     },
+     {
+      "n": 5,
+      "q": "M (mega) je předpona vyjadřující násobitel základní jednotky:",
+      "a": "106"
+     },
+     {
+      "n": 6,
+      "q": "1833 kHz lze též vyjádřit jako:",
+      "a": "1,833 MHz"
+     },
+     {
+      "n": 7,
+      "q": "Vlnová délka λ, kmitočet f a rychlost šíření světla c spolu souvisí dle vztahu:",
+      "a": "c=f·λ"
+     },
+     {
+      "n": 8,
+      "q": "Výkon P, proud I a odpor R spolu souvisí dle vztahu:",
+      "a": "P = I2 ·R"
+     },
+     {
+      "n": 9,
+      "q": "Nabitý akumulátor má kapacitu 4 Ah. Dodávat proud 400 mA vydrží:",
+      "a": "10 hodin"
+     },
+     {
+      "n": 10,
+      "q": "Odporem protéká stejnosměrný proud 2 A a je na něm napětí 10 V. Velikost odporu je:",
+      "a": "5Ω"
+     },
+     {
+      "n": 11,
+      "q": "Odebírá-li zařízení z 12 V akumulátoru proud 12 A, je jeho příkon:",
+      "a": "144 W"
+     },
+     {
+      "n": 12,
+      "q": "Pokud mi protistanice sdělí, že můj signál má malý zdvih, znamená to, že:",
+      "a": "výkon je dostatečný, ale modulace slabá"
+     },
+     {
+      "n": 13,
+      "q": "Jaký výkon bude dopraven ze 100 W vysílače do antény, 25 m dlouhým koaxiálním kabelem, který má útlum 12 dB / 100 m?",
+      "a": "50 W"
+     },
+     {
+      "n": 14,
+      "q": "Informace u amplitudově modulovaného signálu je obsažena:",
+      "a": "v libovolném postranním pásmu"
+     },
+     {
+      "n": 15,
+      "q": "Který typ modulace mění amplitudu vysokofrekvenčního signálu v závislosti na přiváděné informaci?",
+      "a": "amplitudová modulace"
+     },
+     {
+      "n": 16,
+      "q": "Který typ modulace mění kmitočet vysokofrekvenčního signálu v závislosti na přiváděném modulačním napětí?",
+      "a": "kmitočtová modulace"
+     },
+     {
+      "n": 17,
+      "q": "Který fonický druh běžného radioamatérského provozu vyžaduje nejmenší šíři pásma?",
+      "a": "SSB"
+     },
+     {
+      "n": 18,
+      "q": "K čemu slouží převodníky AD?",
+      "a": "k převodu analogových signálů na digitální"
+     },
+     {
+      "n": 19,
+      "q": "Jak je volen vzorkovací kmitočet při digitálním zpracování signálu?",
+      "a": "kmitočet je minimálně dvojnásobný, než je nejvyšší kmitočet analogové složky"
+     },
+     {
+      "n": 20,
+      "q": "Mám-li zařízení s příkonem 24 W, jehož napájecí napětí je 12 V, jaký je minimální požadovaný proud napájecího zdroje?",
+      "a": "2A"
+     },
+     {
+      "n": 21,
+      "q": "Ohmův zákon určuje vztah mezi:",
+      "a": "napětím, proudem a odporem"
+     },
+     {
+      "n": 22,
+      "q": "Decibel (dB) je jednotka vyjadřující poměr mezi dvěma fyzikálními veličinami na:",
+      "a": "logaritmické škále"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "b",
+    "title": "Součástky",
+    "items": [
+     {
+      "n": 1,
+      "q": "Indukčnost cívky měříme v jednotkách:",
+      "a": "H"
+     },
+     {
+      "n": 2,
+      "q": "Kapacitu kondenzátoru měříme v jednotkách:",
+      "a": "F"
+     },
+     {
+      "n": 3,
+      "q": "1,5 nF lze též vyjádřit jako:",
+      "a": "1500 pF"
+     },
+     {
+      "n": 4,
+      "q": "Označení hodnoty odporu 1M2 vyjadřuje hodnotu:",
+      "a": "1200000 Ω"
+     },
+     {
+      "n": 5,
+      "q": "Polovodičová dioda zapojená v propustném směru má na anodě:",
+      "a": "kladný pól"
+     },
+     {
+      "n": 6,
+      "q": "Zenerova dioda se chová jako stabilizátor napětí, je-li:",
+      "a": "zapojená v závěrném směru"
+     },
+     {
+      "n": 7,
+      "q": "Běžná křemíková dioda má prahové napětí cca:",
+      "a": "0,6 V"
+     },
+     {
+      "n": 8,
+      "q": "Jak se chová cívka, připojíme-li k ní střídavé napětí?",
+      "a": "při zvyšování kmitočtu přivedeného napětí se reaktance zvětšuje"
+     },
+     {
+      "n": 9,
+      "q": "Jak se chová kondenzátor, připojíme-li k němu střídavé napětí?",
+      "a": "při zvyšování kmitočtu přivedeného napětí se reaktance zmenšuje"
+     },
+     {
+      "n": 10,
+      "q": "Napětí a proud jsou u ideálních kondenzátorů posunuty a:",
+      "a": "proud předbíhá napětí o 90 stupňů"
+     },
+     {
+      "n": 11,
+      "q": "Napětí a proud jsou u ideálních indukčností posunuty a:",
+      "a": "napětí předbíhá proud o 90 stupňů"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "c",
+    "title": "Elektrické obvody",
+    "items": [
+     {
+      "n": 1,
+      "q": "Rezonanční kmitočet daného paralelního LC obvodu lze snížit např.:",
+      "a": "paralelním připojením dalšího kondenzátoru ke stávajícímu"
+     },
+     {
+      "n": 1,
+      "q": "Graetzovo zapojení diod je:",
+      "a": "dvoucestný usměrňovač"
+     },
+     {
+      "n": 2,
+      "q": "Výsledný odpor R dvou paralelně zapojených odporů R1 a R2 je roven:",
+      "a": "R = R1·R2 / (R1 + R2)"
+     },
+     {
+      "n": 3,
+      "q": "Tři paralelně zapojené kondenzátory 10 nF lze nahradit jedním o kapacitě",
+      "a": "30 nF"
+     },
+     {
+      "n": 4,
+      "q": "Výsledný odpor dvou paralelně zapojených rezistorů 2 kΩ a 3 kΩ bude:",
+      "a": "1,2 kΩ"
+     },
+     {
+      "n": 5,
+      "q": "π filtr, působící jako dolnofrekvenční propust, sestává:",
+      "a": "z kondenzátorů paralelně ke vstupu a výstupu filtru, propojených cívkou mezi vstupem a výstupem"
+     },
+     {
+      "n": 6,
+      "q": "Co se děje při přemodulování SSB signálu?",
+      "a": "je zkreslený a zabírá větší šířku pásma"
+     },
+     {
+      "n": 7,
+      "q": "Jaké součástky jsou použity v jednoduchém filtračním obvodu zdroje?",
+      "a": "kondenzátory a tlumivky"
+     },
+     {
+      "n": 8,
+      "q": "Co způsobí kmitání oscilátoru?",
+      "a": "kladná zpětná vazba"
+     },
+     {
+      "n": 9,
+      "q": "Záznějový oscilátor (BFO) slouží:",
+      "a": "k detekci SSB a CW signálů pomocí poměrového detektoru"
+     },
+     {
+      "n": 10,
+      "q": "Proč se usměrňovací diody u zdrojů překlenují paralelně zapojeným kondenzátorem a odporem?",
+      "a": "k vyhlazení poklesů napětí a ochraně před náhlými špičkami napětí"
+     },
+     {
+      "n": 11,
+      "q": "Ke stabilizaci napětí nízkonapěťových zdrojů slouží:",
+      "a": "Zenerovy diody"
+     },
+     {
+      "n": 12,
+      "q": "Impedance ideálního sériového laděného obvodu na rezonančním kmitočtu je:",
+      "a": "0Ω"
+     },
+     {
+      "n": 13,
+      "q": "Impedance paralelního laděného obvodu na rezonančním kmitočtu je:",
+      "a": "∞"
+     },
+     {
+      "n": 14,
+      "q": "Princip PLL syntetizátoru je založen na:",
+      "a": "neustálém porovnávání fáze oscilátoru s fází referenčního oscilátoru řízeného krystalem"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "d",
+    "title": "Rádiové přijímače",
+    "items": [
+     {
+      "n": 1,
+      "q": "Ovládací prvek transceiveru označený „RIT“ umožňuje:",
+      "a": "jemné rozladění kmitočtu přijímače od kmitočtu vysílače"
+     },
+     {
+      "n": 2,
+      "q": "Principem komunikačních přijímačů typu „Up-convertor“ je:",
+      "a": "že 1. mf kmitočet je vyšší než maximální přijímaný kmitočet"
+     },
+     {
+      "n": 3,
+      "q": "Pro příjem SSB a CW signálů nelze použít:",
+      "a": "superhet bez záznějového oscilátoru"
+     },
+     {
+      "n": 4,
+      "q": "Superhet pracuje s mezifrekvenčním kmitočtem 455 kHz. Na jakém kmitočtu bude pracovat oscilátor přijímače, je-li přijímaný kmitočet 3,750 MHz?",
+      "a": "4,205 MHz"
+     },
+     {
+      "n": 5,
+      "q": "Který stupeň u superhetu z přijímaného signálu a místního oscilátoru vytváří mezifrekvenční signál?",
+      "a": "směšovač"
+     },
+     {
+      "n": 6,
+      "q": "Směšuje-li přijímač přijímaný signál 14,255 MHz s kmitočtem VFO 13,8 MHz, aby získal mezifrekvenční kmitočet 455 kHz, vytváří nežádoucí signál o kmitočtu:",
+      "a": "28,055 MHz"
+     },
+     {
+      "n": 7,
+      "q": "S-metr slouží:",
+      "a": "k určování síly přijímaných signálů"
+     },
+     {
+      "n": 8,
+      "q": "Zrcadlový kmitočet vzniká:",
+      "a": "jako produkt směšování"
+     },
+     {
+      "n": 9,
+      "q": "Šumové číslo přijímače udává:",
+      "a": "kolikrát se zhorší poměr signál/šum při jeho průchodu ze vstupu na výstup přijímače"
+     },
+     {
+      "n": 10,
+      "q": "Citlivost přijímače udává:",
+      "a": "velikost vstupního napětí, při kterém je dosaženo požadovaného poměru signál/ šum (zpravidla10 dB)"
+     },
+     {
+      "n": 11,
+      "q": "Intermodulační zkreslení vzniká:",
+      "a": "jako produkt směšování více silných signálů a jejich harmonických"
+     },
+     {
+      "n": 12,
+      "q": "Selektivita přijímače je:",
+      "a": "schopnost vzájemně rozlišit různé signály"
+     },
+     {
+      "n": 13,
+      "q": "Umlčovač šumu (squelch) slouží:",
+      "a": "k uzavření výstupu nf zesilovače, pokud přijímač nepřijímá užitečný signál"
+     },
+     {
+      "n": 14,
+      "q": "Mezifrekvenční zesilovač zesiluje:",
+      "a": "signály převedené na pevný mezifrekvenční kmitočet"
+     },
+     {
+      "n": 15,
+      "q": "Pro rádiové přijímače SDR je typické:",
+      "a": "u SDR přijímačů je přijatý signál zpracováván digitálně namísto použití klasických analogových obvodů"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "e",
+    "title": "Rádiové vysílače",
+    "items": [
+     {
+      "n": 1,
+      "q": "Oscilátor vysílače by měl:",
+      "a": "mít pokud možno maximální stabilitu kmitočtu"
+     },
+     {
+      "n": 2,
+      "q": "Modulace SSB je odvozena od:",
+      "a": "amplitudové modulace"
+     },
+     {
+      "n": 3,
+      "q": "Modulace SSB je odvozena z amplitudové modulace, ve které je:",
+      "a": "potlačen nosný kmitočet a jedno z postranních pásem"
+     },
+     {
+      "n": 4,
+      "q": "Pokud mi protistanice sdělí, že můj signál má malý zdvih, znamená to že:",
+      "a": "výkon je dostatečný, ale modulace slabá"
+     },
+     {
+      "n": 5,
+      "q": "Nejčastějšími příčinami obsahu síťového brumu ve vysílaném signálu jsou:",
+      "a": "nedostatečně vyhlazené napájecí napětí, nebo poškozená mikrofonní šňůra"
+     },
+     {
+      "n": 6,
+      "q": "Výkon 100wattového SSB vysílače ve špičce modulační obálky je označován jako:",
+      "a": "100 W PEP"
+     },
+     {
+      "n": 7,
+      "q": "Elektronkové výkonové stupně používají na výstupu především:",
+      "a": "laděné obvody"
+     },
+     {
+      "n": 8,
+      "q": "Tranzistorové výkonové stupně používají na výstupu především:",
+      "a": "pásmové propusti"
+     },
+     {
+      "n": 9,
+      "q": "Potlačení nežádoucího postranního pásma u SSB vysílače uskutečňujeme obvykle:",
+      "a": "výběrem žádaného postranního pásma pomocí pásmového filtru"
+     },
+     {
+      "n": 10,
+      "q": "Kdy dodá vysílač nejvíce energie do zátěže (antény)?",
+      "a": "je-li výstupní impedance vysílače rovna impedanci zátěže"
+     },
+     {
+      "n": 11,
+      "q": "Co hrozí, pokud budu vysílat bez připojené antény či umělé zátěže?",
+      "a": "zničení koncového stupně vysílače"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "f",
+    "title": "Antény a napájecí vedení",
+    "items": [
+     {
+      "n": 1,
+      "q": "Změřená hodnota PSV 1:3 znamená, že se do antény z vysílače přenese cca:",
+      "a": "75 % výkonu"
+     },
+     {
+      "n": 2,
+      "q": "Půlvlnný otevřený dipól pro 3,5 MHz má délku jednoho ramene přibližně:",
+      "a": "20 m"
+     },
+     {
+      "n": 3,
+      "q": "Vstupní impedance uzavřeného dipólu ve volném prostoru je přibližně:",
+      "a": "300 Ω"
+     },
+     {
+      "n": 4,
+      "q": "O správném impedančním přizpůsobení vysílače k napáječi hovoříme tehdy, je-li poměr stojatých vln roven:",
+      "a": "1"
+     },
+     {
+      "n": 5,
+      "q": "Impedance koaxiálního kabelu je dána:",
+      "a": "průměrem vnitřního a vnějšího vodiče a typem použitého dielektrika"
+     },
+     {
+      "n": 6,
+      "q": "Zkracovací činitel u vf napájecích vedení vyjadřuje důsledek:",
+      "a": "rozdílné rychlosti šíření elektromagnetických vln na vedení a ve volném prostoru"
+     },
+     {
+      "n": 7,
+      "q": "Jeden z určujících parametrů použitelnosti vlnovodu jako napájecího vedení je:",
+      "a": "mezní kmitočet"
+     },
+     {
+      "n": 8,
+      "q": "Anténa typu GP (ground plane) má v horizontální rovině kruhový vyzařovací diagram a její polarizace je:",
+      "a": "vertikální"
+     },
+     {
+      "n": 9,
+      "q": "Balun je obvod, kterým se realizuje:",
+      "a": "přechod ze symetrického vedení na nesymetrické"
+     },
+     {
+      "n": 10,
+      "q": "Zisk antény typu Yagi lze zvětšit především:",
+      "a": "zvýšením počtu prvků"
+     },
+     {
+      "n": 11,
+      "q": "Mezi tzv. „smyčkové antény“ patří anténa typu:",
+      "a": "quad"
+     },
+     {
+      "n": 12,
+      "q": "Jaká opatření musí být učiněna, aby na anténním napáječi nevznikaly stojaté vlny?",
+      "a": "impedance antény musí být přizpůsobena k charakteristické impedanci napáječe"
+     },
+     {
+      "n": 13,
+      "q": "Co znamená výraz „předozadní poměr“?",
+      "a": "poměr vyzářeného výkonu v hlavním vyzařovacím laloku vzhledem k výkonu vyzářenému v opačném směru"
+     },
+     {
+      "n": 14,
+      "q": "Jaký tvar má vyzařovací diagram ideálního dipólu ve volném prostoru?",
+      "a": "má přibližně tvar číslice 8 rotující kolem podélné osy antény"
+     },
+     {
+      "n": 15,
+      "q": "Který z uvedených typů není zpravidla konstruován jako drátová anténa?",
+      "a": "Yagi"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "g",
+    "title": "Šíření rádiových vln",
+    "items": [
+     {
+      "n": 1,
+      "q": "Značení vrstev ionosféry směrem od povrchu Země je:",
+      "a": "D, E, F1, F2"
+     },
+     {
+      "n": 2,
+      "q": "Sluneční cyklus podílející se zásadně na šíření elektromagnetických vln má periodu:",
+      "a": "11 let"
+     },
+     {
+      "n": 3,
+      "q": "Pásma obvykle vhodná pro dálková spojení v noci jsou zejména:",
+      "a": "160 m, 80 m, 40 m"
+     },
+     {
+      "n": 4,
+      "q": "Běžná spojení v pásmu 70 cm jsou obvykle uskutečněna díky:",
+      "a": "přímé viditelnosti obou stanic"
+     },
+     {
+      "n": 5,
+      "q": "Jak se chová ionosféra při velkém počtu slunečních skvrn?",
+      "a": "pro dálkovou komunikaci jsou použitelné i kmitočty vyšší než 40 MHz"
+     },
+     {
+      "n": 6,
+      "q": "Co ovlivňuje rádiovou komunikaci s výjimkou šíření přízemní vlnou a přímého paprsku?",
+      "a": "sluneční aktivita"
+     },
+     {
+      "n": 7,
+      "q": "Co se obvykle stane s rádiovou vlnou o kmitočtu nižším než MUF, je-li vyslána do ionosféry?",
+      "a": "její část se vrátí zpět k Zemi"
+     },
+     {
+      "n": 8,
+      "q": "Jaký vliv může mít geomagnetická bouře na šíření rádiových vln?",
+      "a": "zhorší se šíření krátkých vln"
+     },
+     {
+      "n": 9,
+      "q": "Na intenzitu přijímaného signálu nemá vliv:",
+      "a": "napájecí napětí zdroje"
+     },
+     {
+      "n": 10,
+      "q": "Maximální použitelný kmitočet pro spoj Praha–Tokio je 17 MHz. Které z uvedených pásem nabízí nejlepší podmínky pro spojení?",
+      "a": "20 metrů"
+     },
+     {
+      "n": 11,
+      "q": "Co způsobuje, že KV rozptýlené (scatter) signály zní často zkresleně?",
+      "a": "rozptýlená energie se do odrazové zóny dostává po různých drahách"
+     },
+     {
+      "n": 12,
+      "q": "Který druh šíření umožňuje příjem signálů ve vzdálenostech větších, než umožňuje přízemní vlna a menších, než umožňuje ionosférické šíření?",
+      "a": "rozptyl"
+     },
+     {
+      "n": 13,
+      "q": "Jaká je průměrná výška ionosférické vrstvy E?",
+      "a": "100 km"
+     },
+     {
+      "n": 14,
+      "q": "Proč je ionosférická vrstva F2 nejdůležitější z hlediska dálkového šíření?",
+      "a": "jelikož je to nejvyšší vrstva"
+     },
+     {
+      "n": 15,
+      "q": "Při šíření ve volném prostoru ve vzdálenostech větších než 10 λ klesá intenzita elektromagnetického pole (mV/m):",
+      "a": "lineárně v závislosti na vzdálenosti"
+     },
+     {
+      "n": 16,
+      "q": "Spojení odrazem od Měsíce (EME) se zpravidla uskutečňují:",
+      "a": "v pásmech 3 cm až 6 m"
+     },
+     {
+      "n": 17,
+      "q": "Dopplerův jev se často objevuje při:",
+      "a": "provozu přes družice"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "h",
+    "title": "Měření elektrických veličin",
+    "items": [
+     {
+      "n": 1,
+      "q": "Velikost měřícího rozsahu u ampérmetru lze zvětšit:",
+      "a": "bočníkem (paralelní odpor)"
+     },
+     {
+      "n": 2,
+      "q": "Vstupní odpor voltmetru by měl být pokud možno:",
+      "a": "velký"
+     },
+     {
+      "n": 3,
+      "q": "Umělá zátěž pro nastavení vysílače by měla mít charakter:",
+      "a": "čistě ohmický"
+     },
+     {
+      "n": 4,
+      "q": "Na osciloskopu je znázorněn sinusový signál, jehož perioda je 20 ms. Jaký je kmitočet znázorněného signálu?",
+      "a": "50 Hz"
+     },
+     {
+      "n": 5,
+      "q": "Reflektometrický můstek slouží k:",
+      "a": "určení (nastavení) přizpůsobení antény"
+     },
+     {
+      "n": 6,
+      "q": "Měříme-li odebíraný proud, měřící přístroj připojíme:",
+      "a": "do série mezi zdroj a spotřebič"
+     },
+     {
+      "n": 7,
+      "q": "Spektrální analyzátor prioritně neslouží:",
+      "a": "k měření napětí stejnosměrných napájecích zdrojů"
+     },
+     {
+      "n": 8,
+      "q": "K čemu slouží PSV (SWR) metr?",
+      "a": "k nepřímému měření impedančního přizpůsobení antény"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "i",
+    "title": "Rušení a odolnost proti rušení",
+    "items": [
+     {
+      "n": 1,
+      "q": "Produkty nežádoucího vyzařování KV vysílače zpravidla potlačíme:",
+      "a": "zařazením hornofrekvenční zádrže mezi vysílač a anténu"
+     },
+     {
+      "n": 2,
+      "q": "Jaké součástky je vhodné použít pro potlačení detekce vf signálů na vstupu zesilovačů zvuku?",
+      "a": "blokovací kondenzátory"
+     },
+     {
+      "n": 3,
+      "q": "Dojde-li k rušení televizního příjmu vlivem silného KV signálu na vstupu televizního přijímače, zařadíme mezi televizor a anténu:",
+      "a": "dolnofrekvenční zádrž"
+     },
+     {
+      "n": 4,
+      "q": "Jakým způsobem může být minimalizována možnost rušení audiovizuálních přístrojů?",
+      "a": "zajištěním správného uzemnění všech částí zařízení"
+     },
+     {
+      "n": 5,
+      "q": "Jaký je jeden z hlavních způsobů potlačení bludné vf energie na stanici?",
+      "a": "dodržet délku uzemňovacího vodiče co nejkratší"
+     },
+     {
+      "n": 6,
+      "q": "Nežádoucí vyzařování z vysílače může být způsobeno:",
+      "a": "špatným stíněním vysílacího zařízení"
+     },
+     {
+      "n": 7,
+      "q": "Z hlediska možného rušení silným signálem je vhodné umístit vysílací anténu:",
+      "a": "co nejdále od antén televizních a rozhlasových přijímačů"
+     },
+     {
+      "n": 8,
+      "q": "Špatné přizpůsobení antény má vliv na:",
+      "a": "nežádoucí vyzařování z napáječe (souosého kabelu)"
+     },
+     {
+      "n": 9,
+      "q": "Rušení příjmu zejména na krátkovlnných pásmech může být způsobeno:",
+      "a": "pulzním (spínaným) zdrojem v blízkosti přijímače, antény nebo vedení – např. nabíječka mobilního telefonu, či LED svítidlo"
+     }
+    ],
+    "raw": []
+   },
+   {
+    "label": "j",
+    "title": "Bezpečnost elektrických zařízení",
+    "items": [
+     {
+      "n": 1,
+      "q": "Jestliže zamýšlené použití elektrického zařízení nezvyšuje nebezpečí úrazu elektrickým proudem (dříve v tzv. „prostorech normálních“ a „nebezpečných“), považujeme při dotyku živých částí zařízení během jeho obsluhy za bezpečná jmenovitá napětí těchto živých částí:",
+      "a": "stejnosměrná do 60 V a střídavá do 25 V"
+     },
+     {
+      "n": 2,
+      "q": "Ochranný vodič musí být označen barvou:",
+      "a": "kombinací žluto-zelené"
+     },
+     {
+      "n": 3,
+      "q": "Při úrazu elektrickým proudem:",
+      "a": "vyprostíme postiženého z dosahu elektrického proudu, zavoláme záchrannou službu, provedeme záklon hlavy a dojde-li k selhání základních životních funkcí (tep, dech, vědomí), zahájíme resuscitaci masáží srdce až do příjezdu záchranářů, příp. umělým dýcháním,"
+     },
+     {
+      "n": 4,
+      "q": "Před započetím umělého dýchání z plic do plic je třeba u postiženého:",
+      "a": "odstranit překážky z ústní dutiny, zaklonit hlavu, sevřít nos"
+     },
+     {
+      "n": 5,
+      "q": "Je-li v zařízení přerušena tavná pojistka:",
+      "a": "vadnou pojistku vyměníme za novou s předepsanými hodnotami pro příslušný obvod"
+     },
+     {
+      "n": 6,
+      "q": "Za bezpečné z hlediska úrazu elektrickým proudem jsou považovány ustálené proudy tekoucí mezi částmi přístupnými při dotyku:",
+      "a": "stejnosměrné do 10 mA a střídavé do 3,5 mA"
+     },
+     {
+      "n": 7,
+      "q": "Antény umístěné na střeše budov nebo samostatně stojící musí být vždy:",
+      "a": "řádně uzemněny"
+     },
+     {
+      "n": 8,
+      "q": "Jímací tyč hromosvodu:",
+      "a": "nesmí sloužit jako držák antény"
+     },
+     {
+      "n": 9,
+      "q": "Prodlužovací pohyblivé přívody pro elektrické předměty s ochranným vodičem (elektrické předměty třídy ochrany I) a síťové napětí 230 V musí mít:",
+      "a": "3 vodiče"
+     },
+     {
+      "n": 10,
+      "q": "Uzemňovací vodič antény:",
+      "a": "musí být spojen s hromosvodným systémem"
+     },
+     {
+      "n": 11,
+      "q": "Jak umístíme vnitřní anténu:",
+      "a": "co nejdále od vysílací pozice"
+     },
+     {
+      "n": 12,
+      "q": "Jaké bezpečnostní opatření musíme učinit při instalaci GP antény:",
+      "a": "anténu umístíme tak, aby se jí nikdo nemohl dotknout"
+     }
+    ],
+    "raw": []
+   }
+  ],
+  "dist": [
+   [
+    "a",
+    4
+   ],
+   [
+    "b",
+    2
+   ],
+   [
+    "c",
+    4
+   ],
+   [
+    "d",
+    2
+   ],
+   [
+    "e",
+    2
+   ],
+   [
+    "f",
+    1
+   ],
+   [
+    "g",
+    1
+   ],
+   [
+    "h",
+    1
+   ],
+   [
+    "i",
+    2
+   ],
+   [
+    "j",
+    1
+   ]
+  ],
+  "total": 20,
+  "dist_text": "Oddíl       Počet otázek"
+ }
+]

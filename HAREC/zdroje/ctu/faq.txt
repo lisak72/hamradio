@@ -1,0 +1,2293 @@
+                                                           Vložka č. 1 k čj. 26 273/2025-613
+
+
+
+     Otázky včetně správných odpovědí pro písemné testy zkoušek
+         pro jednotlivé druhy průkazů odborné způsobilosti
+               k obsluze vysílacích rádiových zařízení
+                 amatérské radiokomunikační služby
+
+Forma otázek a správných odpovědí je zpracována podle vyhlášky č. 157/2005 Sb.,
+o náležitostech přihlášky ke zkoušce k prokázání odborné způsobilosti k obsluze vysílacích
+rádiových zařízení, o rozsahu znalostí potřebných pro jednotlivé druhy odborné způsobilosti,
+o způsobu provádění zkoušek, o druzích průkazů odborné způsobilosti a době jejich platnosti,
+v platném znění (dále jen „vyhláška“). Znění jednotlivých otázek (oznamovací nebo tázací
+uvozující text) a odpovídajících odpovědí je formulováno tak, aby umožňovalo jednoznačný
+výběr jedné správné odpovědi (uvedeno dále) ze tří nabízených možností (bude v příslušných
+zkušebních testech).
+
+
+           Otázky a správné odpovědi pro písemné testy podle druhů průkazů
+                                odborné způsobilosti:
+
+                          (1) Průkaz HAREC operátora třídy A
+                                (podle § 2 písm. h) vyhlášky)
+
+Zkušební otázky a správné odpovědi pro třídu A – radiokomunikační předpisy:
+
+a)     Předpisy Mezinárodní telekomunikační unie (ITU)
+        1. Amatérskou radiokomunikační službou se rozumí:
+           - radiokomunikační služba pro sebevzdělávání a technická studia
+        2. Stanicí amatérské radiokomunikační služby se rozumí:
+           - jedno nebo více vysílacích a přijímacích zařízení včetně příslušenství,
+             umožňující komunikaci v amatérských pásmech
+        3. Obecná ustanovení Radiokomunikačního řádu Mezinárodní telekomunikační
+           unie (ITU) se týkají:
+           - i amatérské služby
+        4. Maximální výstupní výkon amatérských stanic stanovuje:
+           - národní povolovací orgán
+        5. Krátkodobé vysílání držitele oprávnění amatérské služby z území jiného
+           státu závisí na:
+           - povolovacím orgánu navštíveného státu
+        6. Česká republika se nachází v regionu podle Mezinárodní telekomunikační
+           unie (ITU):
+           -1
+        7. Status amatérské radiokomunikační služby v jednotlivých
+           radioamatérských pásmech je:
+           - různý
+        8. Radioamatérská stanice může být použita v zájmu třetí osoby:
+           - pro zajištění komunikace v případě přírodních katastrof
+
+
+                                          1 / 43
+      9. Požadavky na zkoušky amatérských stanic určuje:
+         - národní povolovací orgán
+     10. Tvar volací značky radioamatérské stanice je určen:
+         - Radiokomunikačním řádem Mezinárodní telekomunikační unie (ITU)
+     11. Radiokomunikační řád Mezinárodní telekomunikační unie (ITU) nepovoluje:
+         - třípísmenný sufix amatérské stanice, který začíná písmenem Q
+     12. Série mezinárodních volacích znaků pro jednotlivé státy přiděluje:
+         - Mezinárodní telekomunikační unie (ITU)
+     13. Status pásem přidělených amatérské radiokomunikační službě je určen:
+         - Radiokomunikačním řádem Mezinárodní telekomunikační unie (ITU)
+     14. Česká republika má přiděleny série volacích značek:
+         - OKA až OKZ a OLA až OLZ
+     15. Na stanice amatérské družicové radiokomunikační služby:
+         - se vztahují všechna ustanovení amatérské radiokomunikační služby
+     16. Má-li služba pásmo přiděleno na podružné bázi, pak:
+         - vysílání nesmí způsobit škodlivé rušení stanicím přednostních služeb
+
+b)   Předpisy Evropské konference poštovních a telekomunikačních správ (CEPT)
+      1. Doporučení CEPT T/R 61-02 stanoví:
+         - požadavky na zkoušky pro získání průkazu odborné způsobilosti k obsluze
+           stanice amatérské radiokomunikační služby
+      2. V navštívené zemi se používá volací značka, sestávající z:
+         - prefixu navštívené země podle Doporučení T/R 61-01, odděleného znakem „/“
+           od vlastní volací značky
+      3. Držitel oprávnění podle předpisů Evropské konference poštovních a
+         telekomunikačních správ (CEPT) může ze zahraničí vysílat
+         nepřetržitě:
+         - 3 měsíce
+      4. V navštívené zemi je nutno dodržovat:
+         - předpisy a nařízení navštívené země
+      5. V souladu s Doporučením CEPT T/R 61-01 je možno krátkodobě vysílat:
+         - i z nečlenských zemí CEPT které k Doporučení CEPT T/R 61-01 přistoupily
+      6. Volací znak pro navštívenou zemi je složen z národního volacího znaku držitele
+         povolení, kterému je předřazen prefix navštívené země, jak je stanoveno:
+         - Doporučením CEPT T/R 61-01
+      7. Třídy oprávnění podle předpisů Evropské konference poštovních
+         a telekomunikačních správ (CEPT) jsou:
+         - pouze jedna třída
+      8. Ačkoliv sylabus podle doporučení CEPT nepožaduje zkoušku pro ověření znalosti
+         telegrafie, některé země tuto znalost vyžadují. Aktuální přehled požadavků na
+         znalost telegrafie je uveden v::
+         - doporučení CEPT T/R 61-02
+      9. Na základě průkazu odborné způsobilosti HAREC je možno bez zkoušky
+         získat radioamatérské oprávnění v zemích:
+         - které přistoupily k Doporučení CEPT T/R 61-02
+     10. Na oprávnění podle předpisů Evropské konference poštovních a telekomunikačních
+         správ (CEPT) nemusí být uvedeno:
+         - rodné číslo držitele oprávnění
+     11. Doporučení T/R 61-01 se vztahuje na:
+         - oprávnění podle předpisů Evropské konference poštovních a telekomunikačních
+           správ (CEPT)
+
+
+                                        2 / 43
+     12. Na základě Doporučení T/R 61-01 držitel oprávnění podle předpisů
+         Evropské konference poštovních a telekomunikačních správ (CEPT):
+         - může vysílat ze země, která k tomuto doporučení přistoupila
+     13. Průkaz odborné způsobilosti HAREC opravňuje:
+         - k žádosti o vydání oprávnění k provozu stanice amatérské
+           radiokomunikační služby v zemích, které přistoupily k Doporučení CEPT
+           T/R 61-02
+     14. Průkaz odborné způsobilosti HAREC vystaví:
+         - povolovací orgán na základě úspěšně vykonané zkoušky
+     15. Země, ze kterých je možno vysílat v souladu s Doporučením CEPT T/R 61-01
+         jsou uvedeny:
+         - v Doporučení CEPT T/R 61-01
+     16. Doporučení CEPT T/R 61-01 se nevztahuje na:
+         - klubové stanice
+
+c)   Předpisy vycházející z legislativy České republiky
+      1. Stanici amatérské radiokomunikační služby lze provozovat:
+         - na základě oprávnění, které vydal Český telekomunikační úřad
+      2. Staniční deník:
+         - je požadován pouze u klubových stanic
+      3. Během změny vysílacího kmitočtu:
+         - nesmí být vyzařována žádná energie s výjimkou provozu přes družice
+      4. Zkušební provoz vysílače musí být:
+         - prováděn pouze do umělé zátěže s výjimkou nastavení antén a výstupních
+           obvodů vysílače
+      5. Při vysílání mimo stanovišť uvedených v oprávnění:
+         - doplníme volací značku o „/p“ při provozu z pevného stanoviště
+      6. Při vysílání mimo stanovišť uvedených v oprávnění:
+         - doplníme volací značku o „/m“ při mobilním provozu
+      7. Použití „/p“ a „/m“ není na přechodném stanovišti povinné:
+         - při radioamatérských závodech
+      8. K radioamatérskému provozu na prostředcích lodní a letecké dopravy:
+         - je nutný souhlas majitele, respektive provozovatele tohoto prostředku
+      9. Jednotlivé úseky pásem pro různé druhy provozu určuje:
+         - doporučení Mezinárodní radioamatérské unie (IARU)
+     10. Vysílání může obsahovat:
+         - radioamatérské zkratky a Q kódy
+     11. Za obsluhu klubové stanice odpovídá:
+         - dozírající operátor
+     12. Během mezinárodního závodu může operátor třídy A obsluhovat stanici
+         o maximálním výkonu:
+         - 1,5 kW v zastavěném obytném území
+     13. Jaká radioamatérská stanice automaticky přenáší signály jiné stanice?
+         - převáděč
+     14. Který druh radioamatérské stanice zajišťuje pouze jednocestnou komunikaci?
+         - maják
+     15. Kdy se mohou v radioamatérském provozu vysílat kódované zprávy?
+         - nikdy
+     16. Jaký je maximální vysílaný výkon, který může operátor třídy A použít
+         během závodu na kmitočtu 7 105 kHz?
+         - 750 W PEP
+
+                                        3 / 43
+17. Jaký je maximální vysílaný výkon, který může operátor třídy A použít na
+    kmitočtu 24 950 kHz?
+    - 750 W PEP
+18. Jaký je maximální vysílaný výkon, který může operátor třídy A použít
+    během závodu na kmitočtu 50 105 kHz?
+    - 25 W PEP
+19. Jaký je maximální vysílaný výkon, který může operátor třídy A použít
+    během běžného provozu na kmitočtu 1 820 kHz?
+    - 750 W PEP
+20. Jaký je maximální vysílaný výkon, který může operátor třídy A použít na
+    kmitočtu 1 900 kHz?
+    - 10 W PEP
+21. Oprávnění amatérské radiokomunikační služby má platnost:
+    - zpravidla 5 let, pokud není vydáno na dobu kratší
+22. Vysílače pro rádiový orientační běh:
+    - vysílají pouze mezinárodně používané znaky MO, MOE, MOI, MOS, MOH a
+      MO5
+23. Označení druhů provozu podle Přílohy č. 2 vyhlášky č. 156/2005 Sb., o
+    technických a provozních podmínkách amatérské radiokomunikační služby,
+    určuje:
+    - Radiokomunikační řád Mezinárodní telekomunikační unie (ITU)
+24. Vysílací zařízení s výkonem nad 6 W musí být opatřeno:
+    - nesymetrickým výstupem o impedanci 50  až 100 
+25. Fonický provoz LSB nelze uskutečnit na kmitočtu:
+    - 10,14 MHz
+26. Fonický provoz USB nelze uskutečnit na kmitočtu:
+    - 14,35 MHz
+27. Při současném použití více koncových stupňů pro napájení různých antén na
+    stejném kmitočtu:
+    - nesmí být překročeny povolené výkony v jejich součtu výkonů jednotlivých
+      zařízení
+28. Operátor, který není držitelem průkazu HAREC nebo NOVICE, může
+    klubovou stanici obsluhovat:
+    - ve třídě N pod dozorem oprávněného operátora
+29. Obsahem vysílání může být:
+    - vysílání mezinárodních zkratek a kódů a mezinárodně uznávaných protokolů
+30. K získání průkazu odborné způsobilosti HAREC není nutno skládat
+    zkoušku:
+    - z příjmu a vysílání telegrafie
+31. Výkon jednotlivých složek nežádoucího vyzařování vysílače
+    provozovaného v pásmu 6 m:
+    - musí být potlačen minimálně o 40 dB, smí být však maximálně 25 μW
+32. Výkon jednotlivých složek nežádoucího vyzařování vysílače s výkonem nad
+    25 W provozovaného v pásmu 2 m:
+    - musí být potlačen minimálně o 60 dB, smí být však maximálně 1 mW
+33. Výkon jednotlivých složek nežádoucího vyzařování vysílače
+    provozovaného na kmitočtech nižších než 29,7 MHz:
+    - musí být potlačen minimálně o 40 dB, smí být však maximálně 50 mW
+
+
+                                   4 / 43
+     34. Výkon jednotlivých složek nežádoucího vyzařování vysílače s výkonem nad
+         25 W provozovaného v pásmu 430 až 440 MHz:
+         - musí být potlačen minimálně o 60 dB, smí být však maximálně 20 mW
+     35. Na kmitočtu 1840 kHz nelze uskutečnit:
+         - SSB spojení
+     36. Na kmitočtu 10145 kHz lze provozovat:
+         - pouze úzkopásmové datové provozy
+     37. Zápis do staničního deníku klubové stanice během spojení provádí:
+         - operátor
+     38. Vlastní volací značku je nutno uvádět:
+         - na začátku a konci spojení, je-li kratší než 10 minut
+     39. Vlastní volací značku při delším spojení je nutno uvádět:
+         - na začátku a konci spojení a při delším spojení každých 10 minut
+     40. Při ohrožení života, zdraví a majetku lze stanici použít k tísňové komunikaci:
+         - v libovolných pásmech amatérské radiokomunikační služby
+     41. Pro účely státní kontroly musí být na stanici:
+         - výstupní konektor zařízení typu N nebo BNC, případně redukce z
+           výstupu vysílače na jeden z těchto konektorů
+     42. Označení druhu provozu podle Přílohy č. 2 vyhlášky o technických a
+         provozních podmínkách amatérské radiokomunikační služby neurčuje:
+         - druh radioamatérského provozu
+     43. Mezi neobsluhované stanice nepatří:
+         - pozemní stanice amatérské družicové radioamatérské služby
+     44. Maximální výstupní výkon neobsluhované stanice může být:
+         - 50 W
+     45. Neobsluhované stanice používají volací značku, která sestává:
+         - z prefixu OK0 a sufixu, který obsahuje jedno, dvě nebo tři písmena
+     46. Volací značka klubové stanice sestává:
+         - z prefixu OK1 nebo OK2 a sufixu, který má tři písmena, z nichž prvé je K,
+           O nebo R
+     47. Mezi přednostní pásma přidělená amatérské radiokomunikační službě
+         nepatří pásmo:
+         - 1850 až 2000 kHz
+     48. Na neinterferenční bázi má držitel oprávnění třídy A amatérské
+         radiokomunikační služby v České republice povoleno pásmo:
+         - 50 až 52 MHz
+
+
+
+Zkušební otázky jsou členěny do tří oddílů. Test obsahuje celkem 20 otázek vybraných
+z jednotlivých oddílů následovně:
+
+                                                    Oddíl            Počet otázek
+                                                     a)                   6
+                                                     b)                   2
+                                                     c)                   12
+                                                   Celkem                 20
+
+
+
+
+                                          5 / 43
+Zkušební otázky a správné odpovědi pro třídu A – radiokomunikační provoz:
+
+a)   Rozvrh kmitočtů a druhů provozu v radioamatérských pásmech
+  1. Rozvrh kmitočtů a druhů provozu v radioamatérských pásmech se řídí:
+     doporučením Mezinárodní radioamatérské unie (IARU) Region 1
+  2. V pásmu 1,8 MHz je celý úsek pro FONE provoz:
+     - 1 840 kHz – 2 000 kHz
+  3. V pásmu 1,8 MHz je výhradně pro CW provoz určen kmitočtový úsek:
+     - 1 810 kHz – 1 838 kHz
+  4. V pásmu 1,8 MHz je pro digitální provozy určen kmitočtový úsek:
+     - 1 838 kHz – 1 843 kHz
+  5. V pásmu 3,5 MHz je celý úsek pro FONE provoz:
+     - 3 600 kHz – 3 800 kHz
+  6. V pásmu 3,5 MHz je výhradně pro CW DX provoz určen úsek:
+     - 3 500 kHz – 3 510 kHz
+  7. V pásmu 3,5 MHz je výhradně pro CW provoz určen kmitočtový úsek:
+     - 3 500 kHz – 3 580 kHz
+  8. V pásmu 3,5 MHz je pro digitální provozy určen kmitočtový úsek:
+     - 3 580 kHz – 3 620 kHz
+  9. V pásmu 7 MHz je celý úsek pro FONE provoz:
+     - 7 050 kHz – 7 200 kHz
+ 10. V pásmu 7 MHz je výhradně pro CW provoz určen kmitočtový úsek:
+     - 7 000 kHz – 7 040 kHz
+ 11. V pásmu 7 MHz je pro digitální provozy určen kmitočtový úsek:
+     - 7 040 kHz – 7 060 kHz
+ 12. V pásmu 10 MHz je celý úsek pro FONE provoz:
+     - FONE provoz není povolen
+ 13. V pásmu 10 MHz je pro digitální provozy určen kmitočtový úsek:
+     - 10 140 kHz – 10 150 kHz
+ 14. V pásmu 14 MHz je výhradně pro CW provoz určen kmitočtový úsek:
+     - 14 000 kHz – 14 070 kHz
+ 15. V pásmu 14 MHz je celý úsek pro FONE provoz:
+     - 14 101 kHz – 14 350 kHz
+ 16. V pásmu 14 MHz je pro digitální provozy určen kmitočtový úsek:
+     - 14 070 kHz – 14 099 kHz
+ 17. V pásmu 18 MHz je výhradně pro CW provoz určen kmitočtový úsek:
+     - 18 068 kHz – 18 095 kHz
+ 18. V pásmu 18 MHz je celý úsek pro FONE provoz:
+     - 18 111 kHz – 18 168 kHz
+ 19. V pásmu 18 MHz je pro digitální provozy určen kmitočtový úsek:
+     - 18 095 kHz – 18 109 kHz
+ 20. V pásmu 21 MHz je výhradně pro CW provoz určen kmitočtový úsek:
+     - 21 000 kHz – 21 070 kHz
+ 21. V pásmu 21 MHz je celý úsek pro FONE provoz:
+     - 21 151 kHz – 21 450 kHz
+ 22. V pásmu 21 MHz je pro digitální provozy určen kmitočtový úsek:
+     - 21 070 kHz – 21 120 kHz
+ 23. V pásmu 24 MHz je celý úsek pro FONE provoz:
+     - 24 931 kHz – 24 990 kHz
+ 24. V pásmu 24 MHz je výhradně pro CW provoz určen kmitočtový úsek:
+     - 24 890 kHz – 24 915 kHz
+
+                                        6 / 43
+25. V pásmu 24 MHz je pro digitální provozy určen kmitočtový úsek:
+     - 24 915 kHz – 24 929 kHz
+26. V pásmu 28 MHz je pro FONE provoz určen úsek:
+     - 28 225 kHz – 29 300 kHz
+27. V pásmu 28 MHz je výhradně pro CW provoz určen kmitočtový úsek:
+     - 28 000 kHz – 28 070 kHz
+28. V pásmu 28 MHz je pro digitální provozy určen kmitočtový úsek:
+     - 28 070 kHz – 28 190 kHz
+29. Výhradně pro družicový „down-link“ je v pásmu 28 MHz určen úsek:
+     - 29 300 kHz – 29 510 kHz
+30. V pásmu 50–52 MHz jsou povoleny všechny úzkopásmové provozy v úseku:
+     - 50,1 MHz – 52 MHz
+31. V pásmu 50–52 MHz je přímý FM FONE provoz povolen v pásmu:
+     - 51,410 MHz – 51,590 MHz
+32. Pro pouze CW provoz je v pásmu 50–52 MHz určen úsek:
+     - 50 MHz – 50,1 MHz
+33. Pro pouze CW provoz je v pásmu 144–146 MHz určen úsek:
+     - 144,000 MHz – 144,110 MHz
+34. Výhradně pro EME CW provoz je v pásmu 144–146 MHz určen úsek:
+     úsek není určen
+35. Výhradně pro provoz přes družice je v pásmu 144–146 MHz určen úsek:
+     - 145,806 MHz – 146,0 MHz
+36. Výhradně pro majáky je v pásmu 144–146 MHz určen úsek:
+     - 144,400 MHz – 144,490 MHz
+37. Výhradně pro majáky je v pásmu 430–440 MHz určen úsek:
+     - 432,400 MHz – 432,490 MHz
+38. V pásmu 430–440 MHz jsou všechny druhy provozu povoleny v pásmu:
+     - 432,5 MHz – 432,975 MHz
+39. CW provoz se v pásmu 430–440 MHz přednostně uskutečňuje v úseku:
+     - 432,025 MHz – 432,1 MHz
+40. Pro CW i SSB provoz je v pásmu 430–440 MHz určen úsek:
+    - 432,1 MHz – 432,400 MHz
+41. Mezi pásma WARC patří:
+     - 30 m, 17 m, 12 m
+
+b) Hláskovací abeceda (česká/mezinárodní)
+   A      Adam / Alpha                           N     Norbert / November
+   B      Božena / Bravo                         O     Otakar / Oscar
+   C      Cyril / Charlie                        P     Petr / Papa
+   D      David / Delta                          Q     Quido / Quebec
+   E      Emil / Echo                            R     Rudolf / Romeo
+   F      František / Foxtrot                    S     Svatopluk / Sierra
+   G      Gustav / Golf                          T     Tomáš / Tango
+   H      Helena /Hotel                          U     Urban / Uniform
+   I      Ivan / India                           V     Václav / Victor
+   J      Josef /Juliett                         W     dvojité V / Whisky
+   K      Karel / Kilo                           X     Xaver / X-ray
+   L      Ludvík / Lima                          Y     Ypsilon / Yankee
+   M      Marie / Mike                           Z     Zuzana / Zulu
+
+                                     7 / 43
+c)   Provozní dovednosti
+     1.  Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na USA?
+         - cca 315
+     2. Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na Austrálii?
+         - cca 85
+     3. Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na Japonsko?
+         - cca 45
+     4. Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na Karibskou oblast?
+         - cca 280
+     5. Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na Jihoafrickou republiku?
+         - cca 175
+     6. Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na Havaj?
+         - cca 355
+     7. Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na Argentinu?
+         - cca 240
+     8. Tísňové volání pro CW provoz je:
+         - SOS
+     9. Tísňové volání pro FONE provoz je:
+         - MAYDAY
+     10. Volací značka FK/DL1YD/p znamená:
+         - DL1YD vysílá v rámci oprávnění podle předpisů Evropské konference
+            poštovních a telekomunikačních správ (CEPT) z Nové Kaledonie
+     11. „10 DWN“ znamená
+         - přeladit se o 10 kHz dolů
+     12. stanicemi předávaný report (RST) znamená:
+         - čitelnost, sílu signálu a tón
+     13. Při ladění po pásmu zaslechnu „QRL“ . Znamená to:
+         - před voláním všeobecné výzvy se stanice dotazuje, je-li tento kmitočet volný
+     14. Při ladění po pásmu zaslechnu volání „CQ DX“. Znamená to:
+         - stanice chce navázat spojení se vzdálenou stanicí (na KV mimo vlastní kontinent)
+     15. Při ladění po pásmu zaslechnu volání „CQ SA“. Znamená to:
+         - stanice chce navázat spojení se stanicí z jižní Ameriky
+     16. Při ladění po pásmu zaslechnu volání „CQ CQ DE TU5BB PSE UP 5 K“.
+         Znamená to:
+         - stanice z Pobřeží Slonoviny volá všeobecnou výzvu a chce být volána o 5 kHz
+            výše
+     17. Když stanice pracující na KV dostane report „588“ znamená to:
+         - dokonale čitelné, 25 µV na 50 vstupu RX, čistý tón s nádechem střídavé složky
+     18. Když stanice pracující na VKV dostane report „599“ znamená to:
+         - dokonale čitelné, 5 µV na 50  vstupu RX, zcela čistý tón
+     19. „I will not operate with OK stations for one hour“ znamená:
+         - stanice nebude pracovat s OK stanicemi 1 hodinu
+
+
+                                         8 / 43
+     20. „Short path“ znamená:
+         - spojení krátkou cestou šíření
+     21. „Is this frequency in use?“ znamená:
+         - před voláním všeobecné výzvy se stanice dotazuje, je-li tento kmitočet volný
+     22. Když stanice pracuje z listu, tak to znamená:
+         - pracuje podle předem sestaveného pořadí
+     23. Split provoz znamená:
+         - příjem a vysílání na různých kmitočtech
+     24. Pro radioamatérské závody by neměla být používána:
+         - pásma WARC.
+     25. Radioamatérské majáky jsou určeny pro:
+         - rychlé určení stavu podmínek šíření
+     26. Při vysílání SSTV signálů se zpravidla používá:
+         - počítač s odpovídajícím softwarem
+     27. Co označuje termín pile-up:
+         - současné volání populární stanice mnoha stanicemi najednou
+     28. Mezi digitální komunikační módy patří:
+         - RTTY
+     29. Některé komunikační módy potřebují pro správnou funkci přesný čas. Jaký je
+         jeden z možných způsobů, jak ho získat?
+         - pomocí GPS přijímače
+     30. Kdy označujeme rádiový provoz jako „remote“?
+         - operátor pracuje s vysílacím pracovištěm vzdáleně
+
+
+c)   Zkratky používané pro dotazy a sdělení (Q kódy)
+      1. Jsem rušen interferencí:
+         - QRM
+      2. Můžete zvýšit výkon?
+         - QRO?
+      3. Volá vás:
+         - QRZ
+      4. Počkejte, až vás zavolám:
+         - QRX
+      5. Síla vašich signálů kolísá:
+         - QSB
+      6. Vysílejte pomaleji:
+         - QRS
+      7. Přestaňte vysílat:
+         - QRT
+      8. Snižte výkon:
+         - QRP
+      9. Jste připraven?
+         - QRV?
+     10. Nemám pro vás nic nového:
+         - QRU
+     11. Potvrzuji příjem:
+         - QSL
+     12. Jste zaměstnán? Je kmitočet využíván/obsazen nebo volný?
+         - QRL?
+     13. Moje poloha je:
+         - QTH
+                                         9 / 43
+          14. Jste rušen atmosférickým rušením?
+              - QRN?
+          15. Mohu pracovat s … přímo (prostřednictvím)?
+              - QSO?
+          16. Mám přejít k vysílání na jiný kmitočet?
+              - QSY?
+          17. Vysílejte řadu V:
+              - QSV
+          18. Můžete mě poslouchat mezi svými značkami?
+              - QSK?
+          19. Nemohu vás přijímat. Vaše signály jsou velmi slabé:
+              - QRJ
+          20. Jaká je čitelnost mých značek?
+              - QRK?
+          21. slovo dvakrát:
+              - QSZ
+
+e)        Zkratky používané v radioamatérské komunikaci
+     1.  střídavý proud:
+         - AC
+     2. slyšen, slyšeno:
+         - HRD
+     3. radioamatér:
+         - HAM
+     4. opakovat:
+         - RPT
+     5. rádiový kmitočet:
+         - RF
+     6. automatické řízení úrovně
+         - ALC
+     7. přijímač:
+         - RX
+     8. zařízení:
+         - RIG
+     9. vše:
+         - ALL
+     10. automatické řízení zisku:
+         - AGC
+     11. jak?
+         - HW?
+     12. smích:
+         - HI
+     13. report:
+         - RPRT, RST
+     14. super vysoký kmitočet:
+         - SHF
+     15. amplitudová modulace:
+         - AM
+     16. opět, zase:
+         - AGN
+     17. já:
+         -I
+                                              10 / 43
+18. signály:
+    - SIGS
+19. anténa:
+    - AER, ANT
+20. konec vysílání:
+    - SK
+21. informace:
+    - INFO
+22. čekejte:
+    - AS
+23. mezifrekvence/ kdyby:
+    - IF
+24. domluvené spojení:
+    - SKED
+25. rušení rozhlasu:
+    - BCI
+26. stanice:
+    - STN
+27. jedno postranní pásmo:
+    - SSB
+28. slunečno:
+    - SUNNY
+29. zavolání, značka:
+    - CALL
+30. vysílejte:
+    -K
+31. uzavírám stanici:
+    - CL
+32. nízký kmitočet:
+    - LF
+33. krátké vlny:
+    - SW
+34. špatný operátor:
+    - LID
+35. činitel stojatých vln:
+    - PSV, SWR
+36. zataženo:
+    - OVERCAST
+37. podmínky pro spojení:
+    - CONDS
+38. teplota:
+    - TEMP
+39. staniční deník:
+    - LOG
+40. všeobecná výzva:
+    - CQ
+41. pokus:
+    - TEST
+42. děkuji:
+    - TNX, TKS
+43. rušení televize:
+    - TVI
+
+                             11 / 43
+44. dlouhý drát, dlouhé vlny:
+    - LW
+45. decibel:
+    - dB
+46. vysílač:
+    - TX
+47. stejnosměrný proud:
+    - DC
+48. k:
+    - TO
+49. spodní postranní pásmo:
+    - LSB
+50. Mezinárodní telekomunikační unie:
+    - ITU, UIT
+51. Mezinárodní radioamatérská unie:
+    - IARU
+52. přímo:
+    - DIRECT
+53. milý, drahý:
+    - DR
+54. diplom:
+    - AWARD
+55. dálkové spojení:
+    - DX
+56. váš, tvůj:
+    - UR
+57. elektronický klíč:
+    - ELBUG
+58. z, ze:
+    - DE
+59. za:
+    - FER
+60. pěkný, výborný:
+    - FB
+61. elektronky:
+    - TBS
+62. velmi pěkný:
+    - UFB
+63. kmitočtová modulace:
+    - FM
+64. jen:
+    - ONLY
+65. přítel:
+    - OM
+66. dobré odpoledne:
+    - GA
+67. dobré ráno:
+    - GM
+68. dobrý večer:
+    - GE
+69. sbohem:
+    - GB
+                                        12 / 43
+ 70. znovu:
+     - CUAGN
+ 71. koncesovaný:
+     - LIS
+ 72. nekoncesovaný:
+     - UNLIS
+ 73. transceiver:
+     - TRX
+ 74. prvek, element:
+     - EL
+ 75. ultravysoký kmitočet:
+     - UHF
+ 76. můj:
+     - my
+ 77. proměnný oscilátor:
+     - VFO
+ 78. ne:
+     - NO
+ 79. obálka s adresou a známkou:
+     - SASE
+ 80. telegrafie, netlumená vlna:
+     - CW
+ 81. světový čas koordinovaný:
+     - UTC
+82. velmi vysoký kmitočet:
+     - VHF
+83. v pořádku:
+     - OK
+84. fonie:
+     - FONE
+85. přes, prostřednictvím:
+     - VIA
+86. operátor:
+     - OP
+87. velmi:
+     - VY
+88. pracoval, pracující:
+     - WKD
+89. radioamatérská družice:
+     - OSCAR
+90. dobrý den:
+     - GD
+91. watty:
+     - WTTS
+92. počasí:
+     - WX
+93. štěstí, hodně štěstí:
+     - GL
+94. oblačno:
+     - CLOUDY
+95. rád, potěšen:
+     - GLD
+
+                                   13 / 43
+96.  koncový stupeň:
+     - PA
+97. manželka:
+     - XYL
+98. špičkový výkon:
+     - PEP
+99. slečna, přítelkyně:
+     - YL
+100. prosím:
+     - PSE
+101. dobrou noc:
+     - GN
+102. výkon:
+     - PWR
+103. srdečný pozdrav:
+     - 73
+104. polibek:
+     - 88
+105. země, uzemnění:
+     - GND
+106. správně přijato:
+     -R
+107. zmiz!:
+     - 99
+108. staniční lístek nezašlu:
+     - QSLN
+109. konec relace:
+     - AR
+110. přerušit:
+     - BK
+111. doufat:
+     - HPE
+112. automatické řízení hlasitosti:
+     - AVC
+113. podmínky pro dálkové spojení:
+     - CONDX
+114. asi, přibližně:
+     - ABT
+115. poloautomatický klíč:
+     - BUG
+116. zde, tady:
+     - HR
+117. pokračujte:
+     - GA
+118. potvrdit:
+     - CFM
+119. a:
+     - ES
+120. dolů:
+     - DWN
+121. zapsat, porozumět:
+     - CPI, CPY
+
+                                      14 / 43
+122. šťastný:
+     - HPY
+123. klíč:
+     - KY
+124. později na shledanou:
+     - CUL
+125. začátek relace:
+     - KA
+126. nic:
+     - NIL
+127. brzy:
+     - SN
+128. krátkovlnný posluchač:
+     - SWL
+129. jistě, určitě:
+     - SURE
+130. lituji, bohužel:
+     - SRI, SRY
+131. metr:
+     - MTR
+132. blízko, u:
+     - NR, NEAR
+133. síť:
+     - NET
+134. přijal, přijato:
+     - RCVD
+135. poslat, zaslat:
+     - SEND
+136. nahoru:
+     - UP
+137. Vánoce:
+     - XMAS
+138. horní postranní pásmo:
+     - USB
+139. rušení rádiového kmitočtu:
+     - RFI
+140. přecházím na poslech pro určitou stanici:
+     - KN
+
+f)      Používání prefixů ve volacích značkách
+     1. Česká republika
+        OL, OK
+     2. Nizozemsko:
+        - PA–PI
+     3. Německo:
+        - DA–DR
+     4. Švédsko:
+        - SA–SM, 7S, 8S
+     5. Rakousko:
+        - OE
+     6. Finsko:
+        - OF–OJ
+                                          15 / 43
+ 7. Slovensko:
+    - OM
+ 8. Dánsko:
+    - OU–OZ, XP, 5P, 5Q
+ 9. Polsko:
+    - HF, SN–SR, 3Z
+10. Norsko:
+    - LA–LN, 3Y
+11. Francie:
+    - F–FZ, F1–F0, HW, TH, TK, TM, TO, TV
+12. Španělsko:
+    - EA–EH
+13. Itálie:
+    - I, IA–IZ
+14. Řecko:
+    - SV–SZ, J4
+15. Slovinsko:
+    - S5
+16. Bulharsko:
+    - LZ
+17. Maďarsko: HA,
+    HG
+18. Rumunsko:
+    - YO–YR
+19. Ukrajina:
+    - EM–EO, UR–UZ
+20. Portugalsko:
+    - CQ-CU
+21. Rusko:
+    - UA–UI
+22. Spojené státy americké:
+    - K,N,W,AA–AK
+23. Estonsko:
+    - ES
+24. Kanada:
+    - CF-CK, CY-CZ, VA–VE, VO, VX, VY, XJ-XO
+25. Litva:
+    - LY
+26. Austrálie:
+    - VK
+27. Lotyšsko:
+    - YL
+28. Japonsko:
+    - JA–JS, 7J-7N, 8J-8N
+29. Belgie:
+    - ON–OT
+30. Brazílie:
+    - PP–PY
+31. Lucembursko:
+    - LX
+32. Jihoafrická republika:
+    - ZR–ZU
+
+                                 16 / 43
+33. Chorvatsko:
+    - 9A
+34. Argentina:
+    - LO–LW
+35. Makedonie:
+    - Z3
+36. Indie:
+    - VU
+37. Švýcarsko:
+    - HB, HE
+38. Skotsko:
+    - GM, GS
+39. Kanárské ostrovy:
+    - EA8–EH8
+40. Andorra:
+    - C3
+41. Azory:
+    - CQ2, CR2, CS2, CT2, CU2
+42. Baleáry:
+    - EA6–EH6
+43. Ceuta & Melila:
+    - EA9–EH9
+44. Irsko:
+    - EI, EJ
+45. Moldavsko:
+    - ER
+46. Bělorusko:
+    - EU–EW
+47. Anglie:
+    - G, GX
+48. Ostrov Man:
+    - GD, GT, MD
+49. Severní Irsko:
+    - GI, GN, MI
+50. Jersey:
+    - GJ, GH, MJ
+51. Guernsey:
+    - GU, GP, MU
+52. Wales:
+    - GW, GC, MW
+53. Lichtenštejnsko:
+    - HB0
+54. Vatikán:
+    - HV
+55. Sardinie:
+    - IS0, IM0
+56. Špicberky:
+    - JW
+57. Jan Mayen:
+    - JX
+58. Alandské ostrovy:
+    - OH0
+
+                                17 / 43
+ 59. Market Reef:
+     - OJ0
+ 60. Grónsko:
+     - OX
+ 61. Faerské ostrovy:
+     - OY
+ 62. Dodecanese:
+     - SV5–SZ5
+ 63. Kréta:
+     - SV9–SZ9
+ 64. San Marino:
+     - T7
+ 65. Bosna a Hercegovina:
+     - E7
+ 66. Turecko:
+     - TA–TC, YM
+ 67. Island:
+     - TF
+ 68. Korsika:
+     - TK
+ 69. Srbsko:
+     - YT–YU
+ 70. Albánie:
+     - ZA
+ 71. Monako:
+     - 3A
+ 72. Malta:
+     - 9H
+ 73. Tchaj-wan:
+     - BV
+ 74. Čína:
+     - BA–BZ (vč, B1 - B0)
+ 75. Kuba:
+     - CL, CM, CO, T4
+ 76. Arménie:
+     - EK
+77. Jižní Korea
+     - DS - DT, D7–D9, HL
+78. Severní Korea:
+     - P5–P9
+79. Thajsko:
+     - HS
+80. Saúdská Arábie:
+     - HZ, 7Z
+81. Mexiko:
+     - XE–XI
+82. Nový Zéland:
+     - ZL–ZM
+ 83. Černá hora
+     - 4O
+ 84. Gruzie
+     - 4L
+
+                             18 / 43
+85.   Izrael
+      - 4X, 4Z
+
+                                     Oddíl       Počet otázek
+                                      a)              6
+                                      b)              3
+                                      c)              4
+                                      d)              4
+                                      e)             15
+                                       f)             8
+                                    Celkem           40
+
+
+
+
+Zkušební otázky a správné odpovědi pro třídu A – elektrotechnika a radiotechnika
+
+a)    Elektrická, elektromagnetická a rádiová teorie
+       1. Jednotkou elektrického proudu je:
+          - ampér
+       2. Jednotkou elektrického odporu je:
+          - ohm
+       3. Elektrický výkon měříme v jednotkách:
+          -W
+       4. Kmitočet měříme v jednotkách:
+          - Hz
+       5. M (mega) je předpona vyjadřující násobitel základní jednotky:
+          - 106
+       6. 1833 kHz lze též vyjádřit jako:
+          - 1,833 MHz
+       7. Vlnová délka , kmitočet f a rychlost šíření světla c spolu souvisí dle vztahu:
+          -c=f·
+       8. Výkon P, proud I a odpor R spolu souvisí dle vztahu:
+            P = I2 ·R
+       9. Nabitý akumulátor má kapacitu 4 Ah. Dodávat proud 400 mA vydrží:
+          - 10 hodin
+      10. Odporem protéká stejnosměrný proud 2 A a je na něm napětí 10 V. Velikost
+          odporu je:
+          -5
+      11. Odebírá-li zařízení z 12 V akumulátoru proud 12 A, je jeho příkon:
+          - 144 W
+      12. Pokud mi protistanice sdělí, že můj signál má malý zdvih, znamená to, že:
+          - výkon je dostatečný, ale modulace slabá
+      13. Jaký výkon bude dopraven ze 100 W vysílače do antény, 25 m dlouhým
+          koaxiálním kabelem, který má útlum 12 dB / 100 m?
+          - 50 W
+      14. Informace u amplitudově modulovaného signálu je obsažena:
+           - v libovolném postranním pásmu
+      15. Který typ modulace mění amplitudu vysokofrekvenčního signálu v závislosti
+          na přiváděné informaci?
+          - amplitudová modulace
+
+                                             19 / 43
+     16. Který typ modulace mění kmitočet vysokofrekvenčního signálu v závislosti
+         na přiváděném modulačním napětí?
+         - kmitočtová modulace
+     17. Který fonický druh běžného radioamatérského provozu vyžaduje nejmenší šíři
+         pásma?
+         - SSB
+     18. K čemu slouží převodníky AD?
+         - k převodu analogových signálů na digitální
+     19. Jak je volen vzorkovací kmitočet při digitálním zpracování signálu?
+         - kmitočet je minimálně dvojnásobný, než je nejvyšší kmitočet analogové složky
+     20. Mám-li zařízení s příkonem 24 W, jehož napájecí napětí je 12 V, jaký je minimální
+         požadovaný proud napájecího zdroje?
+         -2A
+     21. Ohmův zákon určuje vztah mezi:
+         - napětím, proudem a odporem
+     22. Decibel (dB) je jednotka vyjadřující poměr mezi dvěma fyzikálními veličinami na:
+         - logaritmické škále
+
+b)   Součástky
+      1. Indukčnost cívky měříme v jednotkách:
+         -H
+      2. Kapacitu kondenzátoru měříme v jednotkách:
+         -F
+      3. 1,5 nF lze též vyjádřit jako:
+         - 1500 pF
+      4. Označení hodnoty odporu 1M2 vyjadřuje hodnotu:
+         - 1200000 
+      5. Polovodičová dioda zapojená v propustném směru má na anodě:
+         - kladný pól
+      6. Zenerova dioda se chová jako stabilizátor napětí, je-li:
+         - zapojená v závěrném směru
+     7. Běžná křemíková dioda má prahové napětí cca:
+         - 0,6 V
+     8. Jak se chová cívka, připojíme-li k ní střídavé napětí?
+         - při zvyšování kmitočtu přivedeného napětí se reaktance zvětšuje
+     9. Jak se chová kondenzátor, připojíme-li k němu střídavé napětí?
+         - při zvyšování kmitočtu přivedeného napětí se reaktance zmenšuje
+     10. Napětí a proud jsou u ideálních kondenzátorů posunuty a:
+         - proud předbíhá napětí o 90 stupňů
+     11. Napětí a proud jsou u ideálních indukčností posunuty a:
+         - napětí předbíhá proud o 90 stupňů
+
+c)   Elektrické obvody
+      1. Rezonanční kmitočet daného paralelního LC obvodu lze snížit např.:
+         - paralelním připojením dalšího kondenzátoru ke stávajícímu
+      1. Graetzovo zapojení diod je:
+         - dvoucestný usměrňovač
+      2. Výsledný odpor R dvou paralelně zapojených odporů R1 a R2 je roven:
+         - R = R1·R2 / (R1 + R2)
+      3. Tři paralelně zapojené kondenzátory 10 nF lze nahradit jedním o kapacitě
+         - 30 nF
+
+                                         20 / 43
+      4. Výsledný odpor dvou paralelně zapojených rezistorů 2 k a 3 k bude:
+         - 1,2 k
+      5. π filtr, působící jako dolnofrekvenční propust, sestává:
+         - z kondenzátorů paralelně ke vstupu a výstupu filtru, propojených cívkou mezi
+           vstupem a výstupem
+      6. Co se děje při přemodulování SSB signálu?
+         - je zkreslený a zabírá větší šířku pásma
+      7. Jaké součástky jsou použity v jednoduchém filtračním obvodu zdroje?
+         - kondenzátory a tlumivky
+      8. Co způsobí kmitání oscilátoru?
+         - kladná zpětná vazba
+      9. Záznějový oscilátor (BFO) slouží:
+         - k detekci SSB a CW signálů pomocí poměrového detektoru
+     10. Proč se usměrňovací diody u zdrojů překlenují paralelně zapojeným
+         kondenzátorem a odporem?
+         - k vyhlazení poklesů napětí a ochraně před náhlými špičkami napětí
+     11. Ke stabilizaci napětí nízkonapěťových zdrojů slouží:
+         - Zenerovy diody
+     12. Impedance ideálního sériového laděného obvodu na rezonančním kmitočtu je:
+         -0
+     13. Impedance paralelního laděného obvodu na rezonančním kmitočtu je:
+         -
+     14. Princip PLL syntetizátoru je založen na:
+         - neustálém porovnávání fáze oscilátoru s fází referenčního oscilátoru
+           řízeného krystalem
+
+d)   Rádiové přijímače
+      1. Ovládací prvek transceiveru označený „RIT“ umožňuje:
+         - jemné rozladění kmitočtu přijímače od kmitočtu vysílače
+      2. Principem komunikačních přijímačů typu „Up-convertor“ je:
+         - že 1. mf kmitočet je vyšší než maximální přijímaný kmitočet
+      3. Pro příjem SSB a CW signálů nelze použít:
+         - superhet bez záznějového oscilátoru
+      4. Superhet pracuje s mezifrekvenčním kmitočtem 455 kHz. Na jakém kmitočtu
+         bude pracovat oscilátor přijímače, je-li přijímaný kmitočet 3,750 MHz?
+         - 4,205 MHz
+      5. Který stupeň u superhetu z přijímaného signálu a místního oscilátoru
+         vytváří mezifrekvenční signál?
+         - směšovač
+      6. Směšuje-li přijímač přijímaný signál 14,255 MHz s kmitočtem VFO 13,8 MHz,
+         aby získal mezifrekvenční kmitočet 455 kHz, vytváří nežádoucí signál o kmitočtu:
+         - 28,055 MHz
+      7. S-metr slouží:
+         - k určování síly přijímaných signálů
+      8. Zrcadlový kmitočet vzniká:
+         - jako produkt směšování
+      9. Šumové číslo přijímače udává:
+         - kolikrát se zhorší poměr signál/šum při jeho průchodu ze vstupu na výstup
+           přijímače
+     10. Citlivost přijímače udává:
+         - velikost vstupního napětí, při kterém je dosaženo požadovaného poměru
+           signál/ šum (zpravidla10 dB)
+                                          21 / 43
+     11. Intermodulační zkreslení vzniká:
+         - jako produkt směšování více silných signálů a jejich harmonických
+     12. Selektivita přijímače je:
+         - schopnost vzájemně rozlišit různé signály
+     13. Umlčovač šumu (squelch) slouží:
+         - k uzavření výstupu nf zesilovače, pokud přijímač nepřijímá užitečný signál
+     14. Mezifrekvenční zesilovač zesiluje:
+         - signály převedené na pevný mezifrekvenční kmitočet
+     15. Pro rádiové přijímače SDR je typické:
+         - u SDR přijímačů je přijatý signál zpracováván digitálně namísto použití
+           klasických analogových obvodů
+
+e)   Rádiové vysílače
+      1. Oscilátor vysílače by měl:
+         - mít pokud možno maximální stabilitu kmitočtu
+      2. Modulace SSB je odvozena od:
+         - amplitudové modulace
+      3. Modulace SSB je odvozena z amplitudové modulace, ve které je:
+         - potlačen nosný kmitočet a jedno z postranních pásem
+      4. Pokud mi protistanice sdělí, že můj signál má malý zdvih, znamená to že:
+         - výkon je dostatečný, ale modulace slabá
+      5. Nejčastějšími příčinami obsahu síťového brumu ve vysílaném signálu jsou:
+         - nedostatečně vyhlazené napájecí napětí, nebo poškozená mikrofonní šňůra
+     6. Výkon 100wattového SSB vysílače ve špičce modulační obálky je označován
+         jako:
+         - 100 W PEP
+     7. Elektronkové výkonové stupně používají na výstupu především:
+         - laděné obvody
+     8. Tranzistorové výkonové stupně používají na výstupu především:
+         - pásmové propusti
+      9. Potlačení nežádoucího postranního pásma u SSB vysílače uskutečňujeme obvykle:
+         - výběrem žádaného postranního pásma pomocí pásmového filtru
+     10. Kdy dodá vysílač nejvíce energie do zátěže (antény)?
+         - je-li výstupní impedance vysílače rovna impedanci zátěže
+     11. Co hrozí, pokud budu vysílat bez připojené antény či umělé zátěže?
+         - zničení koncového stupně vysílače
+
+f)   Antény a napájecí vedení
+      1. Změřená hodnota PSV 1:3 znamená, že se do antény z vysílače přenese cca:
+         - 75  výkonu
+      2. Půlvlnný otevřený dipól pro 3,5 MHz má délku jednoho ramene přibližně:
+         - 20 m
+      3. Vstupní impedance uzavřeného dipólu ve volném prostoru je přibližně:
+         - 300 
+      4. O správném impedančním přizpůsobení vysílače k napáječi hovoříme tehdy, je-li
+         poměr stojatých vln roven:
+         -1
+      5. Impedance koaxiálního kabelu je dána:
+         - průměrem vnitřního a vnějšího vodiče a typem použitého dielektrika
+      6. Zkracovací činitel u vf napájecích vedení vyjadřuje důsledek:
+         - rozdílné rychlosti šíření elektromagnetických vln na vedení a ve volném prostoru
+
+                                          22 / 43
+      7. Jeden z určujících parametrů použitelnosti vlnovodu jako napájecího vedení je:
+         - mezní kmitočet
+      8. Anténa typu GP (ground plane) má v horizontální rovině kruhový vyzařovací
+         diagram a její polarizace je:
+         - vertikální
+     9. Balun je obvod, kterým se realizuje:
+         - přechod ze symetrického vedení na nesymetrické
+     10. Zisk antény typu Yagi lze zvětšit především:
+         - zvýšením počtu prvků
+     11. Mezi tzv. „smyčkové antény“ patří anténa typu:
+         - quad
+     12. Jaká opatření musí být učiněna, aby na anténním napáječi nevznikaly stojaté vlny?
+         - impedance antény musí být přizpůsobena k charakteristické impedanci napáječe
+     13. Co znamená výraz „předozadní poměr“?
+         - poměr vyzářeného výkonu v hlavním vyzařovacím laloku vzhledem k výkonu
+           vyzářenému v opačném směru
+     14. Jaký tvar má vyzařovací diagram ideálního dipólu ve volném prostoru?
+         - má přibližně tvar číslice 8 rotující kolem podélné osy antény
+     15. Který z uvedených typů není zpravidla konstruován jako drátová anténa?
+         - Yagi
+
+g)   Šíření rádiových vln
+      1. Značení vrstev ionosféry směrem od povrchu Země je:
+         - D, E, F1, F2
+      2. Sluneční cyklus podílející se zásadně na šíření elektromagnetických vln má
+         periodu:
+         - 11 let
+      3. Pásma obvykle vhodná pro dálková spojení v noci jsou zejména:
+         - 160 m, 80 m, 40 m
+      4. Běžná spojení v pásmu 70 cm jsou obvykle uskutečněna díky:
+         - přímé viditelnosti obou stanic
+      5. Jak se chová ionosféra při velkém počtu slunečních skvrn?
+         - pro dálkovou komunikaci jsou použitelné i kmitočty vyšší než 40 MHz
+      6. Co ovlivňuje rádiovou komunikaci s výjimkou šíření přízemní vlnou a přímého
+         paprsku?
+         - sluneční aktivita
+      7. Co se obvykle stane s rádiovou vlnou o kmitočtu nižším než MUF, je-li vyslána
+         do ionosféry?
+         - její část se vrátí zpět k Zemi
+      8. Jaký vliv může mít geomagnetická bouře na šíření rádiových vln?
+         - zhorší se šíření krátkých vln
+      9. Na intenzitu přijímaného signálu nemá vliv:
+         - napájecí napětí zdroje
+     10. Maximální použitelný kmitočet pro spoj Praha–Tokio je 17 MHz. Které
+         z uvedených pásem nabízí nejlepší podmínky pro spojení?
+         - 20 metrů
+     11. Co způsobuje, že KV rozptýlené (scatter) signály zní často zkresleně?
+         - rozptýlená energie se do odrazové zóny dostává po různých drahách
+     12. Který druh šíření umožňuje příjem signálů ve vzdálenostech větších, než
+         umožňuje přízemní vlna a menších, než umožňuje ionosférické šíření?
+         - rozptyl
+
+                                         23 / 43
+     13. Jaká je průměrná výška ionosférické vrstvy E?
+         -100 km
+     14. Proč je ionosférická vrstva F2 nejdůležitější z hlediska dálkového šíření?
+         - jelikož je to nejvyšší vrstva
+     15. Při šíření ve volném prostoru ve vzdálenostech větších než 10 λ klesá intenzita
+         elektromagnetického pole (mV/m):
+         - lineárně v závislosti na vzdálenosti
+     16. Spojení odrazem od Měsíce (EME) se zpravidla uskutečňují:
+         - v pásmech 3 cm až 6 m
+     17. Dopplerův jev se často objevuje při:
+         - provozu přes družice
+
+h)   Měření elektrických veličin
+      1. Velikost měřícího rozsahu u ampérmetru lze zvětšit:
+         - bočníkem (paralelní odpor)
+      2. Vstupní odpor voltmetru by měl být pokud možno:
+         - velký
+      3. Umělá zátěž pro nastavení vysílače by měla mít charakter:
+         - čistě ohmický
+      4. Na osciloskopu je znázorněn sinusový signál, jehož perioda je 20 ms. Jaký je
+         kmitočet znázorněného signálu?
+         - 50 Hz
+      5. Reflektometrický můstek slouží k:
+         - určení (nastavení) přizpůsobení antény
+      6. Měříme-li odebíraný proud, měřící přístroj připojíme:
+         - do série mezi zdroj a spotřebič
+      7. Spektrální analyzátor prioritně neslouží:
+         - k měření napětí stejnosměrných napájecích zdrojů
+      8. K čemu slouží PSV (SWR) metr?
+         - k nepřímému měření impedančního přizpůsobení antény
+
+i)   Rušení a odolnost proti rušení
+      1. Produkty nežádoucího vyzařování KV vysílače zpravidla potlačíme:
+         - zařazením hornofrekvenční zádrže mezi vysílač a anténu
+      2. Jaké součástky je vhodné použít pro potlačení detekce vf signálů na vstupu
+         zesilovačů zvuku?
+         - blokovací kondenzátory
+      3. Dojde-li k rušení televizního příjmu vlivem silného KV signálu na vstupu
+         televizního přijímače, zařadíme mezi televizor a anténu:
+         - dolnofrekvenční zádrž
+      4. Jakým způsobem může být minimalizována možnost rušení audiovizuálních
+         přístrojů?
+         - zajištěním správného uzemnění všech částí zařízení
+      5. Jaký je jeden z hlavních způsobů potlačení bludné vf energie na stanici?
+         - dodržet délku uzemňovacího vodiče co nejkratší
+      6. Nežádoucí vyzařování z vysílače může být způsobeno:
+         - špatným stíněním vysílacího zařízení
+      7. Z hlediska možného rušení silným signálem je vhodné umístit vysílací anténu:
+         - co nejdále od antén televizních a rozhlasových přijímačů
+      8. Špatné přizpůsobení antény má vliv na:
+         - nežádoucí vyzařování z napáječe (souosého kabelu)
+
+                                          24 / 43
+       9. Rušení příjmu zejména na krátkovlnných pásmech může být způsobeno:
+          - pulzním (spínaným) zdrojem v blízkosti přijímače, antény nebo vedení – např.
+            nabíječka mobilního telefonu, či LED svítidlo
+
+j)   Bezpečnost elektrických zařízení
+      1. Jestliže zamýšlené použití elektrického zařízení nezvyšuje nebezpečí úrazu
+         elektrickým proudem (dříve v tzv. „prostorech normálních“ a „nebezpečných“),
+         považujeme při dotyku živých částí zařízení během jeho obsluhy za bezpečná
+         jmenovitá napětí těchto živých částí:
+         - stejnosměrná do 60 V a střídavá do 25 V
+      2. Ochranný vodič musí být označen barvou:
+         - kombinací žluto-zelené
+      3. Při úrazu elektrickým proudem:
+         - vyprostíme postiženého z dosahu elektrického proudu, zavoláme záchrannou
+           službu, provedeme záklon hlavy a dojde-li k selhání základních životních
+           funkcí (tep, dech, vědomí), zahájíme resuscitaci masáží srdce až do příjezdu
+           záchranářů, příp. umělým dýcháním,
+      4. Před započetím umělého dýchání z plic do plic je třeba u postiženého:
+         - odstranit překážky z ústní dutiny, zaklonit hlavu, sevřít nos
+      5. Je-li v zařízení přerušena tavná pojistka:
+         - vadnou pojistku vyměníme za novou s předepsanými hodnotami pro příslušný obvod
+      6. Za bezpečné z hlediska úrazu elektrickým proudem jsou považovány ustálené
+         proudy tekoucí mezi částmi přístupnými při dotyku:
+         - stejnosměrné do 10 mA a střídavé do 3,5 mA
+      7. Antény umístěné na střeše budov nebo samostatně stojící musí být vždy:
+         - řádně uzemněny
+      8. Jímací tyč hromosvodu:
+         - nesmí sloužit jako držák antény
+      9. Prodlužovací pohyblivé přívody pro elektrické předměty s ochranným vodičem
+         (elektrické předměty třídy ochrany I) a síťové napětí 230 V musí mít:
+         - 3 vodiče
+     10. Uzemňovací vodič antény:
+         - musí být spojen s hromosvodným systémem
+     11. Jak umístíme vnitřní anténu:
+         - co nejdále od vysílací pozice
+     12. Jaké bezpečnostní opatření musíme učinit při instalaci GP antény:
+         - anténu umístíme tak, aby se jí nikdo nemohl dotknout
+
+Zkušební otázky jsou členěny do deseti oddílů. Test obsahuje celkem 20 otázek vybraných z
+jednotlivých oddílů následovně:
+                                        Oddíl       Počet otázek
+                                        a)               4
+                                        b)               2
+                                        c)               4
+                                        d)               2
+                                        e)               2
+                                         f)              1
+                                        g)               1
+                                        h)               1
+                                         i)              2
+                                         j)              1
+                                      Celkem            20
+
+                                          25 / 43
+                       (2) Průkaz NOVICE operátora třídy N
+                             (podle § 2 písm. i) vyhlášky)
+
+Zkušební otázky a správné odpovědi pro třídu N – radiokomunikační předpisy
+
+a)   Předpisy Mezinárodní telekomunikační unie (ITU)
+      1. Amatérskou radiokomunikační službou se rozumí:
+         - radiokomunikační služba pro sebevzdělávání a technická studia
+      2. Stanicí amatérské radiokomunikační služby se rozumí:
+         - jedno nebo více vysílacích a přijímacích zařízení včetně příslušenství,
+           umožňující komunikaci v radioamatérských pásmech
+      3. Obecná ustanovení Radiokomunikačního řádu Mezinárodní telekomunikační unie
+         (ITU) se týkají:
+         - i amatérské služby
+      4. Maximální výkon amatérských stanic stanovuje:
+         - národní povolovací orgán
+      5. Krátkodobé vysílání držitele povolení amatérské služby z území jiného státu
+         závisí na:
+         - povolovacím orgánu navštíveného státu
+      6. Česká republika se nachází v regionu podle Mezinárodní telekomunikační
+         unie (ITU):
+         -1
+      7. Status amatérské radiokomunikační služby v jednotlivých
+         radioamatérských pásmech je:
+         - různý
+      8. Radioamatérská stanice může být použita v zájmu třetí osoby:
+         - pro zajištění komunikace v případě přírodních katastrof
+      9. Požadavky na zkoušky amatérských stanic určuje:
+         - národní povolovací orgán
+     10. Tvar volací značky radioamatérské stanice je určen:
+         - Radiokomunikačním řádem Mezinárodní telekomunikační unie (ITU)
+     11. Radiokomunikační řád Mezinárodní telekomunikační unie (ITU) nepovoluje:
+          - třípísmenný sufix amatérské stanice, který začíná písmenem Q
+     12. Série mezinárodních volacích znaků pro jednotlivé státy přiděluje:
+         - Mezinárodní telekomunikační unie (ITU)
+     13. Status pásem přidělených amatérské radiokomunikační službě je určen:
+         - Radiokomunikačním řádem Mezinárodní telekomunikační unie (ITU)
+     14. Česká republika má přiděleny série volacích značek:
+         - OKA až OKZ a OLA až OLZ
+     15. Na stanice amatérské družicové radiokomunikační služby:
+         - se vztahují všechna ustanovení amatérské radiokomunikační služby
+     16. Má-li služba pásmo přiděleno na podružné bázi, pak:
+         - vysílání nesmí způsobit škodlivé rušení stanicím přednostních služeb
+
+b)   Předpisy Evropské konference poštovních a telekomunikačních správ (CEPT)
+      1. Doporučení CEPT T/R 61-02 stanoví:
+         - požadavky na zkoušky pro získání průkazu odborné způsobilosti k obsluze
+           stanice amatérské radiokomunikační služby
+      2. Doporučení T/R 61-01 se vztahuje na:
+         - oprávnění podle předpisů Evropské konference poštovních a
+           telekomunikačních správ (CEPT)
+
+                                        26 / 43
+      3. Země, ze kterých je možno vysílat v souladu s Doporučením CEPT T/R 61-01,
+         jsou uvedeny:
+         - v Doporučení CEPT T/R 61-01
+      4. Doporučení CEPT T/R 61-01 se nevztahuje na:
+         - držitele individuálního oprávnění třídy N
+
+c)   Předpisy vycházející z legislativy České republiky
+      1. Stanici amatérské radiokomunikační služby lze provozovat:
+         - na základě oprávnění, které vydal Český telekomunikační úřad
+      2. Staniční deník:
+         - je požadován pouze u klubových stanic
+      3. Během změny vysílacího kmitočtu:
+         - nesmí být vyzařována žádná energie s výjimkou provozu přes družice
+      4. Zkušební provoz vysílače musí být:
+         - prováděn pouze do umělé zátěže s výjimkou nastavení antén a výstupních
+           obvodů vysílače
+      5. Při vysílání mimo stanovišť uvedených v oprávnění:
+         - doplníme volací značku o „/p“ při provozu z pevného stanoviště
+      6. Při vysílání mimo stanovišť uvedených v oprávnění:
+         - doplníme volací značku o „/m“ při mobilním provozu
+      7. Použití „/p“ a „/m“ není na přechodném stanovišti povinné:
+         - při radioamatérských závodech
+      8. K radioamatérskému provozu na prostředcích lodní a letecké dopravy:
+         - je nutný souhlas majitele, respektive provozovatele tohoto prostředku
+      9. Jednotlivé úseky pásem pro různé druhy provozu určuje:
+         - doporučení Mezinárodní radioamatérské unie (IARU)
+     10. Vysílání může obsahovat:
+         - radioamatérské zkratky a Q kódy
+     11. Za obsluhu klubové stanice odpovídá:
+         - dozírající operátor
+     12. Během mezinárodního závodu může operátor třídy N obsluhovat stanici o výkonu:
+         - 10 W PEP
+     13. Jaká radioamatérská stanice automaticky přenáší signály jiné stanice:
+         - převáděč
+     14. Který druh radioamatérské stanice zajišťuje pouze jednocestnou komunikaci?
+         - maják
+     15. Kdy se mohou v radioamatérském provozu vysílat kódované zprávy?
+         - nikdy
+     16. Jaký je maximální vysílaný výkon, který může operátor třídy N použít
+         během závodu na kmitočtu 7 105 kHz?
+         - žádný
+     17. Jaký je maximální vysílaný výkon, který může operátor třídy N použít během
+         běžného provozu na kmitočtu 1 840 kHz?
+         - 10 W PEP
+     18. Jaký je maximální vysílaný výkon, který může operátor třídy N použít na kmitočtu
+         1 900 kHz?
+         - 10 W PEP
+     19. Oprávnění stanice amatérské radiokomunikační služby má platnost:
+         - zpravidla 5 let, pokud není uděleno na dobu kratší
+     20. Vysílače pro rádiový orientační běh:
+         - vysílají pouze mezinárodně používané znaky MO, MOE, MOI, MOS, MOH
+           a MO5
+                                         27 / 43
+     21. Operátor, který není držitelem průkazu HAREC nebo NOVICE, může
+         klubovou stanici obsluhovat:
+         - ve třídě N pod dozorem oprávněného operátora
+     22. Vysílací zařízení s výkonem nad 6 W musí být opatřeno:
+         - nesymetrickým výstupem o impedanci 50  až 100 
+     23. Obsahem vysílání může být:
+         - vysílání mezinárodních zkratek a kódů a mezinárodně uznávaných protokolů
+     24. K získání průkazu odborné způsobilosti NOVICE není nutno skládat zkoušku:
+         - z příjmu a vysílání telegrafie
+     25. Na kmitočtu 1840 kHz nelze uskutečnit:
+         - SSB spojení
+     26. Vlastní volací značku je nutno uvádět:
+         - na začátku a konci spojení, je-li kratší než 10 minut
+     27. Vlastní volací značku při delším spojení je nutno uvádět:
+         - na začátku a konci spojení a při delším spojení každých 10 minut
+     28. Při ohrožení života, zdraví a majetku lze stanici použít k tísňové komunikaci:
+         - v libovolných pásmech amatérské radiokomunikační služby
+     29. Mezi neobsluhované stanice nepatří:
+         - pozemní stanice amatérské družicové radioamatérské služby
+     30. Neobsluhované stanice používají volací značku, která sestává:
+         - z prefixu OK0 a sufixu, který obsahuje jedno, dvě nebo tři písmena
+
+
+Zkušební otázky jsou členěny do tří oddílů. Test obsahuje celkem 20 otázek vybraných
+z jednotlivých oddílů následovně:
+                                       Oddíl        Počet otázek
+                                        a)               6
+                                        b)               2
+                                        c)              12
+                                      Celkem            20
+
+
+
+
+                                          28 / 43
+                      (2) Průkaz NOVICE operátora třídy N
+                            (podle § 2 písm. i) vyhlášky)
+Zkušební otázky a správné odpovědi pro třídu N – radiokomunikační provoz
+
+a)   Rozvrh kmitočtů a druhů provozu v radioamatérských pásmech
+      1. Rozvrh kmitočtů a druhů provozu v radioamatérských pásmech se řídí:
+         - doporučením IARU Region 1
+      2. V pásmu 1,8 MHz je pro provoz třídy N určen kmitočtový úsek:
+         - 1 830 kHz – 2 000 kHz
+      3. V pásmu 1,8 MHz je celý kmitočtový úsek pro FONE provoz třídy N:
+         - 1 840 kHz – 2 000 kHz
+      4. V pásmu 1,8 MHz je výhradně pro CW provoz třídy A určen kmitočtový úsek:
+         - 1 810 kHz – 1 838 kHz
+      5. V pásmu 1,8 MHz je pro digitální provozy určen kmitočtový úsek:
+         - 1 838 kHz – 1 843 kHz
+      6. V pásmu 3,5 MHz je pro provoz třídy N určen kmitočtový úsek:
+         - 3 550 kHz – 3 700 kHz
+      7. V pásmu 3,5 MHz je kmitočtový úsek pro FONE provoz třídy N:
+         - 3 600 kHz – 3 700 kHz
+      8. V pásmu 3,5 MHz je pro CW DX provoz třídy N určen kmitočtový úsek:
+         - kmitočtový úsek není určen
+      9. V pásmu 3,5 MHz je výhradně pro CW provoz třídy N určen kmitočtový úsek:
+         - 3 550 kHz – 3 580 kHz
+     10. V pásmu 3,5 MHz je pro digitální provozy určen kmitočtový úsek:
+         - 3 580 kHz – 3 620 kHz
+     11. V pásmu 21 MHz je pro provoz třídy N určen kmitočtový úsek:
+         - 21 050 kHz – 21 200 kHz
+     12. V pásmu 21 MHz je kmitočtový úsek pro FONE provoz třídy N:
+         - 21 151 kHz – 21 200 kHz
+     13. V pásmu 21 MHz je výhradně pro CW provoz třídy N určen kmitočtový úsek:
+         - 21 050 kHz – 21 070 kHz
+     14. V pásmu 21 MHz je pro digitální provozy určen kmitočtový úsek:
+         - 21 070 kHz – 21 120 kHz
+     15. V pásmu 28 MHz je pro provoz třídy N určen kmitočtový úsek:
+         - 28 050 kHz – 28 400 kHz
+     16. V pásmu 28 MHz je kmitočtový úsek pro FONE provoz třídy N:
+         - 28 225 kHz – 28 400 kHz
+     17. V pásmu 28 MHz je výhradně pro CW provoz třídy N určen kmitočtový úsek:
+         - 28 050 kHz – 28 070 kHz
+     18. V pásmu 28 MHz je pro digitální provozy určen kmitočtový úsek:
+         - 28 070 kHz – 28 190 kHz
+     19. Výhradně pro CW provoz je v pásmu 144–146 MHz určen úsek:
+         - 144,000 MHz – 144,110 MHz
+     20. Výhradně pro EME CW provoz je v pásmu 144–146 MHz určen úsek:
+         - úsek není určen
+     21. Výhradně pro provoz přes družice je v pásmu 144–146 MHz určen úsek:
+         - 145,806 MHz – 146,0 MHz
+     22. Výhradně pro majáky je v pásmu 144–146 MHz určen úsek:
+         - 144,400 MHz – 144,490 MHz
+
+                                    29 / 43
+     23. Výhradně pro majáky je v pásmu 430–440 MHz určen úsek:
+         - 432,400 MHz – 432,490 MHz
+     24. V pásmu 430–440 MHz jsou všechny druhy provozu povoleny v úseku:
+         - 432,5 MHz – 432,975 MHz
+     25. CW provoz se v pásmu 430–440 MHz přednostně uskutečňuje v úseku:
+         - 432,025 MHz – 432,1 MHz
+     26. Pro CW i SSB provoz je v pásmu 430–440 MHz určen úsek:
+         - 432,1 MHz – 432,400 MHz
+     27. Pro provoz třídy N je v pásmu 1 240 – 1 300 MHz určen kmitočtový úsek:
+         - 1 240 – 1 300 MHz
+     28. Pro provoz třídy N je v pásmu 2 300 – 2 450 MHz určen kmitočtový úsek:
+         - 2 300 – 2 450 MHz
+     29. Mezi pásma WARC patří:
+         - 30 m, 17 m, 12 m
+
+b) Hláskovací abeceda česká/mezinárodní)
+     A      Adam / Alpha                              N       Norbert / November
+     B      Božena / Bravo                            O       Otakar / Oscar
+     C      Cyril / Charlie                           P       Petr / Papa
+     D      David / Delta                             Q       Quido / Quebec
+     E      Emil / Echo                               R       Rudolf / Romeo
+     F      František / Foxtrot                       S       Svatopluk / Sierra
+     G      Gustav / Golf                             T       Tomáš / Tango
+     H      Helena /Hotel                             U       Urban / Uniform
+     I      Ivan / India                              V       Václav / Victor
+     J      Josef /Juliett                            W       dvojité V / Whisky
+     K      Karel / Kilo                              X       Xaver / X-ray
+     L      Ludvík / Lima                             Y       Ypsilon / Yankee
+     M      Marie / Mike                              Z       Zuzana / Zulu
+
+c)   Provozní dovednosti
+      1. Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na USA?
+         - cca 315
+      2. Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na Austrálii?
+         - cca 85
+     3. Pod jakým azimutem se za normálních podmínek šíření směruje z Prahy
+         nejkratším směrem na Japonsko?
+         - cca 45
+     4. Split provoz znamená:
+         - příjem a vysílání na různých kmitočtech
+     5. Tísňové volání pro CW provoz je:
+         - SOS
+     6. Tísňové volání pro FONE provoz je:
+         - MAYDAY
+     7. stanicemi předávaný report (RST) znamená:
+         - čitelnost, sílu signálu a tón
+     8. Při ladění po pásmu zaslechnu „QRL“. Znamená to:
+         - před voláním všeobecné výzvy se stanice dotazuje, je-li tento kmitočet volný
+                                         30 / 43
+      9. Při ladění po pásmu zaslechnu volání „CQDX“. Znamená to:
+          - stanice chce navázat spojení se vzdálenou stanicí (na KV mimo vlastní
+            kontinent)
+     10. Když stanice pracující na VKV dostane report „599“ znamená to:
+          - dokonale čitelné, 5 V na 50  vstupu RX, zcela čistý tón
+     11. Pro radioamatérské závody by neměla být používána:
+          - pásma WARC
+     12. Při vysílání SSTV signálů se zpravidla používá:
+          - Počítač s odpovídajícím softwarem
+     13. Co označuje termín pile-up:
+          - současné volání populární stanice mnoha stanicemi najednou
+     14. Mezi digitální komunikační módy patří:
+          - RTTY
+     15. Některé komunikační módy potřebují pro správnou funkci přesný čas. Jaký je
+         jeden z možných způsobů, jak ho získat?
+          - Pomocí GPS přijímače
+     16. Kdy označujeme rádiový provoz jako „remote“?
+          - operátor pracuje s vysílacím pracovištěm vzdáleně
+
+
+d)   Zkratky používané pro dotazy a sdělení (Q kódy)
+      1. Jsem rušen interferencí:
+          - QRM
+      2. Můžete zvýšit výkon?
+          - QRO?
+      3. Volá vás…:
+          - QRZ
+      4. Počkejte, až vás zavolám:
+          - QRX
+      5. Síla vašich signálů kolísá:
+          - QSB
+      6. Vysílejte pomaleji:
+          - QRS
+      7. Přestaňte vysílat:
+          - QRT
+      8. Snižte výkon:
+          - QRP
+      9. Jste připraven?
+          - QRV?
+     10. Nemám pro vás nic nového:
+          - QRU
+     11. Potvrzuji příjem:
+          - QSL
+     12. Jste zaměstnán? Je kmitočet využíván/obsazen nebo volný?
+          - QRL?
+     13. Moje poloha je…:
+          - QTH
+     14. Vaše klíčování je nesrozumitelné:
+          - QSD
+     15. Jaký je můj přesný kmitočet?
+          - QRG?
+                                     31 / 43
+        16. Mohu pracovat s … přímo (prostřednictvím):
+             - QSO
+        17. Mám přejít k vysílání na jiný kmitočet?
+             - QSY?
+        18. Jsem rušen atmosférickým rušením:
+             - QRN
+        19. Nemohu vás přijímat. Vaše signály jsou velmi slabé:
+             - QRJ
+        20. Nalaďte svůj vysílač přesně na můj kmitočet:
+             - QZF
+        21. Poslouchám na kmitočtu …. kHz:
+             - QSX
+
+e)      Zkratky používané v radioamatérské komunikaci
+      1. střídavý proud:
+         - AC
+      2. klíč:
+         - KY
+      3. radioamatér:
+         - HAM
+      4. opakovat:
+         - RPT
+      5. děkuji pěkně:
+         - DP
+      6. vysoký kmitočet:
+         - HF
+      7. zvukový kmitočet:
+         - AF
+      8. vysoké napětí:
+         - HV, VN
+      9. automatické řízení zisku:
+         - AGC
+     10. přijímač:
+         - RX
+     11. zařízení:
+         - RIG
+     12. jak?
+         - HW?
+     13. signály:
+         - SIGS
+     14. amplitudová modulace:
+         - AM
+     15. opět, zase:
+         - AGN
+     16. anténa
+         - AER, ANT:
+     17. konec vysílání:
+         - SK
+     18. čekejte:
+         - AS
+
+                                         32 / 43
+19. domluvené spojení:
+    - SKED
+20. blízko, u:
+    - NR, NEAR
+21. stanice:
+    - STN
+22. jedno postranní pásmo:
+    - SSB
+23. příkon:
+    - INPT
+24. záznějový oscilátor:
+    - BFO
+25. slunečno:
+    - SUNNY
+26. zavolání, značka:
+    - CALL
+27. vysílejte:
+    -K
+28. uzavírám stanici:
+    - CL
+29. nízký kmitočet:
+    - LF
+30. lituji, bohužel:
+    - SRI, SRY
+31. špatný operátor:
+    - LID
+32. děkuji:
+    TNX, TKS
+33. činitel stojatých vln:
+    - PSV, SWR
+34. staniční deník:
+    - LOG
+35. všeobecná výzva:
+    - CQ
+36. vysílač:
+    - TX
+37. rušení televize:
+    - TVI
+38. dlouhý drát, dlouhé vlny:
+    - LW
+39. stejnosměrný proud:
+    - DC
+40. mikrofon:
+    - MIKE
+41. spodní postranní pásmo:
+    - LSB
+42. Mezinárodní telekomunikační unie:
+    - ITU, UIT
+43. Mezinárodní radioamatérská unie:
+    - IARU
+
+
+                                  33 / 43
+44. milý, drahý:
+    - DR
+45. špatný, špatně:
+    - BD
+46. jméno:
+    - NAME
+47. dálkové spojení:
+    - DX
+48. vy, ty:
+    -U
+49. váš, tvůj:
+    - UR
+50. elektronický klíč:
+    - ELBUG
+51. z, ze:
+    - DE
+52. za:
+    - FER
+53. promiň, promiňte:
+    - EXCUS
+54. nyní:
+    - NW
+55. šťastný:
+    - HPY
+56. velmi pěkný:
+    - UFB
+57. kmitočtová modulace:
+    - FM
+58. zapsat, porozumět:
+    - CPI, CPY
+59. znovu na shledanou:
+    - CUAGN
+60. proměnný oscilátor:
+    - VFO
+61. přítel:
+    - OM
+62. dobré odpoledne:
+    - GA
+63. dobré ráno:
+    - GM
+64. dobrý večer:
+    - GE
+65. horní postranní pásmo:
+    - USB
+66. automatické řízení hlasitosti:
+    - AVC
+67. telegrafie, netlumená vlna:
+    - CW
+68. ultravysoký kmitočet:
+    - UHF
+
+
+                                     34 / 43
+69. krátkovlnný posluchač:
+    - SWL
+70. pracoval, pracující:
+    - WKD
+71. světový čas koordinovaný:
+    - UTC
+72. velmi vysoký kmitočet:
+    - VHF
+73. velmi:
+    - VY
+74. v pořádku:
+    - OK
+75. počasí:
+    - WX
+76. nahoru:
+    - UP
+77. potvrdit:
+    - CFM
+78. výstupní výkon:
+    - OUTPUT
+79. rád, potěšen:
+    - GLD
+80. štěstí, hodně štěstí:
+    - GL
+81. koncový stupeň:
+    - PA
+82. země, uzemnění:
+    - GND
+83. špičkový výkon:
+    - PEP
+84. greenwichský čas:
+    - GMT
+85. slečna, přítelkyně:
+    - YL
+86. prosím:
+    - PSE
+87. pokračujte:
+    - GA
+88. výkon:
+    - PWR
+89. srdečný pozdrav:
+    - 73
+90. polibek:
+    - 88
+91. správně přijato:
+    -R
+92. zmiz!:
+    - 99
+93. přerušit:
+    - BK
+
+
+                                35 / 43
+        94.   nekoncesovaný:
+            - UNLIS
+        95. transceiver:
+            - TRX
+        96. přijal, přijato:
+            - RCVD
+        97. zde, tady:
+            - HR
+        98. doufat:
+            - HPE
+        99. poloautomatický klíč:
+            - BUG
+       100. nic:
+            - NIL
+
+f)      Používání prefixů ve volacích značkách
+      1. Česká republika:
+         - OL, OK
+      2. Nizozemsko:
+         - PA–PI
+      3. Německo:
+         - DA–DR
+      4. Švédsko:
+         - SA–SM, 7S, 8S
+      5. Rakousko:
+         - OE
+      6. Finsko:
+         - OF–OJ
+      7. Slovensko:
+         - OM
+      8. Dánsko:
+         - OU–OZ, XP, 5P, 5Q
+      9. Polsko:
+         - HF, SN–SR, 3Z
+     10. Norsko:
+         - LA–LN, 3Y
+     11. Francie:
+         - FA, FZ, F1–F0, HW, TH, TK, TM, TO, TV
+     12. Španělsko:
+         - EA–EH
+     13. Itálie:
+         - I, IA–IZ
+     14. Řecko:
+         - SV–SZ, J4
+     15. Slovinsko:
+         - S5
+     16. Bulharsko:
+         - LZ
+     17. Maďarsko:
+         - HA,HG
+                                      36 / 43
+18. Rumunsko:
+    - YO–YR
+19. Ukrajina:
+    - UR–UZ
+    - EM–EO
+20. Portugalsko:
+    - CQ-CU
+21. Rusko:
+    - UA–UI
+22. USA:
+    - K,N,W,AA–AK
+23. Estonsko:
+    - ES
+24. Kanada:
+    - CF-CK, CY-CZ ,VA–VE, VO, VX, VY, XJ-XO
+25. Litva:
+    - LY
+26. Austrálie:
+    - VK
+27. Lotyšsko:
+    - YL
+28. Japonsko:
+    - JA–JS, 7J-7N, 8J-8N
+29. Belgie:
+    - ON–OT
+30. Brazílie:
+    - PP–PY
+31. Lucembursko:
+    - LX
+32. Jihoafrická republika:
+    - ZR–ZU
+33. Chorvatsko:
+    - 9A
+34. Argentina:
+    - LO–LW
+35. Makedonie:
+    - Z3
+36. Indie:
+    - VU
+37. Švýcarsko:
+    - HB, HE
+38. Skotsko:
+    - GM, GS
+39. Kanárské ostrovy:
+    - EA8–EH8
+40. Andorra:
+    - C3
+41. Azory:
+    - CQ2, CR2, CS2, CT2, CU2
+42. Irsko:
+    - EI, EJ
+
+                              37 / 43
+43. Moldavsko:
+    - ER
+44. Albánie:
+    - ZA
+45. Anglie:
+    - G, GX
+46. Ostrov Man:
+    - GD, GT
+47. Severní Irsko:
+    - GI, GN
+48. Wales:
+    - GW, GC
+49. Malta:
+    - 9H
+50. Dodecanese:
+    - SV5–SZ5
+51. Kréta:
+    - SV9–SZ9
+52. Bosna a Hercegovina:
+    - E7
+53. Turecko:
+    - TA–TC
+54. Island:
+    - TF
+55. Srbsko:
+    - YT–YU
+56. Tchaj-wan:
+    - BV
+57. Čína:
+    - BY, BT, BZ
+58. Nový Zéland:
+    - ZL–ZM
+
+
+                            Oddíl       Počet otázek
+                             a)              6
+                             b)              3
+                             c)              4
+                             d)              4
+                             e)             15
+                              f)             8
+                           Celkem           40
+
+
+
+
+                              38 / 43
+Zkušební otázky a správné odpovědi pro třídu N – elektrotechnika a radiotechnika
+
+a)   Elektrická, elektromagnetická a rádiová teorie
+       1. Jednotkou elektrického proudu je:
+          - ampér
+       2. Jednotkou elektrického odporu je:
+          - ohm
+       3. Elektrický výkon měříme v jednotkách:
+          -W
+       4. Kmitočet měříme v jednotkách:
+          - Hz
+       5. M (mega) je předpona vyjadřující násobitel základní jednotky:
+          - 1000000
+       6. Výkon P, proud I a napětí U spolu souvisí dle vztahu:
+          -P=I·U
+       7. Vlnová délka , kmitočet f a rychlost šíření světla c spolu souvisí dle vztahu:
+          -c=f·
+       8. Na generátor signálu sinusového průběhu o amplitudě Umax = 10 V je připojen
+          zatěžovací rezistor o velikosti 10 W. Výkon, absorbovaný rezistorem je:
+          -5W
+       9. Nabitý akumulátor má kapacitu 4 Ah. Dodávat proud 400 mA vydrží:
+          - 10 hodin
+      10. Odporem protéká stejnosměrný proud 2 A a je na něm napětí 10 V. Velikost
+          odporu je:
+          -5
+      11. Odebírá-li zařízení z 12 V akumulátoru proud 12 A je jeho příkon:
+          - 144 W
+      12. Který typ modulace mění kmitočet vysokofrekvenčního signálu v závislosti
+          na přiváděné informaci?
+          - kmitočtová modulace
+      13. Který typ modulace mění amplitudu vysokofrekvenčního signálu v závislosti
+          na přiváděné informaci?
+          - amplitudová modulace
+      14. Který fonický druh provozu vyžaduje nejmenší šíři pásma?
+          - SSB
+      15. U kterého typu modulace se okamžitá amplituda vysokofrekvenčního signálu
+          mění v závislosti na přiváděném modulačním napětí?
+          - u amplitudové modulace
+      16. Síťové napětí v domovních rozvodech má kmitočet:
+          - 50 Hz
+      17. Pro hlasovou komunikaci je dostatečný přenos kmitočtů:
+          - 300 Hz až 3 kHz
+     18. Mám-li zařízení s příkonem 24 W jehož napájecí napětí je 12 V, jaký je
+          minimální požadovaný proud napájecího zdroje?
+          -2A
+     19. Ohmův zákon určuje vztah:
+          - mezi napětím, proudem a odporem
+     20. Decibel (dB) je jednotka vyjadřující poměr mezi dvěma fyzikálními veličinami
+          na:
+          - logaritmické škále
+
+                                       39 / 43
+b)   Součástky
+      1. Indukčnost cívky měříme v jednotkách:
+         -H
+      2. Kapacitu kondenzátoru měříme v jednotkách:
+         -F
+      3. 1,5 nF lze též vyjádřit jako:
+         -1500 pF
+      4. Označení hodnoty rezistoru 1M2 vyjadřuje hodnotu odporu:
+         - 1200000 
+      5. Germaniová dioda má prahové napětí oproti běžné křemíkové:
+         - menší
+      6. Polovodičová dioda zapojená v propustném směru má na anodě:
+         - kladný pól
+      7. Zenerova dioda se používá:
+         - k stabilizaci napětí ve zdrojích
+
+c)   Obvody, přijímače a vysílače
+      1. Jaké součástky jsou použity v jednoduchém filtračním obvodu zdroje?
+          - kondenzátory a tlumivky
+      2. K stabilizaci napětí nízkonapěťových zdrojů slouží:
+          - Zenerovy diody
+      3. Záznějový oscilátor slouží:
+          - k detekci SSB a CW signálů pomocí poměrového detektoru
+      4. Impedance ideálního paralelního laděného obvodu na rezonančním kmitočtu je:
+          -
+      5. Impedance ideálního sériového laděného obvodu na rezonančním kmitočtu je:
+          -0
+      6. Ovládací prvek transceiveru označený „RIT“ umožňuje:
+          - jemné rozladění kmitočtu přijímače od kmitočtu vysílače
+      7. Lineární výkonový zesilovač nepracuje ve třídě:
+          -C
+      8. Který stupeň přijímače vytváří nízkofrekvenční signál?
+          - detektor
+      9. Pro příjem SSB a CW signálů lze použít:
+           - přímosměšující přijímač
+     10. S-metr slouží:
+          - k určování síly přijímaných signálů
+     11. Pro příjem SSB a CW signálů nelze použít:
+          - superhet bez záznějového oscilátoru
+     12. Umlčovač šumu (squelch) slouží:
+          - k uzavření výstupu nf zesilovače, pokud přijímač nepřijímá užitečný signál
+     13. Který stupeň u superhetu z přijímaného signálu a místního oscilátoru
+         vytváří mezifrekvenční signál?
+          - směšovač
+     14. Mezifrekvenční zesilovač zesiluje:
+          - signály převedené na pevný mezifrekvenční kmitočet
+     15. Selektivita přijímače je:
+          - schopnost vzájemně rozlišit různé signály
+     16. Oscilátor vysílače by měl:
+          - mít pokud možno maximální stabilitu kmitočtu
+                                        40 / 43
+     17. Modulace SSB je odvozena z amplitudové modulace, ve které je:
+         - potlačen nosný kmitočet a jedno z postranních pásem
+     18. Modulace SSB je odvozena od:
+         - amplitudové modulace
+     19. Nejčastějšími příčinami obsahu síťového brumu ve vysílaném signálu jsou:
+         - nedostatečně vyhlazené napájecí napětí, nebo poškozená mikrofonní šňůra
+     20. Pokud mi protistanice sdělí, že můj signál má malý zdvih, znamená to že:
+         - výkon je dostatečný ale modulace slabá
+     21. Potlačení nosné vlny u SSB vysílače uskutečňujeme pomocí:
+         - vyváženého modulátoru
+     22. Nezbytnou částí telegrafního vysílače je obvod:
+         - oscilátoru
+     23. Kdy dodá vysílač nejvíce energie do zátěže (antény)?
+         - je-li výstupní impedance vysílače rovna impedanci zátěže
+
+d)   Antény a napájecí vedení
+      1 Vstupní impedance dipólu ve volném prostoru je přibližně:
+         - 75 
+      2 Půlvlnný otevřený dipól pro 3,5 MHz má délku jednoho ramene přibližně:
+         - 20 m
+      3 Konektor PL259 na zařízení slouží k:
+         - připojení antény
+      4 O správném impedančním přizpůsobení vysílače k napáječi hovoříme tehdy, je-
+         li poměr stojatého vlnění roven:
+         -1
+      5 Anténa typu GP (ground plane) má v horizontální rovině kruhový
+         vyzařovací diagram a její polarizace je:
+         - vertikální
+      6. Dipól na VKV je:
+         - kratší, než je na KV
+      7. Zisk antény typu Yagi lze zvětšit především:
+         - zvýšením počtu prvků
+      8. Balun je obvod, kterým se realizuje:
+          - přechod ze symetrického vedení na nesymetrické
+      9. Jaká opatření musí být učiněna, aby na anténním napáječi nevznikaly stojaté
+         vlny?
+         - impedance antény musí být přizpůsobena k charakteristické impedanci
+           napáječe
+     10. K přizpůsobení antén na KV slouží:
+         - anténní přizpůsobovací člen
+     11. Jaké jsou vyzařovací charakteristiky antény typu Yagi ve srovnání s dipólem?
+         - anténa Yagi má větší směrovost
+     12. Jaký tvar má vyzařovací diagram ideálního dipólu ve volném prostoru?
+         - má tvar číslice 8 kolmé k anténě
+
+e)   Šíření rádiových vln
+      1. Značení vrstev ionosféry směrem od povrchu Země je:
+         - D, E, F1, F2
+      2. Sluneční cyklus podílející se zásadně na šíření elektromagnetických vln
+         má periodu:
+         - 11 let
+                                       41 / 43
+      3. Co se obvykle stane s rádiovou vlnou o kmitočtu nižším než MUF, je-li vyslána
+         do ionosféry?
+         - vrátí se zpět k Zemi
+      4. Běžná spojení v pásmu 2 m jsou obvykle uskutečněna díky:
+         - přímé viditelnosti obou stanic
+      5. Na intenzitu přijímaného signálu nemá vliv:
+         - napájecí napětí zdroje
+      6. Co ovlivňuje rádiovou komunikaci s výjimkou šíření přízemní vlnou a
+         přímého paprsku?
+         - sluneční aktivita
+      7. Jaká je průměrná výška ionosférické vrstvy E?
+         - 100 km
+      8. Proč je ionosférická vrstva F2 nejdůležitější z hlediska dálkového šíření?
+         - protože je to nejvyšší vrstva
+
+f)   Měření elektrických veličin
+      1. Velikost měřícího rozsahu u ampérmetru lze změnit:
+         - bočníkem (paralelním odporem)
+      2. Vstupní odpor voltmetru by měl být pokud možno:
+         - velký
+      3. Umělá zátěž pro nastavení vysílače by měla mít charakter:
+         - čistě ohmický
+      4. Měříme-li odebíraný proud, měřící přístroj připojíme:
+         - do série mezi zdroj a spotřebič
+      5. Reflektometrický můstek slouží k:
+         - určení (nastavení) přizpůsobení antény
+      6. Vstupní odpor ampérmetru by měl být pokud možno:
+         - velmi malý
+      7. Měříme-li napětí zdroje, měřící přístroj připojíme:
+         - paralelně ke svorkám zdroje
+      8. K čemu slouží PSV (SWR) metr?
+         - K nepřímému měření impedančního přizpůsobení antény
+
+g)   Rušení a odolnost proti rušení
+      1. Produkty nežádoucího vyzařování KV vysílače zpravidla potlačíme:
+         - zařazením hornofrekvenční zádrže mezi vysílač a anténu
+      2. Jaké součástky je vhodné použít pro potlačení detekce vf signálů na vstupu
+         zesilovačů zvuku?
+         - blokovací kondenzátory
+      3. Dojde-li k rušení televize vlivem nežádoucího KV signálu na jeho vstupu
+         zařadíme mezi televizor a anténu:
+         - dolnofrekvenční zádrž
+      4. Jakým způsobem může být minimalizována možnost rušení
+         audiovizuálních přístrojů?
+         - zajištěním správného uzemnění všech částí zařízení
+      5. Jaký je jeden z hlavních způsobu potlačení bludné vf energie na stanici?
+         - dodržet délku uzemňovacího vodiče co nejkratší
+      6. Nežádoucí vyzařování z vysílače může být způsobeno:
+         - špatným stíněním vysílacího zařízení
+      7. Z hlediska možného rušení silným signálem je vhodné umístit anténu:
+         - co nejdále od antén televizních a rozhlasových přijímačů
+                                        42 / 43
+      8. Špatné přizpůsobení antény má vliv na:
+         - nežádoucí vyzařování z napáječe (souosého kabelu)
+      9. Rušení příjmu zejména na krátkovlnných pásmech může být způsobeno jiné:
+         - pulzním (spínaným) zdrojem v blízkosti přijímače, antény nebo vedení - např.
+           nabíječka mobilního telefonu, či LED svítidlo
+
+h)   Bezpečnost elektrických zařízení
+      1. Jestliže zamýšlené použití elektrického zařízení nezvyšuje nebezpečí úrazu
+         elektrickým proudem (dříve v tzv. „prostorech normálních“ a „nebezpečných“),
+         považujeme při dotyku živých částí zařízení během jeho obsluhy za bezpečná
+         jmenovitá napětí těchto živých částí:
+         - stejnosměrná do 60 V a střídavá do 25 V
+      2. Ochranný vodič musí být označen barvou:
+         - kombinací žluto-zelené
+      3. Při úrazu elektrickým proudem:
+         - vyprostíme postiženého z dosahu elektrického proudu, zavoláme
+           záchrannou službu, provedeme záklon hlavy a dojde-li k selhání
+           základních životních funkcí (tep, dech, vědomí), zahájíme resuscitaci
+           masáží srdce až do příjezdu záchranářů, příp. umělým dýcháním
+      4. Před započetím umělého dýchání z plic do plic je třeba u postiženého:
+         - odstranit překážky z ústní dutiny, zaklonit hlavu, sevřít nos
+      5. Je-li v zřízení přerušena tavná pojistka:
+         - vadnou pojistku vyměníme za novou s předepsanými hodnotami pro
+           příslušný obvod
+      6. Za bezpečné z hlediska úrazu elektrickým proudem jsou považovány
+         ustálené proudy tekoucí mezi částmi přístupnými při dotyku:
+         - stejnosměrné do 10 mA a střídavé do 3,5 mA
+      7. Antény umístěné na střeše budov nebo samostatně stojící musí být vždy:
+         - řádně uzemněny
+      8. Jímací tyč hromosvodu:
+         - nesmí sloužit jako držák antény
+      9. Prodlužovací pohyblivé přívody pro elektrické předměty s ochranným vodičem
+         (elektrické předměty třídy ochrany I) a síťové napětí 230 V musí mít:
+         - 3 vodiče
+     10. Uzemňovací vodič antény:
+         - musí být spojen s hromosvodným systémem
+     11. Jak umístíme vnitřní anténu?
+         - co nejdále od vysílací pozice
+     12. Jaké bezpečnostní opatření musíme učinit při instalaci GP antény?
+         - anténu umístíme tak, aby se jí nikdo nemohl dotknout
+
+Zkušební otázky jsou členěny do osmi oddílů. Test obsahuje celkem 20 otázek vybraných
+z jednotlivých oddílů následovně:
+
+        Oddíl     Počet otázek           Oddíl    Počet otázek
+         a)            4                  f)             2
+         b)            2                  g)             2
+         c)            4                  h)             2
+         d)            2
+         e)            2                Celkem           20
+
+
+                                     43 / 43
+                            Vyhodnocení písemné zkoušky
+
+        (1) Uchazeč o získání průkazu odborné způsobilosti podle § 2 písm. h) vyhlášky
+ (HAREC) písemnou zkoušku z předmětu radiokomunikační předpisy úspěšně složil,
+ jestliže z celkového počtu 20 otázek testu z tohoto předmětu správně odpověděl alespoň
+ na 16 otázek.
+        (2) Uchazeč o získání průkazu odborné způsobilosti podle § 2 písm. h) vyhlášky
+písemnou zkoušku z předmětu radiokomunikační provoz úspěšně složil, jestliže z celkového
+počtu 40 otázek testu z tohoto předmětu správně odpověděl alespoň na 32 otázek.
+        (3) Uchazeč o získání průkazu odborné způsobilosti podle § 2 písm. h) vyhlášky
+písemnou zkoušku z předmětu elektrotechnika a radiotechnika úspěšně složil, jestliže
+z celkového počtu 20 otázek testu z tohoto předmětu správně odpověděl alespoň na
+16 otázek.
+        (4) Uchazeč o získání průkazu odborné způsobilosti podle § 2 písm. i) vyhlášky
+(NOVICE) písemnou zkoušku z předmětu radiokomunikační předpisy úspěšně složil, jestliže
+z celkového počtu 20 otázek testu z tohoto předmětu správně odpověděl alespoň na
+14 otázek.
+        (5) Uchazeč o získání průkazu odborné způsobilosti podle § 2 písm. i) vyhlášky
+písemnou zkoušku z předmětu radiokomunikační provoz úspěšně složil, jestliže z celkového
+maximálně možného počtu 40 otázek testu z tohoto předmětu správně odpověděl alespoň na
+28 otázek.
+        (6) Uchazeč o získání průkazu odborné způsobilosti podle § 2 písm. i) vyhlášky
+písemnou zkoušku z předmětu elektrotechnika a radiotechnika úspěšně složil, jestliže
+z celkového počtu 20 otázek testu z tohoto předmětu správně odpověděl alespoň na
+14 otázek.
+
+
+
+
+                            Praktická zkouška z telegrafie
+
+Uchazeči o průkaz odborné způsobilosti podle § 2 písm. h) a i) vyhlášky na vlastní žádost
+mohou vykonat i praktickou zkoušku z telegrafie. Podrobnosti k této zkoušce jsou uvedeny
+v dokumentu Praktická zkouška z telegrafie.
+
+
+
+
+                                                           ČTÚ čj. 26 273/2025-613
+                                                      odbor správy kmitočtového spektra
+
+
+
+Upraveno 25. 5. 2026
+
+
+
+
+                                       44 / 43
+

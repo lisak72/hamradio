@@ -1,0 +1,1463 @@
+                                                          Rec. ITU-R M.1172                                                 1
+
+                                                RECOMMENDATION ITU-R M.1172*
+
+                            MISCELLANEOUS ABBREVIATIONS AND SIGNALS TO BE USED
+                           FOR RADIOCOMMUNICATIONS IN THE MARITIME MOBILE SERVICE
+                                                                                                                       (1995)
+Rec. ITU-R M.1172
+
+
+
+
+The ITU Radiocommunication Assembly,
+
+                    considering
+a)       that there is a need to describe miscellaneous abbreviations and signals to be used in the maritime mobile
+service,
+
+                    recommends
+1         that the use of miscellaneous abbreviations and signals for radiocommunications in the maritime mobile
+service be in accordance with Annex 1.
+
+
+
+
+                                                               ANNEX 1
+
+                                     Miscellaneous abbreviations and signals to be used
+                                  for radiocommunications in the maritime mobile service
+                                                           Section I. Q Code
+
+                                                              Introduction
+
+
+1                   The series of groups listed in this Annex range from QOA to QUZ.
+2                   The QOA to QQZ series are reserved for the maritime mobile service.
+3         Certain Q code abbreviations may be given an affirmative or negative sense by sending, immediately following
+the abbreviation, the letter C or the letters NO (in radiotelephony spoken as: CHARLIE or NO).
+4         The meanings assigned to Q code abbreviations may be amplified or completed by the appropriate addition of
+other groups, call signs, place names, figures, numbers, etc. It is optional to fill in the blanks shown in parentheses. Any
+data which are filled in where blanks appear shall be sent in the same order as shown in the text of the following tables.
+5         Q code abbreviations are given the form of a question when followed by a question mark in radiotelegraphy
+and RQ (ROMEO QUEBEC) in radiotelephony. When an abbreviation is used as a question and is followed by
+additional or complementary information, the question mark (or RQ) should follow this information.
+6          Q code abbreviations with numbered alternative significations shall be followed by the appropriate figure to
+indicate the exact meaning intended. This figure shall be sent immediately following the abbreviation.
+7                   All times shall be given in Coordinated Universal Time (UTC) unless otherwise indicated in the question or
+reply.
+8        An asterisk * following a Q code abbreviation means that this signal has a meaning similar to a signal
+appearing in the International Code of Signals.
+
+
+
+_______________
+*       This Recommendation should be brought to the attention of the International Maritime Organization (IMO).
+216
+2                                       Rec. ITU-R M.1172
+
+      Abbreviations Available for the Maritime Mobile Service
+      A. List of Abbreviations in Alphabetical Order
+
+
+      Abbre-
+      viation                Question                          Answer or Advice
+
+      QOA       Can you communicate by radio-          I can communicate by radiotele-
+                  telegraphy (500 kHz)?                  graphy (500 kHz).
+
+      QOB       Can you communicate by radio-          I can communicate by         radio-
+                  telephony (2 182 kHz)?                 telephony (2 182 kHz).
+
+      QOC       Can you communicate by radiote-        I can communicate by radiotele-
+                  lephony (channel 16 – frequency        phony (channel 16 – frequency
+                  156.80 MHz)?                           156.80 MHz).
+
+      QOD       Can you communicate with me            I can communicate with you in …
+                  in …
+                  0. Dutch      5. Italian               0. Dutch         5. Italian
+                  1. English    6. Japanese              1. English       6. Japanese
+                  2. French     7. Norwegian             2. French        7. Norwegian
+                  3. German     8. Russian               3. German        8. Russian
+                  4. Greek      9. Spanish?              4. Greek         9. Spanish.
+
+      QOE       Have you received the safety signal    I have received the safety signal
+                 sent by … (name and/or call             sent by … (name and/or call
+                 sign)?                                  sign).
+
+      QOF       What is the commercial quality of      The quality of your signals is …
+                 my signals?                             1. not commercial
+                                                         2. marginally commercial
+                                                         3. commercial.
+
+      QOG       How many tapes have you to send?       I have … tapes to send.
+
+      QOH       Shall I send a phasing signal for …    Send a phasing signal for … sec-
+                  seconds?                               onds.
+
+      QOI       Shall I send my tape?                  Send your tape.
+
+      QOJ       Will you listen on … kHz (or           I am listening on … kHz (or MHz)
+                 MHz) for signals of emergency            for signals of emergency posi-
+                 position-indicating  radiobea-           tion-indicating radiobeacons.
+                 cons?
+                                    Rec. ITU-R M.1172                                      217
+                                                                                             3
+
+
+Abbre-
+viation                 Question                            Answer or Advice
+
+QOK       Have you received the signals of an      I have received the signals of an
+           emergency      position-indicating        emergency     position-indicating
+           radiobeacon on … kHz (or                  radiobeacon on … kHz (or
+           MHz)?                                     MHz).
+
+QOL       Is your vessel fitted for reception of   My vessel is fitted for the reception
+             selective calls? If so, what is        of selective calls. My selective
+             your selective call number or          call number or signal is …
+             signal?
+
+QOM       On what frequencies can your ves-        My vessel can be reached by a
+           sel be reached by a selective            selective call on the following
+           call?                                    frequency/ies … (periods of time
+                                                    to be added if necessary).
+
+QOO       Can you send on any working fre-         I can send on any working fre-
+            quency?                                  quency.
+
+QOT       Do you hear my call; what is the         I hear your call; the approximate
+           approximate delay in minutes              delay is … minutes.
+           before we may exchange traffic?
+
+QRA       What is the name of your vessel (or      The name of my vessel (or station)
+           station)?                                 is …
+
+QRB       How far approximately are you            The approximate distance between
+           from my station?                          our stations is … nautical miles
+                                                     (or kilometres).
+
+QRC       By what private enterprise (or state     The accounts for charges of my
+            administration) are the accounts         station are settled by the private
+            for charges for your station             enterprise … (or state ad-
+            settled?                                 ministration).
+
+QRD       Where are you bound for and              I am bound for … from …
+           where are you from?
+
+QRE       What is your estimated time of ar-       My estimated time of arrival at …
+           rival at … (or over … ) (place)?         (or over … ) (place) is … hours.
+
+QRF       Are you returning to … (place)?          I am returning to … (place).
+                                                                                     or
+                                                   Return to ... (place).
+218
+4                                       Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                         Answer or Advice
+
+      QRG       Will you tell me my exact fre-        Your exact frequency (or that of …
+                 quency (or that of … )?               ) is ... kHz (or MHz).
+
+      QRH       Does my frequency vary?               Your frequency varies.
+
+      QRI       How is the tone of my trans-          The tone of your transmission is …
+                 mission?                               1. good
+                                                        2. variable
+                                                        3. bad.
+
+      QRJ       How many radiotelephone calls         I have … radiotelephone calls to
+                 have you to book?                      book.
+
+      QRK       What is the intelligibility of my     The intelligibility of your signals
+                 signals (or those of … (name           (or those of … (name and/or call
+                 and/or call sign))?                    sign )) is …
+                                                        1. bad
+                                                        2. poor
+                                                        3. fair
+                                                        4. good
+                                                        5. excellent.
+
+      QRL       Are you busy?                         I am busy (or I am busy with …
+                                                        (name and/or call sign)). Please
+                                                        do not interfere.
+
+      QRM       Is my transmission being interfered   Your transmission is being inter-
+                   with?                               fered with …
+                                                       1. nil
+                                                       2. slightly
+                                                       3. moderately
+                                                       4. severely
+                                                       5. extremely.
+
+      QRN       Are you troubled by static?           I am troubled by static …
+                                                         1. nil
+                                                         2. slightly
+                                                         3. moderately
+                                                         4. severely
+                                                         5. extremely.
+                                       Rec. ITU-R M.1172                                 219
+                                                                                           5
+
+
+Abbre-
+viation                 Question                           Answer or Advice
+
+QRO       Shall I increase transmitter power?      Increase transmitter power.
+
+QRP       Shall I decrease transmitter power?      Decrease transmitter power.
+
+QRQ       Shall I send faster?                     Send faster (… words per minute).
+
+QRR       Are you ready          for   automatic   I am ready for automatic opera-
+            operation?                               tion. Send at … words per mi-
+                                                     nute.
+
+QRS       Shall I send more slowly?                Send more slowly ( … words per
+                                                     minute).
+
+QRT       Shall I stop sending?                    Stop sending.
+
+QRU       Have you anything for me?                I have nothing for you.
+
+QRV       Are you ready?                           I am ready.
+
+QRW       Shall I inform … that you are call-      Please inform … that I am calling
+            ing him on … kHz (or MHz)?               him on … kHz (or MHz).
+
+QRX       When will you call me again?             I will call you again at … hours on
+                                                     … kHz (or MHz).
+
+QRY       What       is     my         turn?       Your turn is Number … (or ac-
+           (Relates to communication.)              cording to any other indication).
+                                                    (Relates to communication.)
+
+QRZ       Who is calling me?                       You are being called by … (on …
+                                                    kHz(or MHz)).
+
+QSA       What is the strength of my signals       The strength of your signals (or
+           (or those of … (name and/or call          those of … (name and/or call
+           sign))?                                   sign)) is …
+                                                     1. scarcely perceptible
+                                                     2. weak
+                                                     3. fairly good
+                                                     4. good
+                                                     5. very good.
+220
+6                                        Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                          Answer or Advice
+
+      QSB       Are my signals fading?                Your signals are fading.
+
+      QSC       Are you a low traffic ship station?   I am a low traffic ship station.
+
+      QSD       Are my signals mutilated?             Your signals are mutilated.
+
+      QSE*      What is the estimated drift of the    The estimated drift of the survival
+                 survival craft?                        craft is … (figures and units).
+
+      QSF*      Have you effected rescue?              I have effected rescue and am pro-
+                                                         ceeding to … base (with … per-
+                                                         sons injured requiring ambu-
+                                                         lance).
+
+      QSG       Shall I send … telegrams at a time?   Send … telegrams at a time.
+
+      QSH       Are you able to home with your        I am able to home with my direc-
+                  direction-finding equipment?          tion-finding equipment (on …
+                                                        (name and/or call sign)).
+
+      QSI                                             I have been unable to break in on
+                                                        your transmission.
+                                                                                        or
+                                                      Will you inform … (name and/or
+                                                        call sign) that I have been unable
+                                                        to break in on his transmission
+                                                        (on … kHz (or MHz)).
+
+      QSJ       What is the charge to be collected    The charge to be collected to …
+                 to … including your internal           including my internal charge is
+                 charge?                                … francs.
+
+      QSK       Can you hear me between your          I can hear you between my signals;
+                  signals and if so may I break in       break in on my transmission.
+                  on your transmission?
+
+      QSL       Can you acknowledge receipt?          I am acknowledging receipt.
+                                     Rec. ITU-R M.1172                                    221
+                                                                                            7
+
+
+Abbre-
+viation                 Question                           Answer or Advice
+
+QSM       Shall I repeat the last telegram         Repeat the last telegram which
+            which I sent you (or some                you sent me (or telegram(s)
+            previous telegram)?                      number(s) … ).
+
+QSN       Did you hear me (or … (name              I did hear you (or … (name and/or
+            and/or call sign)) on … kHz (or           call sign)) on … kHz (or MHz).
+            MHz)?
+
+QSO       Can you communicate with …               I can communicate with … (name
+            (name and/or call sign) direct (or       and/or call sign) direct (or by
+            by relay)?                               relay through … ).
+
+QSP       Will you relay to … (name and/or         I will relay to … (name and/or call
+           call sign) free of charge?                sign) free of charge.
+
+QSQ       Have you a doctor on board (or is        I have a doctor on board (or …
+           … (name of person) on board)?             (name of person) is on board).
+
+QSR       Shall I repeat the call on the calling   Repeat your call on the calling fre-
+            frequency?                               quency; did not hear you (or
+                                                     have interference).
+
+QSS       What working frequency will you          I will use the working frequency …
+           use?                                      kHz (or MHz) (in the high
+                                                     frequency bands normally only
+                                                     the last three figures of the fre-
+                                                     quency need be given).
+
+QSU       Shall I send or reply on this fre-       Send or reply on this frequency (or
+            quency (or on … kHz (or MHz))            on … kHz (or MHz)) (with
+            (with emissions of class … )?            emissions of class … ).
+
+QSV       Shall I send a series of Vs (or          Send a series of Vs (or signs) for
+            signs) for adjustment on this            adjustment on this frequency (or
+            frequency (or on … kHz (or               on … kHz (or MHz)).
+            MHz))?
+222
+8                                       Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                         Answer or Advice
+
+      QSW       Will you send on this frequency (or   I am going to send on this fre-
+                 on … kHz (or MHz)) (with               quency (or on … kHz (or MHz))
+                 emissions of class … )?                (with emissions of class … ).
+
+      QSX       Will you listen to … (name and/or     I am listening to … (name and/or
+                 call sign(s)) on … kHz (or             call sign(s)) on … kHz (or
+                 MHz), or in the bands …/               MHz), or in the bands …/
+                 channels …?                            channels …
+
+      QSY       Shall I change to transmission on     Change to transmission on another
+                  another frequency?                    frequency (or on … kHz (or
+                                                        MHz)).
+
+      QSZ       Shall I send each word or group       Send each word or group twice (or
+                  more than once?                       … times).
+
+      QTA       Shall I cancel telegram         (or   Cancel telegram     (or   message)
+                  message) number …?                    number …
+
+      QTB       Do you agree with my counting of      I do not agree with your counting
+                 words?                                 of words; I will repeat the first
+                                                        letter or digit of each word or
+                                                        group.
+
+      QTC       How many telegrams have you to        I have … telegrams for you (or for
+                 send?                                   … (name and/or call sign)).
+
+      QTD*      What has the rescue vessel or res-    … (identification) has recovered…
+                 cue aircraft recovered?               1. … (number) survivors
+                                                       2. wreckage
+                                                       3. … (number) bodies.
+
+      QTE       What is my TRUE bearing from          Your TRUE bearing from me is …
+                 you?                                  degrees at … hours.
+                                                or                                    or
+                What is my TRUE bearing from …        Your TRUE bearing from … (name
+                 (name and/or call sign)?              and/or call sign) was …
+                                                       degrees at … hours.
+                                                or
+                                                                                      or
+                                  Rec. ITU-R M.1172                                    223
+                                                                                         9
+
+
+Abbre-
+viation                Question                         Answer or Advice
+
+QTE       What is the TRUE bearing of …         The TRUE bearing of … (name
+(cont.)    (name and/or call sign) from …         and/or call sign) from … (name
+           (name and/or call sign)?               and/or call sign) was … degrees
+                                                  at … hours.
+
+QTF       Will you give me my position          Your position according to the
+           according to the bearings taken       bearings taken by the direction-
+           by the direction-finding stations     finding stations which I control
+           which you control?                    was … latitude, … longitude (or
+                                                 other indication of position),
+                                                 class … at … hours.
+
+QTG       Will you send two dashes of ten       I am going to send two dashes of
+           seconds each (or carrier) fol-         ten seconds each (or carrier) fol-
+           lowed by your call sign (or            lowed by my call sign (or name)
+           name) (repeated … times) on …          (repeated … times) on … kHz
+           kHz (or MHz)?                          (or MHz).
+                                          or                                     or
+          Will you request … (name and/or       I have requested … (name and/or
+           call sign) to send two dashes of       call sign) to send two dashes of
+           ten seconds each (or carrier) fol-     ten seconds each (or carrier) fol-
+           lowed by his call sign (and/or         lowed by his call sign (and/or
+           name) (repeated … times) on            name) (repeated … times) on ...
+           … kHz (or MHz)?                        kHz (or MHz).
+
+QTH       What is your position in latitude     My position is … latitude, …
+           and longitude (or according to        longitude (or according to any
+           any other indication)?                other indication).
+
+QTI*      What is your TRUE course?             My TRUE course is … degrees.
+224
+10                                       Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                            Answer or Advice
+
+      QTJ*      What is your speed?                     My speed is … knots (or kilo-
+                                                         metres per hour or … statute
+                                                         miles per hour).
+                  (Requests the speed of a ship or       (Indicates the speed of a ship or
+                  aircraft through the water or air      aircraft through the water or air
+                  respectively.)                         respectively.)
+
+      QTK*      What is the speed of your aircraft in   The speed of my aircraft in relation
+                 relation to the surface of the           to the surface of the Earth is …
+                 Earth?                                   knots (or … kilometres per hour
+                                                          or … statute miles per hour).
+
+      QTL*      What is your TRUE heading?              My TRUE heading is … degrees.
+
+      QTM*      What is your MAGNETIC head-             My MAGNETIC heading is …
+                 ing?                                    degrees.
+
+      QTN       At what time did you depart from        I departed from … (place) at …
+                  … (place)?                              hours.
+
+      QTO       Have you left dock (or port)?           I have left dock (or port).
+                                                  or                                      or
+                Are you airborne?                       I am airborne.
+
+      QTP       Are you going to enter dock (or         I am going to enter dock (or port).
+                  port)?
+                                                  or                                      or
+                Are you going to alight (or land)?      I am going to alight (or land).
+
+      QTQ       Can you communicate with my             I am going to communicate with
+                  station by means of the                 your station by means of the
+                  International Code of Signals           International Code of Signals
+                  (INTERCO)?                              (INTERCO).
+
+      QTR       What is the correct time?               The correct time is … hours.
+
+      QTS       Will you send your call sign            I will send my call sign (and/or
+                 (and/or name) for … seconds?             name) for … seconds.
+
+      QTT                                               The identification signal which
+                                                          follows is superimposed on
+                                                          another transmission.
+                                   Rec. ITU-R M.1172                                 225
+                                                                                       11
+
+
+Abbre-
+viation                Question                         Answer or Advice
+
+QTU       What are the hours during which       My station is open from … to …
+           your station is open?                 hours.
+
+QTV       Shall I stand guard for you on the    Stand guard for me on the fre-
+            frequency of … kHz (or MHz)           quency of … kHz (or MHz)
+            (from … to … hours)?                  (from … to … hours).
+
+QTW*      What is the condition of survivors?   Survivors are in … condition and
+                                                  urgently need …
+
+QTX       Will you keep your station open for   I will keep my station open for
+           further communication with me          further communication with you
+           until further notice (or until …       until further notice (or until …
+           hours)?                                hours).
+
+QTY*      Are you proceeding to the position    I am proceeding to the position of
+            of incident and if so when do you     incident and expect to arrive at
+            expect to arrive?                     … hours (on ... (date)).
+
+QTZ*      Are you continuing the search?        I am continuing the search for …
+                                                  (aircraft, ship, survival craft,
+                                                  survivors or wreckage).
+
+QUA       Have you news of … (name and/or       Here is news of … (name and/or
+           call sign)?                           call sign).
+
+QUB*      Can you give me in the following      Here is the information requested:
+            order information concerning:        …
+            the direction in degrees TRUE        (The units used for speed and
+            and speed of the surface wind;       distances should be indicated.)
+            visibility; present weather; and
+            amount, type and height of base
+            of cloud above surface elevation
+            at … (place of observation)?
+226
+12                                      Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                         Answer or Advice
+
+      QUC       What is the number (or other indi-    The number (or other indication) of
+                 cation) of the last message you        the last message I received from
+                 received from me (or from …            you (or from … (name and/or
+                 (name and/or call sign))?              call sign)) is …
+
+      QUD       Have you received the urgency         I have received the urgency signal
+                 signal sent by … (name and/or          sent by … (name and/or call
+                 call sign)?                            sign) at … hours.
+
+      QUE       Can you speak in … (language),        I can speak in … (language) on …
+                  with interpreter if necessary; if      kHz (or MHz).
+                  so, on what frequencies?
+
+      QUF       Have you received the distress sig-   I have received the distress signal
+                 nal sent by … (name and/or call        sent by … (name and/or call
+                 sign)?                                 sign) at … hours.
+
+      QUH*      Will you give me the present baro-    The present barometric pressure at
+                 metric pressure at sea level?          sea level is … (units).
+
+      QUM       May I resume normal working?          Normal working may be resumed.
+
+      QUN       1. When directed to all stations:     My position, TRUE course and
+                   Will vessels in my immediate        speed are …
+                   vicinity …
+                                               or
+                  (in the vicinity of … latitude,
+                  … longitude)
+                                               or
+                  (in the vicinity of …) please
+                  indicate their position, TRUE
+                  course and speed?
+                2. When directed to a single
+                   station: Please indicate your
+                   position, TRUE course and
+                   speed.
+                                   Rec. ITU-R M.1172                                227
+                                                                                      13
+
+
+Abbre-
+viation                Question                         Answer or Advice
+
+QUO*      Shall I search for….                 Please search for …
+            1. aircraft                          1. aircraft
+            2. ship                              2. ship
+            3. survival craft                    3. survival craft
+            in the vicinity of … latitude,       in the vicinity of … latitude,
+            … longitude (or according to         … longitude (or according to
+            any other indication)?               any other indication).
+
+QUP*      Will you indicate your position by   My position is indicated by …
+           …
+           1. searchlight                         1. searchlight
+           2. black smoke trail                   2. black smoke trail
+           3. pyrotechnic lights?                 3. pyrotechnic lights.
+
+QUR*      Have survivors …                     Survivors ...
+           1. received survival equipment        1. are in possession of survival
+                                                    equipment dropped by …
+            2. been picked up by rescue          2. have been picked up by rescue
+               vessel                               vessel
+            3. been reached by ground rescue     3. have been reached by ground
+               party?                               rescue party.
+QUS*      Have you sighted survivors or        Have sighted …
+           wreckage? If so, in what posi-       1. survivors in water
+           tion?                                2. survivors on rafts
+                                                3. wreckage
+                                                in position … latitude, … longi-
+                                                tude (or according to any other
+                                                indication).
+QUT*      Is position of incident marked?      Position of incident is marked by
+                                                 …
+                                                 1. flame or smoke float
+                                                 2. sea marker
+                                                 3. sea marker dye
+                                                 4. … (specify other marking).
+228
+14                                          Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                    Question                         Answer or Advice
+
+      QUU*      Shall I home ship or aircraft to my       Home ship or aircraft … (name
+                  position?                                and/or call sign) …
+                                                           1. to your position by sending
+                                                              your call sign and long dashes
+                                                              on … kHz (or MHz)
+                                                           2. by sending on … kHz (or
+                                                              MHz) TRUE track to reach
+                                                              you.
+
+      QUW*      Are you in the search area desig-         I am in the … (designation) search
+                  nated as … (designator or lati-            area.
+                  tude and longitude)?
+
+      QUX       Do you have any navigational              I have the following navigational
+                 warnings or gale warnings in               warning(s) or gale warning(s) in
+                 force?                                     force: …
+
+      QUY*      Is    position    of   survival   craft   Position of survival craft was
+                     marked?                                marked at … hours by …
+                                                            1. flame or smoke float
+                                                            2. sea marker
+                                                            3. sea marker dye
+                                                            4. … (specify other marking).
+
+      QUZ       May I resume restricted working?          Distress phase still in force; res-
+                                                            tricted working may be resumed.
+                                   Rec. ITU-R M.1172                                 229
+                                                                                       15
+
+B. List of Signals According to the Nature of Questions, Answer or Advice
+
+
+
+Abbre-
+viation                Question                          Answer or Advice
+
+
+                        Name
+QRA       What is the name of your vessel (or   The name of my vessel (or station)
+           station)?                              is …
+
+
+                        Route
+QRD       Where are you bound for and           I am bound for … from …
+           where are you from?
+
+
+                       Position
+QRB       How far approximately are you         The approximate distance between
+           from my station?                       our stations is … nautical miles
+                                                  (or kilometres).
+
+QTH       What is your position in latitude     My position is … latitude, … lon-
+           and longitude (or according to        gitude (or according to any other
+           any other indication)?                indication).
+
+QTN       At what time did you depart from      I departed from … (place) at …
+            … (place)?                            hours.
+
+
+                  Quality of Signals
+QOF       What is the commercial quality of     The quality of your signals is …
+           my signals?                            1. not commercial
+                                                  2. marginally commercial
+                                                  3. commercial.
+
+QRI       How is the tone of my trans-          The tone of your transmission is…
+           mission?                               1. good
+                                                  2. variable
+                                                  3. bad.
+230
+16                                           Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                 Question                            Answer or Advice
+
+
+                     Quality of Signals (cont.)
+      QRK       What is the intelligibility of my         The intelligibility of your signals
+                 signals (or those of … (name               (or those of … (name and/or call
+                 and/or call sign))?                        sign)) is …
+                                                            1. bad
+                                                            2. poor
+                                                            3. fair
+                                                            4. good
+                                                            5. excellent.
+
+
+                        Strength of Signals
+      QRO       Shall I increase transmitter power?       Increase transmitter power.
+
+      QRP       Shall I decrease transmitter power?       Decrease transmitter power.
+
+      QSA       What is the strength of my signals        The strength of your signals (or
+                 (or those of … (name and/or call           those of … (name and/or call
+                 sign))?                                    sign)) is …
+                                                            1. scarcely perceptible
+                                                            2. weak
+                                                            3. fairly good
+                                                            4. good
+                                                            5. very good.
+
+      QSB       Are my signals fading?                    Your signals are fading.
+
+
+                              Keying
+      QRQ       Shall I send faster?                      Send faster (… words per minute).
+
+      QRR       Are you ready          for    automatic   I am ready for automatic opera-
+                  operation?                                tion. Send at … words per
+                                                            minute.
+                                     Rec. ITU-R M.1172                               231
+                                                                                       17
+
+
+Abbre-
+viation                Question                          Answer or Advice
+
+
+                    Keying (cont.)
+QRS       Shall I send more slowly?              Send more slowly (… words per
+                                                   minute).
+
+QSD       Are my signals mutilated?              Your signals are mutilated.
+
+
+                     Interference
+QRM       Is my transmission being inter-        Your transmission is being inter-
+            fered with?                           fered with …
+                                                  1. nil
+                                                  2. slightly
+                                                  3. moderately
+                                                  4. severely
+                                                  5. extremely.
+
+QRN       Are you troubled by static?            I am troubled by static …
+                                                    1. nil
+                                                    2. slightly
+                                                    3. moderately
+                                                    4. severely
+                                                    5. extremely.
+
+
+              Adjustment of Frequency
+QRG       Will you tell me my exact fre-         Your exact frequency (or that
+           quency (or that of …)?                 of …) is … kHz (or MHz).
+
+QRH       Does my frequency vary?                Your frequency varies.
+
+QTS       Will you send your call sign           I will send my call sign (and/or
+           (and/or name) for … seconds?            name) for … seconds.
+
+
+                 Choice of Frequency
+               and/or Class of Emission
+QOO       Can you send on any working fre-       I can send on any working fre-
+            quency?                                quency.
+232
+18                                      Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                         Answer or Advice
+
+
+                   Choice of Frequency and/or
+                    Class of Emission (cont.)
+      QSN       Did you hear me (or … (name           I did hear you (or … (name and/or
+                  and/or call sign)) on … kHz (or        call sign)) on … kHz (or MHz).
+                  MHz)?
+
+      QSS       What working frequency will you       I will use the working frequency …
+                 use?                                   kHz (or MHz) (in the high
+                                                        frequency bands normally only
+                                                        the last three figures of the fre-
+                                                        quency need be given).
+
+      QSU       Shall I send or reply on this fre-    Send or reply on this frequency (or
+                  quency (or on … kHz (or MHz))         on … kHz (or MHz)) (with
+                  (with emissions of class …)?          emissions of class …).
+
+      QSV       Shall I send a series of Vs (or       Send a series of Vs (or signs) for
+                  signs) for adjustment on this         adjustment on this frequency (or
+                  frequency (or on … kHz (or            on … kHz (or MHz)).
+                  MHz))?
+
+      QSW       Will you send on this frequency (or   I am going to send on this fre-
+                 on … kHz (or MHz)) (with               quency (or on … kHz (or MHz))
+                 emissions of class …)?                 (with emissions of class …).
+
+      QSX       Will you listen to … (name and/or     I am listening to … (name and/or
+                 call sign(s)) on … kHz (or             call sign(s)) on … kHz (or
+                 MHz), or in the bands …/               MHz), or in the bands …/
+                 channels …?                            channels …
+
+
+                      Change of Frequency
+      QSY       Shall I change to transmission on     Change to transmission on another
+                  another frequency?                    frequency (or on … kHz (or
+                                                        MHz)).
+
+
+                          Establishing
+                         Communication
+      QOA       Can you communicate by radio-         I can communicate by radiotele-
+                  telegraphy (500 kHz)?                 graphy (500 kHz).
+                                    Rec. ITU-R M.1172                                 233
+                                                                                        19
+
+
+Abbre-
+viation                Question                          Answer or Advice
+
+
+                   Establishing
+                Communication (cont.)
+QOB       Can you communicate by radio-         I can communicate by radiotele-
+            telephony (2 182 kHz)?                phony (2 182 kHz).
+
+QOC       Can you communicate by radio-         I can communicate by radio-
+            telephony (channel 16 – fre-          telephony (channel 16 – fre-
+            quency 156.80 MHz)?                   quency 156.80 MHz).
+
+QOD       Can you communicate with me in        I can communicate with you in …
+            …
+            0. Dutch      5. Italian               0. Dutch         5. Italian
+            1. English    6. Japanese              1. English       6. Japanese
+            2. French     7. Norwegian             2. French        7. Norwegian
+            3. German     8. Russian               3. German        8. Russian
+            4. Greek      9. Spanish?              4. Greek         9. Spanish.
+
+QOT       Do you hear my call; what is the      I hear your call; the approximate
+           approximate delay in minutes           delay is … minutes.
+           before we may exchange traffic?
+
+QRL       Are you busy?                         I am busy (or I am busy with …
+                                                  (name and/or call sign)). Please
+                                                  do not interfere.
+
+QRV       Are you ready?                        I am ready.
+
+QRX       When will you call me again?          I will call you again at … hours on
+                                                  … kHz (or MHz).
+
+QRY       What is my turn?                      Your turn is Number … (or ac-
+           (Relates to communication.)           cording to any other indication).
+                                                 (Relates to communication.)
+
+QRZ       Who is calling me?                    You are being called by … (on …
+                                                 kHz (or MHz)).
+
+QSC       Are you a low traffic ship station?   I am a low traffic ship station.
+234
+20                                       Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                 Question                            Answer or Advice
+
+
+                         Establishing
+                      Communication (cont.)
+      QSR       Shall I repeat the call on the calling   Repeat your call on the calling fre-
+                  frequency?                               quency; did not hear you (or
+                                                           have interference).
+
+      QTQ       Can you communicate with my              I am going to communicate with
+                  station by means of the                  your station by means of the
+                  International Code of Signals            International Code of Signals
+                  (INTERCO)?                               (INTERCO).
+
+      QUE       Can you speak in … (language),           I can speak in … (language) on …
+                  with interpreter if necessary; if         kHz (or MHz).
+                  so, on what frequencies?
+
+
+                          Selective Calls
+      QOL       Is your vessel fitted for reception of   My vessel is fitted for the reception
+                   selective calls? If so, what is        of selective calls. My selective
+                   your selective call number or          call number or signal is …
+                   signal?
+
+      QOM       On what frequencies can your ves-        My vessel can be reached by a
+                 sel be reached by a selective            selective call on the following
+                 call?                                    frequency/ies … (periods of time
+                                                          to be added if necessary).
+
+
+                                Time
+      QTR       What is the correct time?                The correct time is ... hours.
+
+      QTU       What are the hours during which          My station is open from … to
+                 your station is open?                    … hours.
+
+
+                              Charges
+      QRC       By what private enterprise (or state     The accounts for charges of my
+                  administration) are the accounts         station are settled by the private
+                  for charges for your station             enterprise … (or state ad-
+                  settled?                                 ministration).
+                                   Rec. ITU-R M.1172                                   235
+                                                                                         21
+
+
+Abbre-
+viation                Question                          Answer or Advice
+
+
+                   Charges (cont.)
+QSJ       What is the charge to be collected     The charge to be collected to …
+           to … including your internal            including my internal charge is
+           charge?                                 … francs.
+
+
+                        Transit
+QRW       Shall I inform … that you are call-    Please inform … that I am calling
+            ing him on … kHz (or MHz)?             him on … kHz (or MHz).
+
+QSO       Can you communicate with …             I can communicate with … (name
+            (name and/or call sign) direct (or     and/or call sign) direct (or by
+            by relay)?                             relay through …).
+
+QSP       Will you relay to … (name and/or       I will relay to … (name and/or call
+           call sign) free of charge?              sign) free of charge.
+
+QSQ       Have you a doctor on board (or is      I have a doctor on board (or …
+           … (name of person) on board)?           (name of person) is on board).
+
+QUA       Have you news of … (name and/or        Here is news of … (name and/or
+           call sign)?                            call sign).
+
+QUC       What is the number (or other indi-     The number (or other indication) of
+           cation) of the last message you         the last message I received from
+           received from me (or from …             you (or from … (name and/or
+           (name and/or call sign))?               call sign)) is ...
+
+
+                    Exchange of
+                   Correspondence
+QOG       How many tapes have you to send?       I have … tapes to send.
+
+QOH       Shall I send a phasing signal for …    Send a phasing signal for … sec-
+            seconds?                               onds.
+236
+22                                      Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                         Answer or Advice
+
+
+                         Exchange of
+                     Correspondence (cont.)
+      QOI       Shall I send my tape?                 Send your tape.
+
+      QRJ       How many radiotelephone calls         I have … radiotelephone calls to
+                 have you to book?                      book.
+
+      QRU       Have you anything for me?             I have nothing for you.
+
+      QSG       Shall I send … telegrams at a time?   Send … telegrams at a time.
+
+      QSI                                             I have been unable to break in on
+                                                        your transmission.
+                                                                                        or
+                                                      Will you inform … (name and/or
+                                                        call sign) that I have been unable
+                                                        to break in on his transmission
+                                                        (on … kHz (or MHz)).
+
+      QSK       Can you hear me between your          I can hear you between my signals;
+                  signals and if so may I break in       break in on my transmission.
+                  on your transmission?
+
+      QSL       Can you acknowledge receipt?          I am acknowledging receipt.
+
+      QSM       Shall I repeat the last telegram      Repeat the last telegram which
+                  which I sent you (or some previ-      you sent me (or telegram(s)
+                  ous telegram)?                        number(s) …).
+
+      QSZ       Shall I send each word or group       Send each word or group twice (or
+                  more than once?                       … times).
+
+      QTA       Shall I cancel telegram (or mes-      Cancel telegram      (or   message)
+                  sage) number …?                       number …
+
+      QTB       Do you agree with my counting of      I do not agree with your counting
+                 words?                                 of words; I will repeat the first
+                                                        letter or digit of each word or
+                                                        group.
+                                   Rec. ITU-R M.1172                                 237
+                                                                                       23
+
+
+Abbre-
+viation                Question                         Answer or Advice
+
+
+                   Exchange of
+               Correspondence (cont.)
+QTC       How many telegrams have you to        I have … telegrams for you (or for
+           send?                                   … (name and/or call sign)).
+
+QTV       Shall I stand guard for you on the    Stand guard for me on the fre-
+            frequency of … kHz (or MHz)           quency of … kHz (or MHz)
+            (from … to … hours)?                  (from … to … hours).
+
+QTX       Will you keep your station open for   I will keep my station open for
+           further communication with me          further communication with you
+           until further notice (or until …       until further notice (or until …
+           hours)?                                hours).
+
+
+                      Movement
+QRE       What is your estimated time of ar-    My estimated time of arrival at …
+           rival at … (or over …) (place)?       (or over …) (place) is … hours.
+
+QRF       Are you returning to … (place)?       I am returning to … (place).
+                                                                               or
+                                                Return to … (place).
+
+QSH       Are you able to home with your        I am able to home with my direc-
+            direction-finding equipment?          tion-finding equipment (on …
+                                                  (name and/or call sign)).
+
+QTI*      What is your TRUE course?             My TRUE course is … degrees.
+
+QTJ*      What is your speed?                   My speed is … knots (or kilo-
+                                                 metres per hour or … statute
+                                                 miles per hour).
+            (Requests the speed of a ship or     (Indicates the speed of a ship or
+            aircraft through the water or air    aircraft through the water or air
+            respectively.)                       respectively.)
+238
+24                                       Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                            Answer or Advice
+
+
+                        Movement (cont.)
+      QTK*      What is the speed of your aircraft in   The speed of my aircraft in relation
+                 relation to the surface of the           to the surface of the Earth is …
+                 Earth?                                   knots (or … kilometres per hour
+                                                          or … statute miles per hour).
+
+      QTL*      What is your TRUE heading?              My TRUE heading is … degrees.
+
+      QTM*      What is your MAGNETIC head-             My MAGNETIC heading is …
+                 ing?                                    degrees.
+
+      QTN       At what time did you depart from        I departed from … (place) at …
+                  … (place)?                              hours.
+
+      QTO       Have you left dock (or port)?           I have left dock (or port).
+                                                  or                                      or
+                Are you airborne?                       I am airborne.
+
+      QTP       Are you going to enter dock (or         I am going to enter dock (or port).
+                  port)?
+                                                  or                                      or
+                Are you going to alight (or land)?      I am going to alight (or land).
+
+      QUN       1. When directed to all stations:       My position, TRUE course and
+                   Will vessels in my immediate          speed are …
+                   vicinity …
+                                                or
+                   (in the vicinity of … latitude,
+                      … longitude)
+                                                or
+                   (in the vicinity of …)
+                   please indicate their position,
+                   TRUE course and speed?
+                2. When directed to a single
+                   station:
+                   Please indicate your position,
+                   TRUE course and speed.
+                                  Rec. ITU-R M.1172                                 239
+                                                                                      25
+
+
+Abbre-
+viation               Question                         Answer or Advice
+
+
+                    Meteorology
+QUB*      Can you give me in the following     Here is the information requested:
+            order information concerning:       …
+            the direction in degrees TRUE       (The units used for speed and
+            and speed of the surface wind;      distances should be indicated.)
+            visibility; present weather; and
+            amount, type and height of base
+            of cloud above surface elevation
+            at … (place of observation)?
+
+QUH*      Will you give me the present baro-   The present barometric pressure at
+           metric pressure at sea level?         sea level is … (units).
+
+QUX       Do you have any navigational         I have the following navigational
+           warnings or gale warnings in          warning(s) or gale warning(s) in
+           force?                                force: …
+
+
+              Radio Direction-Finding
+QTE       What is my TRUE bearing from         Your TRUE bearing from me is …
+           you?                                 degrees at … hours.
+                                         or                                   or
+          What is my TRUE bearing from …       Your TRUE bearing from … (name
+           (name and/or call sign)?             and/or call sign) was … degrees
+                                                at … hours.
+                                         or                                   or
+          What is the TRUE bearing of …        The TRUE bearing of … (name
+           (name and/or call sign) from …        and/or call sign) from … (name
+           (name and/or call sign)?              and/or call sign) was … degrees
+                                                 at … hours.
+240
+26                                      Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                           Answer or Advice
+
+
+                 Radio Direction-Finding (cont.)
+      QTF       Will you give me my position ac-        Your position according to the
+                 cording to the bearings taken by        bearings taken by the direction-
+                 the direction-finding stations          finding stations which I control
+                 which you control?                      was … latitude, … longitude (or
+                                                         other indication of position),
+                                                         class … at … hours.
+
+      QTG       Will you send two dashes of ten         I am going to send two dashes of
+                 seconds each (or carrier) fol-           ten seconds each (or carrier) fol-
+                 lowed by your call sign (or              lowed by my call sign (or name)
+                 name) (repeated … times) on …            (repeated … times) on … kHz
+                 kHz (or MHz)?                            (or MHz).
+                                                   or                                    or
+                Will you request … (name and/or         I have requested … (name and/or
+                 call sign) to send two dashes of         call sign) to send two dashes of
+                 ten seconds each (or carrier) fol-       ten seconds each (or carrier) fol-
+                 lowed by his call sign (and/or           lowed by his call sign (and/or
+                 name) (repeated … times) on              name) (repeated … times) on
+                 … kHz (or MHz)?                          … kHz (or MHz).
+
+
+                       Suspension of Work
+      QRT       Shall I stop sending?                   Stop sending.
+
+      QUM       May I resume normal working?            Normal working may be resumed.
+
+      QUZ       May I resume restricted working?        Distress phase still in force; res-
+                                                          tricted working may be resumed.
+
+
+                              Safety
+      QOE       Have you received the safety signal     I have received the safety signal
+                 sent by … (name and/or call              sent by … (name and/or call
+                 sign)?                                   sign).
+                                     Rec. ITU-R M.1172                                 241
+                                                                                         27
+
+
+Abbre-
+viation                Question                          Answer or Advice
+
+
+                    Safety (cont.)
+QUX       Do you have any navigational           I have the following navigational
+           warnings or gale warnings in            warning(s) or gale warning(s) in
+           force?                                  force: …
+
+
+                       Urgency
+QUD       Have you received the urgency          I have received the urgency signal
+           signal sent by … (name and/or           sent by … (name and/or call
+           call sign)?                             sign) at … hours.
+
+
+                       Distress
+QOJ       Will you listen on … kHz (or           I am listening on … kHz (or MHz)
+           MHz) for signals of emergency            for signals of emergency posi-
+           position-indicating  radiobea-           tion-indicating radiobeacons.
+           cons?
+
+QOK       Have you received the signals          I have received the signals of an
+           of an emergency position-               emergency     position-indicating
+           indicating radiobeacon on …             radiobeacon on … kHz (or
+           kHz (or MHz)?                           MHz).
+
+QUF       Have you received the distress sig-    I have received the distress signal
+           nal sent by … (name and/or call         sent by … (name and/or call
+           sign)?                                  sign) at … hours.
+
+QUM       May I resume normal working?           Normal working may be resumed.
+
+QUZ       May I resume restricted working?       Distress phase still in force; res-
+                                                   tricted working may be resumed.
+
+
+                 Search and Rescue
+QSE*      What is the estimated drift of the     The estimated drift of the survival
+           survival craft?                         craft is … (figures and units).
+242
+28                                      Rec. ITU-R M.1172
+
+
+      Abbre-
+      viation                Question                         Answer or Advice
+
+
+                    Search and Rescue (cont.)
+      QSF*      Have you effected rescue?             I have effected rescue and am pro-
+                                                        ceeding to … base (with … per-
+                                                        sons injured requiring ambu-
+                                                        lance).
+
+      QTD*      What has the rescue vessel or res-    … (identification) has recovered…
+                 cue aircraft recovered?               1.…. (number) survivors
+                                                       2. wreckage
+                                                       3. … (number) bodies.
+
+      QTW*      What is the condition of survivors?   Survivors are in … condition and
+                                                        urgently need …
+
+      QTY*      Are you proceeding to the position    I am proceeding to the position of
+                  of incident and if so when do you     incident and expect to arrive at
+                  expect to arrive?                     … hours (on … (date)).
+
+      QTZ*      Are you continuing the search?        I am continuing the search for …
+                                                        (aircraft, ship, survival craft,
+                                                        survivors or wreckage).
+
+      QUN       1. When directed to all stations:     My position, TRUE course and
+                   Will vessels in my immediate        speed are …
+                   vicinity …
+                                               or
+                  (in the vicinity of … latitude,
+                  … longitude)
+                                               or
+                  (in the vicinity of …)
+                  please indicate their position,
+                  TRUE course and speed?
+                2. When directed to a single
+                   station:
+                   Please indicate your position,
+                   TRUE course and speed.
+                                   Rec. ITU-R M.1172                                243
+                                                                                      29
+
+
+Abbre-
+viation                Question                         Answer or Advice
+
+
+              Search and Rescue (cont.)
+QUO*      Shall I search for …                 Please search for …
+            1. aircraft                          1. aircraft
+            2. ship                              2. ship
+            3. survival craft                    3. survival craft
+            in the vicinity of … latitude,       in the vicinity of … latitude,
+            … longitude (or according to         … longitude (or according to
+            any other indication)?               any other indication).
+
+QUP*      Will you indicate your position by   My position is indicted by …
+           …
+           1. searchlight                         1. searchlight
+           2. black smoke trail                   2. black smoke trail
+           3. pyrotechnic lights?                 3. pyrotechnic lights.
+
+QUR*      Have survivors …                     Survivors …
+           1. received survival equipment        1. are in possession of survival
+                                                 equipment dropped by …
+            2. been picked up by rescue          2. have been picked up by rescue
+            vessel                               vessel
+            3. been reached by ground rescue     3. have been reached by ground
+            party?                               rescue party.
+
+QUS*      Have you sighted survivors or        Have sighted …
+           wreckage? If so, in what             1. survivors in water
+           position?                            2. survivors on rafts
+                                                3. wreckage
+                                                in position … latitude, … longi-
+                                                tude (or according to any other
+                                                indication).
+
+QUT*      Is position of incident marked?      Position of incident is marked by
+                                                 …
+                                                 1. flame or smoke float
+                                                 2. sea marker
+                                                 3. sea marker dye
+                                                 4. … (specify other marking).
+244
+30                                          Rec. ITU-R M.1172
+
+
+      Abbre-
+                                 Question                         Answer or Advice
+      viation
+
+
+                      Search and Rescue (cont.)
+      QUU*      Shall I home ship or aircraft to my       Home ship or aircraft … (name
+                  position?                                and/or call sign) …
+                                                           1. to your position by sending
+                                                              your call sign and long dashes
+                                                              on ... kHz (or MHz)
+                                                           2. by sending on … kHz (or
+                                                              MHz) TRUE track to reach
+                                                              you.
+
+      QUW*      Are you in the search area desig-         I am in the … (designation) search
+                  nated as … (designator or lati-            area.
+                  tude and longitude)?
+
+      QUY*      Is    position    of   survival   craft   Position of survival craft was
+                     marked?                                marked at … hours by …
+                                                            1. flame or smoke float
+                                                            2. sea marker
+                                                            3. sea marker dye
+                                                            4. … (specify other marking).
+
+      QUZ       May I resume restricted working?          Distress phase still in force; res-
+                                                            tricted working may be resumed.
+
+
+                            Identification
+      QTT                                                 The identification signal which
+                                                            follows is superimposed on
+                                                            another transmission.
+                                        Rec. ITU-R M.1172                                    245
+                                                                                               31
+
+ Section II. Miscellaneous Abbreviations and Signals
+
+
+   Abbre-
+   viation                                       Definition
+  or signal
+
+ AA           All after … (used after a question mark in radiotelegraphy or after RQ
+                in radiotelephony (in case of language difficulties) or after RPT, to
+                request a repetition).
+ AB           All before … (used after a question mark in radiotelegraphy or after RQ
+                in radiotelephony (in case of language difficulties) or after RPT, to
+                request a repetition).
+ ADS          Address (used after a question mark in radiotelegraphy or after RQ in
+               radiotelephony (in case of language difficulties) or after RPT, to
+               request a repetition).
+ 
+ AR           End of transmission.
+ 
+ AS           Waiting period.
+ BK           Signal used to interrupt a transmission in progress.
+
+ BN           All between … and … (used after a question mark in radiotelegraphy or
+                after RQ in radiotelephony (in case of language difficulties) or after
+                RPT, to request a repetition).
+ BQ           A reply to an RQ.
+ 
+ BT           Signal to mark the separation between different parts of the same
+                transmission.
+ C            Yes or “The significance of the previous group should be read in the
+               affirmative”.
+ CFM          Confirm (or I confirm).
+
+ CL           I am closing my station.
+
+ COL          Collate (or I collate).
+
+ CORREC- Cancel my last word or group. The correct word or group follows (used
+  TION     in radiotelephony, spoken as KOR-REK-SHUN).
+
+ CP           General call to two or more specified stations (see Recommendation
+               ITU-R M.1170).
+ CQ           General call to all stations.
+
+ CS           Call sign (used to request a call sign).
+______________
+          Note: When used in radiotelegraphy, a bar over the letters composing a signal denotes
+that the letters are to be sent as one signal.
+246
+32                                          Rec. ITU-R M.1172
+
+
+        Abbre-
+        viation                                       Definition
+       or signal
+
+      DE           “From …” (used to precede the name or other identification of the
+                     calling station).
+      DF           Your bearing at … hours was … degrees, in the doubtful sector of this
+                    station, with a possible error of … degrees.
+      DO           Bearing doubtful. Ask for another bearing later (or at … hours).
+      DSC          Digital selective calling.
+      E            East (cardinal point).
+      ETA          Estimated time of arrival.
+      INTERCO International Code of Signals groups follow (used in radiotelephony,
+                spoken as IN-TER-CO).
+      K            Invitation to transmit.
+      
+      KA           Starting signal.
+      KTS          Nautical miles per hour (knots).
+      MIN          Minute (or Minutes).
+      MSG          Prefix indicating a message to or from the master of a ship concerning its
+                     operation or navigation.
+      MSI          Maritime safety information.
+      N            North (cardinal point).
+      NBDP         Narrow-band direct-printing telegraphy.
+      NIL          I have nothing to send to you.
+      NO           No (negative).
+      NW           Now.
+      NX           Notice to Mariners (or Notice to Mariners follows).
+      OK           We agree (or It is correct).
+      OL           Ocean letter.
+      P            Prefix indicating a private radiotelegram.
+      PBL          Preamble (used after a question mark in radiotelegraphy or after RQ in
+                     radiotelephony (in case of language difficulties) or after RPT, to
+                     request a repetition).
+      PSE          Please.
+      R            Received.
+                                       Rec. ITU-R M.1172                                 247
+                                                                                           33
+
+
+  Abbre-
+  viation                                       Definition
+ or signal
+
+RCC          Rescue coordination centre.
+REF          Reference to … (or Refer to …).
+RPT          Repeat (or I repeat) (or Repeat …).
+RQ           Indication of a request.
+S            South (cardinal point).
+SAR          Search and Rescue.
+SIG          Signature (used after a question mark in radiotelegraphy or after RQ in
+               radiotelephony (in case of language difficulties) or after RPT, to
+               request a repetition).
+SLT          Radiomaritime Letter.
+SVC          Prefix indicating a service telegram.
+SYS          Refer to your service telegram.
+TFC          Traffic.
+
+TR           Used by a land station to request the position and next port of call of a
+               mobile station; used also as a prefix to the reply.
+TU           Thank you.
+TXT          Text (used after a question mark in radiotelegraphy or after RQ in
+               radiotelephony (in case of language difficulties) or after RPT, to
+               request a repetition).
+
+VA           End of work.
+W            West (cardinal point).
+WA           Word after … (used after a question mark in radiotelegraphy or after
+              RQ in radiotelephony (in case of language difficulties) or after RPT, to
+              request a repetition).
+WB           Word before … (used after a question mark in radiotelegraphy or after
+              RQ in radiotelephony (in case of language difficulties) or after RPT, to
+              request a repetition).
+WD           Word(s) or Group(s).
+WX           Weather report (or Weather report follows).
+XQ           Prefix used to indicate the transmission of a service note.
+YZ           The words which follow are in plain language.
+
