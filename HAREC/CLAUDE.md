@@ -1,13 +1,14 @@
 # HAREC A – otázky ČTÚ s výňatky z předpisů
 
 Výstup: `HAREC_A_otazky_s_predpisy.odt` – všechny otázky pro průkaz HAREC třídy A (verze ČTÚ 05/2026),
-správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvodňují. Sestaveno 11. 11. 2026, aktualizováno 15. 11. 2026 – obrázky k elektrotechnice c)–f), pásma v MHz; dříve 14. 11. 2026 (ověřena aktuálnost + seznam zkratek + příloha s výtahem z CEPT T/R 61-01/61-02).
+správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvodňují. Sestaveno 11. 11. 2026, aktualizováno 16. 11. 2026 – mapy prefixů podle kontinentů; 15. 11. 2026 – obrázky k elektrotechnice c)–f), pásma v MHz; dříve 14. 11. 2026 (ověřena aktuálnost + seznam zkratek + příloha s výtahem z CEPT T/R 61-01/61-02).
 
 ## Struktura
 - `zdroje/ctu/` – PDF otázek ČTÚ (`amaterske_zkousky_faq_05-2026.pdf`) a text (`pdftotext -layout`)
 - `zdroje/predpisy_cz/` – zákon 127/2005, vyhlášky 155, 156, 157/2005 Sb. (HTML ze zakonyprolidi.cz + text)
 - `zdroje/itu/` – Radio Regulations 2024 Vol. 1 a 2 (PDF + text), ITU-R M.1172 (Q kódy, zkratky)
 - `zdroje/cept/` – T/R 61-01 (vyd. 10/2024), T/R 61-02 (vyd. 02/2024)
+- `zdroje/geo/` – Natural Earth 1:50m Admin 0 Countries v5.1.2 (GeoJSON, volné dílo) pro mapy prefixů
 - `zdroje/iaru/` – IARU R1 HF band plan (2020), VHF Handbook v10.03 (02/2026)
 - `skripty/parse_faq.py` – rozparsuje text ČTÚ (jen třída A) → `data/faq.json`
 - `skripty/excerpts.py` – knihovna výňatků `X[klíč] = (zdroj, text, pracovní překlad|None)`
@@ -29,6 +30,14 @@ správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvod
   ověřeny výpočtem ortodromy (±5°). Uživatel zvolil Mercator místo azimutální projekce.
 - `skripty/majaky.py` – tabulka nejznámějších majáků (max. 20: 18 NCDXF/IARU + DK0WCY + OZ7IGY) za otázkou provoz c) 25;
   zdroje a datum ověření v hlavičce modulu, české majáky podle seznamu ČRK.
+- `skripty/mapy_prefixu.py` – kapitola „Mapy prefixů podle kontinentů“ (6 map, každá na 1 stranu A4: Evropa, Asie, Afrika,
+  S. a Stř. Amerika, J. Amerika, Austrálie a Oceánie), vkládá se těsně před oddíl provoz f) (`add_prefix_maps` v build.py).
+  **Uživatel chce jen prefixy z otázek ČTÚ** (provoz f), text přesně podle odpovědi ČTÚ; ostatní státy šedé bez popisku.
+  `ENTRIES[č. otázky] = (ADM0_A3 | None, kotva)` – None = bodové území (ostrov, část UK…); `ON_MAPS` = na které mapě
+  (výchozí Evropa); `ANCHOR_MAP` kotvy pro konkrétní mapu; `MAPS` = střed projekce (LAEA) + body, které musí být vidět.
+  Popisky: uvnitř státu, pokud se vejdou (maska ≥ 85 %), jinak rámeček s odkazovou čarou (hledání s penalizací za
+  zakrytí zvýrazněných států a křížení čar); území mimo výřez → popisek u okraje se šipkou (jen ←↑→↓, diagonální LO neumí).
+  Náhledy: `python3 -I skripty/mapy_prefixu.py . VÝST_SLOŽKA` (+ `google-chrome --headless --screenshot`).
 - `skripty/praxe.py` – „Z praxe:“ krátká praktická vysvětlení ke všem 140 otázkám provoz e) (zkratky), `PRAXE_E[číslo]`.
 - `skripty/praxe_q.py` – totéž pro provoz d) Q kódy (21 otázek), `PRAXE_D[číslo]`.
 - `skripty/obrazky_elek.py` – názorné obrázky (SVG) ke všem otázkám elektrotechnika c)–f) (56 ks): schémata, grafy,
@@ -58,9 +67,9 @@ správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvod
 
 ## Postup sestavení (opakovatelný)
 ```
-cd ~/Desktop/HAREC
+cd ~/Desktop/hamradio/HAREC
 python3 -I skripty/parse_faq.py zdroje/ctu/faq.txt data/faq.json
-python3 -I skripty/build.py ~/Desktop/HAREC ~/Desktop/HAREC/HAREC_A_otazky_s_predpisy.odt
+python3 -I skripty/build.py ~/Desktop/hamradio/HAREC ~/Desktop/hamradio/HAREC/HAREC_A_otazky_s_predpisy.odt
 soffice --headless --convert-to pdf HAREC_A_otazky_s_predpisy.odt   # PDF generovat vždy spolu s ODT
 ```
 Nikdy needitovat ODT ručně, pokud se bude znovu generovat – měnit skripty.
@@ -93,4 +102,4 @@ Nikdy needitovat ODT ručně, pokud se bude znovu generovat – měnit skripty.
 - Průběžně kontrolovat aktuálnost: nová verze otázek ČTÚ (stránka „Průkazy“ na ctu.gov.cz), znění vyhlášek na zakonyprolidi.cz.
 
 ## Preference uživatele
-- Komunikace česky. Výstupní formát ODT. Vše (zdroje, skripty, výstup, poznámky) držet v `~/Desktop/HAREC`.
+- Komunikace česky. Výstupní formát ODT. Vše (zdroje, skripty, výstup, poznámky) držet v `~/Desktop/hamradio/HAREC`.

@@ -20,6 +20,7 @@ import praxe_q
 import obrazky_elek
 import pasma
 import spektrum_pasma
+import mapy_prefixu
 from odf.draw import Frame, Image as DImage
 
 SP = sys.argv[1]  # kořen projektu (~/Desktop/HAREC)
@@ -503,6 +504,27 @@ for t in [
 ]:
     para(std, '• ' + t)
 
+# ---- styly obrázků; mapy prefixů (add_prefix_maps) se vkládají před oddíl provoz f)
+fig = pstyle('Obrazek', 'Standard', pp={'textalign': 'center', 'margintop': '0.05cm', 'marginbottom': '0.05cm', 'keepwithnext': 'always'})
+h2p = pstyle('Heading 2 nova strana', 'Heading 2', pp={'breakbefore': 'page'})
+
+
+def add_prefix_maps(fsec, h3, h3p):
+    """Kapitola s mapami prefixů – vkládá se těsně před oddíl provoz f)."""
+    doc.text.addElement(H(outlinelevel=2, stylename=h2p, text=mapy_prefixu.TITLE))
+    para(info, mapy_prefixu.INTRO)
+    fqs = []
+    for it in fsec['items']:
+        fq, fa = FIX.get((PROV, 'f', it['n']), (None, None))
+        fqs.append((it['n'], fq or it['q'], fa or it['a']))
+    for j, (mtitle, mdata, mw, mh) in enumerate(mapy_prefixu.generate(fqs, f'{SP}/zdroje/geo/ne_50m_admin_0_countries.geojson'), 1):
+        doc.text.addElement(H(outlinelevel=3, stylename=h3 if j == 1 else h3p, text=mtitle))
+        href = doc.addPicture(f'Pictures/mapa_prefixu{j}.svg', 'image/svg+xml', mdata)
+        p = P(stylename=fig)
+        fr = Frame(width='17cm', height=f'{17 * mh / mw:.2f}cm', anchortype='as-char', name=f'mapa_prefixu{j}')
+        fr.addElement(DImage(href=href, type='simple', show='embed', actuate='onLoad'))
+        p.addElement(fr); doc.text.addElement(p)
+
 # ---- seznam zkratek
 def tstyle(name, family, **props):
     st = Style(name=name, family=family)
@@ -521,6 +543,7 @@ tcode = pstyle('TabZkratka', 'Standard', tp={'fontsize': '9pt', 'fontweight': 'b
 thead = pstyle('TabHlavicka', 'Standard', tp={'fontsize': '9pt', 'fontweight': 'bold', 'fontname': 'Liberation Sans'}, pp={'marginbottom': '0cm'})
 h3 = pstyle('Heading 3', 'Standard', tp={'fontname': 'Liberation Sans', 'fontsize': '11.5pt', 'fontweight': 'bold', 'color': '#2e5597'},
             pp={'margintop': '0.35cm', 'marginbottom': '0.15cm', 'keepwithnext': 'always'}, defaultoutlinelevel='3')
+h3p = pstyle('Heading 3 nova strana', 'Heading 3', pp={'breakbefore': 'page'})
 _ncol = [0]
 praxe_s = pstyle('Praxe', 'Standard', tp={'fontsize': '9.5pt', 'color': '#1f3864'}, pp={'marginleft': '0.8cm', 'margintop': '0.08cm', 'marginbottom': '0.1cm', 'backgroundcolor': '#eef3fb', 'padding': '0.12cm'})
 lblp = Style(name='LblPraxe', family='text'); lblp.addElement(TextProperties(fontweight='bold', color='#2e5597')); doc.styles.addElement(lblp)
@@ -566,8 +589,6 @@ for i, (atitle, anote, arows, emis) in enumerate(zkratky.build_rows(faq), 1):
 
 # ---- spektra druhů provozu (za seznamem zkratek)
 cap = pstyle('Popisek', 'Standard', tp={'fontsize': '9.5pt', 'color': '#333333'}, pp={'marginbottom': '0.35cm'})
-fig = pstyle('Obrazek', 'Standard', pp={'textalign': 'center', 'margintop': '0.05cm', 'marginbottom': '0.05cm', 'keepwithnext': 'always'})
-h2p = pstyle('Heading 2 nova strana', 'Heading 2', pp={'breakbefore': 'page'})
 doc.text.addElement(H(outlinelevel=2, stylename=h2p, text=f'{i + 1}. Druhy provozu ve spektru – kde leží modulace vzhledem k nosné'))
 para(info, spektra.INTRO)
 for j, (stitle, sdesc, sdata) in enumerate(spektra.generate(), 1):
@@ -609,7 +630,9 @@ for part in faq:
             lab = 'd'   # second "c)" in the ČTÚ text is in fact section d)
         seen.add(lab)
         sec['label2'] = lab
-        doc.text.addElement(H(outlinelevel=2, stylename=h2, text=f'{lab}) {sec["title"]}'))
+        if pt == PROV and lab == 'f':
+            add_prefix_maps(sec, h3, h3p)
+        doc.text.addElement(H(outlinelevel=2, stylename=h2p if (pt == PROV and lab == 'f') else h2, text=f'{lab}) {sec["title"]}'))
         if pt == PROV and lab == 'd' and sec['label'] == 'c':
             para(info, 'V originálu ČTÚ je tento oddíl chybně označen jako c); podle rozpisu počtu otázek jde o oddíl d).')
         if (pt, lab) in NOTE_NOLAW:
