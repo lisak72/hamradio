@@ -1,7 +1,7 @@
 # HAREC A – otázky ČTÚ s výňatky z předpisů
 
 Výstup: `HAREC_A_otazky_s_predpisy.odt` – všechny otázky pro průkaz HAREC třídy A (verze ČTÚ 05/2026),
-správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvodňují. Sestaveno 11. 11. 2026, aktualizováno 16. 11. 2026 – mapy prefixů podle kontinentů; 15. 11. 2026 – obrázky k elektrotechnice c)–f), pásma v MHz; dříve 14. 11. 2026 (ověřena aktuálnost + seznam zkratek + příloha s výtahem z CEPT T/R 61-01/61-02).
+správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvodňují. Sestaveno 11. 11. 2026, aktualizováno 20. 11. 2026 – příloha pásma podle druhů provozu; 16. 11. 2026 – mapy prefixů podle kontinentů; 15. 11. 2026 – obrázky k elektrotechnice c)–f), pásma v MHz; dříve 14. 11. 2026 (ověřena aktuálnost + seznam zkratek + příloha s výtahem z CEPT T/R 61-01/61-02).
 
 ## Struktura
 - `zdroje/ctu/` – PDF otázek ČTÚ (`amaterske_zkousky_faq_05-2026.pdf`) a text (`pdftotext -layout`)
@@ -56,6 +56,11 @@ správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvod
   Amatérská pásma barevně podle šíření (`CAT`, `BAND_CAT`: přízemní vlna / odraz od ionosféry / odraz jen výjimečně /
   přímá viditelnost; pásmo se dvěma druhy je rozděleno), fialový pruh nahoře = aurora (`AURORA`). První graf `overview()`
   (log. osa) vysvětluje barvy.
+- `skripty/pasma_provoz.py` – poslední příloha „Radioamatérská pásma podle druhů provozu“ (za spektrem 0–6 GHz): legenda
+  + 1 graf na pásmo (lineární osa, KV v kHz, jinak MHz). Pruh „IARU R1“ = zjednodušený plán IARU (kategorie `CAT`:
+  cw/nb/dig/fone/fm/bcn/sat/atv/wide/gap), oříznutý na rozsah vyhl. 156; pruh „ČTÚ“ = úseky přesně podle odpovědí
+  provoz a) s číslem otázky (překrývající se úseky pod sebou); trojúhelníky = centra aktivity IARU; `zoom` = detail(y)
+  úzkých úseků (70 cm, 23 cm – dva detaily A/B, 13 cm, 6 cm). Data v `BANDS`. Náhledy: `python3 -I skripty/pasma_provoz.py VÝST_SLOŽKA`.
 - `skripty/pasma.py` – pásma v metrech → MHz (`MHZ`, podle přílohy 1 vyhl. 156/2005; 4 m tam není → „≈ 70 MHz“).
   `BAND_NOTES` = otázky ČTÚ zmiňující pásmo v m → „Vysvětlivka:“ za odpovědí (text ČTÚ se nemění).
   **Pravidlo uživatele (platí pro celý text):** všude, kde je pásmo v metrech, uvést i kmitočet v MHz – ve vlastních

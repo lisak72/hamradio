@@ -20,6 +20,7 @@ import praxe_q
 import obrazky_elek
 import pasma
 import spektrum_pasma
+import pasma_provoz
 import mapy_prefixu
 from odf.draw import Frame, Image as DImage
 
@@ -746,6 +747,18 @@ for j, (stitle, sdesc, sdata, sw, sh) in enumerate(spektrum_pasma.generate(), 1)
     p.addElement(fr); doc.text.addElement(p)
     if sdesc:
         para(cap, sdesc)
+
+# ---- příloha: radioamatérská pásma podle druhů provozu (plán IARU R1 + úseky z odpovědí ČTÚ provoz a)
+doc.text.addElement(H(outlinelevel=1, stylename=h1, text=pasma_provoz.TITLE))
+para(info, pasma_provoz.INTRO)
+for j, (ptitle, pdesc, pdata, pw, ph) in enumerate(pasma_provoz.generate(), 1):
+    href = doc.addPicture(f'Pictures/pasma_provoz{j:02d}.svg', 'image/svg+xml', pdata)
+    p = P(stylename=fig)
+    fr = Frame(width='17cm', height=f'{17 * ph / pw:.2f}cm', anchortype='as-char', name=f'pasma_provoz{j}')
+    fr.addElement(DImage(href=href, type='simple', show='embed', actuate='onLoad'))
+    p.addElement(fr); doc.text.addElement(p)
+    if pdesc:
+        para(cap, pdesc)
 
 doc.save(OUT)
 print('questions', stats['q'], 'with excerpts', stats['with'])
