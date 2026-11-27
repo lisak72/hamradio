@@ -1,7 +1,7 @@
 # HAREC A – otázky ČTÚ s výňatky z předpisů
 
 Výstup: `HAREC_A_otazky_s_predpisy.odt` – všechny otázky pro průkaz HAREC třídy A (verze ČTÚ 05/2026),
-správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvodňují. Sestaveno 11. 11. 2026, aktualizováno 20. 11. 2026 – příloha pásma podle druhů provozu; 16. 11. 2026 – mapy prefixů podle kontinentů; 15. 11. 2026 – obrázky k elektrotechnice c)–f), pásma v MHz; dříve 14. 11. 2026 (ověřena aktuálnost + seznam zkratek + příloha s výtahem z CEPT T/R 61-01/61-02).
+správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvodňují. Sestaveno 11. 11. 2026, aktualizováno 27. 11. 2026 – doplňky podle e-booků (S-metr, Z praxe c), vysvětlivky i), tahák vzorců), ověřena aktuálnost ČTÚ; 20. 11. 2026 – příloha pásma podle druhů provozu; 16. 11. 2026 – mapy prefixů podle kontinentů; 15. 11. 2026 – obrázky k elektrotechnice c)–f), pásma v MHz; dříve 14. 11. 2026 (ověřena aktuálnost + seznam zkratek + příloha s výtahem z CEPT T/R 61-01/61-02).
 
 ## Struktura
 - `zdroje/ctu/` – PDF otázek ČTÚ (`amaterske_zkousky_faq_05-2026.pdf`) a text (`pdftotext -layout`)
@@ -68,6 +68,15 @@ správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvod
   Pozor: ČTÚ někdy píše pásmo slovem („20 metrů“, g) 10) – při kontrole hledat i „metr…/centimetr…“.
 - Úvodní oddíl „Jak probíhá zkouška“ (v `build.py` před Úvodem) – podle vyhl. 157/2005, Zkušebního řádu ČTÚ
   03/2023 (`zdroje/ctu/zkusebni_rad/`) a webu ČTÚ (poplatek 600 Kč, ověřeno 14. 11. 2026).
+- `skripty/doplnky.py` – doplňky inspirované e-booky v `../ebooks/` („Radioamatér – vizuální průvodce“ + 2 bonusy), **přepracované
+  podle ČTÚ** (otázky ČTÚ mají vždy přednost, data z e-booků v rozporu s ČTÚ se nepřejímají; obrázky se nekopírují):
+  S-metr a report RST za otázkou provoz c) 18 (`smeter_figure`, `S_ROWS` podle IARU R.1, `RST_ROWS`); `PRAXE_C` = „Z praxe:“
+  k provoz c) 12, 13, 17, 18, 21; `VYSV_I` = vysvětlivky k elektrotechnika i) 1, 3 (zádrž vs. propust); `TAHAK` = poslední
+  příloha „Tahák: vzorce a čísla k výpočtovým otázkám“ (jen vzorce potřebné k otázkám ČTÚ, s odkazy na otázky).
+  Zjištěné rozpory e-booků s ČTÚ: bezpečné stříd. napětí „50 V“ (ČTÚ j) 1: 25 V / ss 60 V); deník pro všechny (ČTÚ předpisy c) 2:
+  jen klubové stanice); 20 m (14 MHz) fonie až od 14 112 kHz (ČTÚ provoz a) 15: 14 101–14 350); TVI „horní propust“ (ČTÚ i) 3:
+  „dolnofrekvenční zádrž“ – totéž, jiný název); jen mezinárodní hláskování (vyhl. 155: vnitrostátně i česká); F2 ≈ 150 km (chyba).
+  Cvičné testy z e-booků nejsou otázky ČTÚ – nepřebírat.
 - `skripty/build.py` – přiřazení výňatků k otázkám + seznam zkratek (za úvodem) + generování ODT (odfpy)
 
 ## Postup sestavení (opakovatelný)
@@ -77,6 +86,7 @@ python3 -I skripty/parse_faq.py zdroje/ctu/faq.txt data/faq.json
 python3 -I skripty/build.py ~/Desktop/hamradio/HAREC ~/Desktop/hamradio/HAREC/HAREC_A_otazky_s_predpisy.odt
 soffice --headless --convert-to pdf HAREC_A_otazky_s_predpisy.odt   # PDF generovat vždy spolu s ODT
 ```
+Na tomto PC (Python 3.10) není odfpy systémově – použít venv s `pip install odfpy` (např. ve scratchpadu) a spouštět jeho python.
 Nikdy needitovat ODT ručně, pokud se bude znovu generovat – měnit skripty.
 
 ## Jak upravovat
@@ -101,7 +111,7 @@ Nikdy needitovat ODT ručně, pokud se bude znovu generovat – měnit skripty.
 - Odpovědi ČTÚ k rozdělení pásem se místy liší od aktuálních plánů IARU (např. EME 144,110–144,160 MHz
   v aktuálním plánu vs. „úsek není určen“ u ČTÚ). Pro zkoušku platí odpověď ČTÚ, v úvodu dokumentu je upozornění.
 - Elektrotechnika: bez výňatků (nelze zdůvodnit předpisy) – jen otázka + odpověď.
-- Aktuálnost ověřena 14. 11. 2026: ČTÚ 05/2026 stále platná (stránka ctu.gov.cz/prukazy-zkousky ještě odkazuje
+- Aktuálnost ověřena 27. 11. 2026 (PDF 05/2026 na webu bajtově shodné s `zdroje/ctu/`, novější verze neexistuje); dříve 14. 11. 2026: ČTÚ 05/2026 stále platná (stránka ctu.gov.cz/prukazy-zkousky ještě odkazuje
   na starší 06-2025, novější je ve složce /obsah/Prukazy/); zákon 127/2005 znění od 1. 11. 2026 (v53), vyhl. 155 a 157
   znění od 23. 8. 2023, vyhl. 156 bez novel – vše shodné se staženými zdroji.
 - Průběžně kontrolovat aktuálnost: nová verze otázek ČTÚ (stránka „Průkazy“ na ctu.gov.cz), znění vyhlášek na zakonyprolidi.cz.

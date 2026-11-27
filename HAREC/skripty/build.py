@@ -22,6 +22,7 @@ import pasma
 import spektrum_pasma
 import pasma_provoz
 import mapy_prefixu
+import doplnky
 from odf.draw import Frame, Image as DImage
 
 SP = sys.argv[1]  # kořen projektu (~/Desktop/HAREC)
@@ -444,7 +445,7 @@ def add_excerpt(key):
 # ---- title page
 doc.text.addElement(P(stylename=title, text='Zkušební otázky HAREC – třída A'))
 doc.text.addElement(P(stylename=subtitle, text='Otázky a správné odpovědi ČTÚ s výňatky z předpisů, které je zdůvodňují'))
-doc.text.addElement(P(stylename=subtitle, text='Sestaveno 11. 11. 2026, aktualizováno 14. 11. 2026'))
+doc.text.addElement(P(stylename=subtitle, text='Sestaveno 11. 11. 2026, aktualizováno 27. 11. 2026'))
 
 doc.text.addElement(H(outlinelevel=1, stylename=h1, text='Jak probíhá zkouška'))
 para(std, 'Zkoušku pořádá zkušební komise Českého telekomunikačního úřadu pro amatérskou radiokomunikační službu se sídlem v Praze '
@@ -483,7 +484,7 @@ for t in [
     'Dokument obsahuje kompletní soubor otázek pro písemný test k průkazu HAREC operátora třídy A (podle § 2 písm. h) vyhl. č. 157/2005 Sb.), jak je zveřejňuje Český telekomunikační úřad – vložka č. 1 k čj. 26 273/2025-613, soubor „amaterske_zkousky_faq_05-2026.pdf“. U každé otázky je uvedena správná odpověď a – kde je to možné – doslovný výňatek z předpisu, který odpověď zdůvodňuje.',
     'Ve zkušebním testu jsou ke každé otázce nabídnuty tři odpovědi, z nichž jedna je správná (§ 5 odst. 3 vyhl. 157/2005 Sb.). Zde je uvedena jen ta správná.',
     'Výňatky z mezinárodních předpisů (ITU, CEPT, IARU) jsou ponechány v anglickém originálu; u předpisů ITU a CEPT je připojen pracovní (neoficiální) překlad. Poznámky označené „Poznámka“ jsou vysvětlující komentáře sestavitele, nejsou součástí předpisů ani materiálu ČTÚ.',
-    'Na konci dokumentu je příloha se stručným českým výtahem z doporučení CEPT T/R 61-01 (licence CEPT) a T/R 61-02 (HAREC).',
+    'Na konci dokumentu je příloha se stručným českým výtahem z doporučení CEPT T/R 61-01 (licence CEPT) a T/R 61-02 (HAREC) a jako poslední příloha tahák vzorců a čísel k výpočtovým otázkám.',
     'Upozornění: Rozdělení kmitočtových úseků v otázkách oddílu „Rozvrh kmitočtů“ formuloval ČTÚ; aktuální kmitočtové plány IARU Region 1 se v některých detailech mohou lišit (plány se průběžně aktualizují). Pro zkoušku platí odpovědi ČTÚ.',
 ]:
     para(std, t)
@@ -658,6 +659,9 @@ for part in faq:
             vt = pasma.note((pt, lab, it['n']))
             if vt:
                 p = P(stylename=note); p.addElement(Span(stylename=bold, text='Vysvětlivka: ')); teletype.addTextToElement(p, vt); doc.text.addElement(p)
+            vt = doplnky.VYSV_I.get(it['n']) if pt == ELEK and lab == 'i' else None
+            if vt:
+                p = P(stylename=note); p.addElement(Span(stylename=bold, text='Vysvětlivka: ')); teletype.addTextToElement(p, vt); doc.text.addElement(p)
             if pt == ELEK and lab in 'cdefg':
                 ob = obrazky_elek.figure(lab, pos)
                 if ob:
@@ -697,7 +701,8 @@ for part in faq:
                 para(note, nt, label=None) if False else None
                 p = P(stylename=note); p.addElement(Span(stylename=bold, text='Poznámka: ')); teletype.addTextToElement(p, nt); doc.text.addElement(p)
             ptxt = (praxe.PRAXE_E.get(it['n']) if pt == PROV and lab == 'e' else
-                    praxe_q.PRAXE_D.get(it['n']) if pt == PROV and lab == 'd' else None)
+                    praxe_q.PRAXE_D.get(it['n']) if pt == PROV and lab == 'd' else
+                    doplnky.PRAXE_C.get(it['n']) if pt == PROV and lab == 'c' else None)
             if ptxt:
                 p = P(stylename=praxe_s); p.addElement(Span(stylename=lblp, text='Z praxe: ')); teletype.addTextToElement(p, ptxt); doc.text.addElement(p)
             if pt == PROV and lab == 'c' and it['n'] == 25:
@@ -706,6 +711,21 @@ for part in faq:
                 table(['2.2cm', '5.2cm', '4.4cm', '5.2cm'], ['Značka', 'Umístění', 'Kmitočty (MHz)', 'Poznámka'],
                       majaky.ROWS, [tcode, tcell, tcell, tcell])
                 para(cap, majaky.NOTE)
+            if pt == PROV and lab == 'c' and it['n'] == 18:
+                doc.text.addElement(H(outlinelevel=3, stylename=h3, text=doplnky.SM_TITLE))
+                para(cap, doplnky.SM_INTRO)
+                sdata, sw, sh = doplnky.smeter_figure()
+                href = doc.addPicture('Pictures/smetr.svg', 'image/svg+xml', sdata)
+                p = P(stylename=fig)
+                fr = Frame(width='16cm', height=f'{16 * sh / sw:.2f}cm', anchortype='as-char', name='smetr')
+                fr.addElement(DImage(href=href, type='simple', show='embed', actuate='onLoad'))
+                p.addElement(fr); doc.text.addElement(p)
+                para(cap, doplnky.SM_CAPTION)
+                table(['2.6cm', '4.4cm', '2.4cm', '4.4cm', '3.2cm'], doplnky.S_HEADER, doplnky.S_ROWS,
+                      [tcode, tcell, tcell, tcell, tcell], hl=lambda r: r[0] in ('S9', 'S8'))
+                para(cap, doplnky.S_NOTE)
+                table(['4.0cm', '13.0cm'], doplnky.RST_HEADER, doplnky.RST_ROWS, [tcode, tcell])
+                para(cap, doplnky.RST_NOTE)
             if pt == PROV and lab == 'c' and it['n'] == 7:
                 atitle, adesc, adata, aw, ah = azimut.generate()
                 doc.text.addElement(H(outlinelevel=3, stylename=h3, text=atitle))
@@ -759,6 +779,13 @@ for j, (ptitle, pdesc, pdata, pw, ph) in enumerate(pasma_provoz.generate(), 1):
     p.addElement(fr); doc.text.addElement(p)
     if pdesc:
         para(cap, pdesc)
+
+# ---- příloha: tahák vzorců k výpočtovým otázkám
+doc.text.addElement(H(outlinelevel=1, stylename=h1, text=doplnky.TAHAK_TITLE))
+para(info, doplnky.TAHAK_INTRO)
+for gtitle, grows in doplnky.TAHAK:
+    doc.text.addElement(H(outlinelevel=3, stylename=h3, text=gtitle))
+    table(['7.0cm', '7.0cm', '3.0cm'], doplnky.TAHAK_HEADER, grows, [tcode, tcell, tcell])
 
 doc.save(OUT)
 print('questions', stats['q'], 'with excerpts', stats['with'])
