@@ -24,6 +24,7 @@ import pasma_provoz
 import mapy_prefixu
 import doplnky
 import pravidla
+import obrazky_pravidla
 from odf.draw import Frame, Image as DImage
 
 SP = sys.argv[1]  # kořen projektu (~/Desktop/HAREC)
@@ -795,9 +796,24 @@ doc.text.addElement(H(outlinelevel=3, stylename=h3, text=pravidla.BAND_TITLE))
 table(['2.9cm', '4.1cm', '2.9cm', '1.9cm', '5.2cm'], pravidla.BAND_HEADER, pravidla.BAND_ROWS,
       [tcode, tcell, tcell, tcell, tcell])
 para(cap, pravidla.BAND_NOTE)
+
+
+def rule_fig(fn):
+    rdata, rw, rh, rcap = fn()
+    href = doc.addPicture(f'Pictures/pravidla_{fn.__name__}.svg', 'image/svg+xml', rdata)
+    p = P(stylename=fig)
+    fr = Frame(width='16cm', height=f'{16 * rh / rw:.2f}cm', anchortype='as-char', name=f'pravidla_{fn.__name__}')
+    fr.addElement(DImage(href=href, type='simple', show='embed', actuate='onLoad'))
+    p.addElement(fr); doc.text.addElement(p)
+    para(cap, rcap)
+
+
+rule_fig(obrazky_pravidla.BAND_FIG)
 for gtitle, grows in pravidla.GROUPS:
     doc.text.addElement(H(outlinelevel=3, stylename=h3, text=gtitle))
     table(['4.6cm', '9.4cm', '3.0cm'], pravidla.HEADER, grows, [tcode, tcell, tcell])
+    for fn in obrazky_pravidla.FIGS.get(gtitle, []):
+        rule_fig(fn)
 
 doc.save(OUT)
 print('questions', stats['q'], 'with excerpts', stats['with'])
