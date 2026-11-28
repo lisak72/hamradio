@@ -23,6 +23,7 @@ import spektrum_pasma
 import pasma_provoz
 import mapy_prefixu
 import doplnky
+import pravidla
 from odf.draw import Frame, Image as DImage
 
 SP = sys.argv[1]  # kořen projektu (~/Desktop/HAREC)
@@ -786,6 +787,17 @@ para(info, doplnky.TAHAK_INTRO)
 for gtitle, grows in doplnky.TAHAK:
     doc.text.addElement(H(outlinelevel=3, stylename=h3, text=gtitle))
     table(['7.0cm', '7.0cm', '3.0cm'], doplnky.TAHAK_HEADER, grows, [tcode, tcell, tcell])
+
+# ---- závěrečný oddíl: pravidla a souvislosti pro snadnější zapamatování
+doc.text.addElement(H(outlinelevel=1, stylename=h1, text=pravidla.TITLE))
+para(info, pravidla.INTRO)
+doc.text.addElement(H(outlinelevel=3, stylename=h3, text=pravidla.BAND_TITLE))
+table(['2.9cm', '4.1cm', '2.9cm', '1.9cm', '5.2cm'], pravidla.BAND_HEADER, pravidla.BAND_ROWS,
+      [tcode, tcell, tcell, tcell, tcell])
+para(cap, pravidla.BAND_NOTE)
+for gtitle, grows in pravidla.GROUPS:
+    doc.text.addElement(H(outlinelevel=3, stylename=h3, text=gtitle))
+    table(['4.6cm', '9.4cm', '3.0cm'], pravidla.HEADER, grows, [tcode, tcell, tcell])
 
 doc.save(OUT)
 print('questions', stats['q'], 'with excerpts', stats['with'])

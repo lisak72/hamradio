@@ -1,7 +1,7 @@
 # HAREC A – otázky ČTÚ s výňatky z předpisů
 
 Výstup: `HAREC_A_otazky_s_predpisy.odt` – všechny otázky pro průkaz HAREC třídy A (verze ČTÚ 05/2026),
-správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvodňují. Sestaveno 11. 11. 2026, aktualizováno 27. 11. 2026 – doplňky podle e-booků (S-metr, Z praxe c), vysvětlivky i), tahák vzorců), ověřena aktuálnost ČTÚ; 20. 11. 2026 – příloha pásma podle druhů provozu; 16. 11. 2026 – mapy prefixů podle kontinentů; 15. 11. 2026 – obrázky k elektrotechnice c)–f), pásma v MHz; dříve 14. 11. 2026 (ověřena aktuálnost + seznam zkratek + příloha s výtahem z CEPT T/R 61-01/61-02).
+správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvodňují. Sestaveno 11. 11. 2026, aktualizováno 28. 11. 2026 – závěrečný oddíl s pravidly pro zapamatování; 27. 11. 2026 – doplňky podle e-booků (S-metr, Z praxe c), vysvětlivky i), tahák vzorců), ověřena aktuálnost ČTÚ; 20. 11. 2026 – příloha pásma podle druhů provozu; 16. 11. 2026 – mapy prefixů podle kontinentů; 15. 11. 2026 – obrázky k elektrotechnice c)–f), pásma v MHz; dříve 14. 11. 2026 (ověřena aktuálnost + seznam zkratek + příloha s výtahem z CEPT T/R 61-01/61-02).
 
 ## Struktura
 - `zdroje/ctu/` – PDF otázek ČTÚ (`amaterske_zkousky_faq_05-2026.pdf`) a text (`pdftotext -layout`)
@@ -77,6 +77,10 @@ správná odpověď a doslovné výňatky z předpisů, které odpověď zdůvod
   jen klubové stanice); 20 m (14 MHz) fonie až od 14 112 kHz (ČTÚ provoz a) 15: 14 101–14 350); TVI „horní propust“ (ČTÚ i) 3:
   „dolnofrekvenční zádrž“ – totéž, jiný název); jen mezinárodní hláskování (vyhl. 155: vnitrostátně i česká); F2 ≈ 150 km (chyba).
   Cvičné testy z e-booků nejsou otázky ČTÚ – nepřebírat.
+- `skripty/pravidla.py` – úplně poslední oddíl „Pravidla a souvislosti pro snadnější zapamatování“ (za tahákem): přehledová
+  tabulka KV pásem CW → digi → maják IBP → FONE (`BAND_ROWS`) + skupiny pravidel `GROUPS` (pravidlo, příklady a výjimky, odkazy
+  na otázky). Pravidla odvozena z odpovědí ČTÚ, výjimky vždy uvést; opory: plán IARU R1 HF (majáky 14 099–14 101 kHz atd.,
+  nejnižší LSB 1 843/3 603/7 053 kHz), vyhl. 156 (§ 4, § 9, příl. 1). Při změně otázek ČTÚ zkontrolovat čísla v odkazech.
 - `skripty/build.py` – přiřazení výňatků k otázkám + seznam zkratek (za úvodem) + generování ODT (odfpy)
 
 ## Postup sestavení (opakovatelný)
